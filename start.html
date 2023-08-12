@@ -1,228 +1,81 @@
+<!DOCTYPE html>
 <html>
-    <head>
-		<title>OSQS Survey</title>
-    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<head>
+  <title>CAG OSQS Survey</title>
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+
+<style>
   
-		<script src="data/quota_data.js"></script>
-		<script src="data/BUD_flight_list.js"></script>
-    <script src="data/invalid_cases.js"></script>
-    <script src="scripts/PrepareData.js"></script>
-		<script src="scripts/CalculateData.js"></script>
-    <script src="scripts/flight_search.js"></script>
-    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_sur/BUD_Commercial/data/interview_data.js"></script> 
+  /* h1 {text-align: center;}
+  h2 {text-align: center;}
+ */
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 300px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 
-    <link href="css/styles.css" rel ="stylesheet" type="text/css" />
-    <style>
-      .table-font {
-        font-size: 16px;
-        /* height: 18px; */
-      }
+.red {background-color: #f44336;;} /* Red */
+.blue {background-color: #008CBA;;} /* Blue */ 
 
-      .filter-font {
-        font-size: 16px;
-        /* height: 18px; */
-      }
-       .button {
-        border: none;
-        color: white;
-        padding: 15px 15px;
-        text-align: center;
-        justify-content: center;
-        align-items: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 18px;
-        width: 200px;
-        margin: 4px 2px;
-        cursor: pointer;
-        margin: 0;
-        position: relative;
-        left: 50%;
-        -ms-transform: translate(-50%, -50%);
-        transform: translate(-50%, -50%);
-      }
+</style>
 
-      .red {background-color: #f44336;;} /* Red */
-      .blue {background-color: #0099CC;;} /* Blue */ 
-      .yellow {background-color: #da872b;;} /* Yellow */ 
-      
-      h1 {text-align: center;}
-    </style>
 
-		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      var lat;
-      var long;
-      function isNextDay()
-      {
-        const queryString = window.location.search;
-        const urlParams = new URLSearchParams(queryString);
+</head>
+<body>
 
-        //?nextday=true
-        return(urlParams.has('nextday'));
-      }
-      //google.charts.load('current', {'packages':['table']});
-      google.charts.load('current', {'packages':['table','corechart', 'controls']});
-      google.charts.setOnLoadCallback(drawTable);
-
-      function drawTable() {
-        CalculateAirportAirLineReport();
-        var data = new google.visualization.DataTable();
-
-        data.addColumn('string', 'Time');
-        data.addColumn('string', 'Flight');
-        data.addColumn('string', 'To');
-        data.addColumn('string', 'Schengen');
-        //data.addColumn('string', 'DOOP');
-        data.addColumn('number', 'Remaining Flights');
-        data.addColumn('number', 'Quota');
-        data.addColumn('number', 'Completed');
-				data.addColumn('number', 'Missing');
-        data.addColumn('number', 'Missing %');
-        data.addColumn('number', 'Priority Score');
-        data.addColumn('number', 'Priority');
-        
-        //add data
-        for (i = 0; i < daily_plan_data.length; i++) {
-          var row = daily_plan_data[i];
-            { 
-                data.addRows([[row.Date_Time, 
-                row.Flight, row.DestName,  row.Schengen,
-                //row.doop, 
-                Number(row.remaining_flights), 
-                Number(row.Quota), Number(row.Completed), Number(row.Difference), 
-                Number(row.Difference_percent), 
-                Number(row.Prioritisation_score), 
-                Number(row.Priority)]]);
-            }
-          }
-
-        //highlight priority one
-        var priority_col = data.getNumberOfColumns()-1; //last one
-        for (var i = 0; i < data.getNumberOfRows(); i++) {
-          for (j=0; j < data.getNumberOfColumns(); j++) {
-            if (data.getValue(i, priority_col) ==1) 
-            {
-              data.setProperty(i, j, 'style', 'background-color:#FFCCCB');
-            }
-            else {
-              //data.setProperty(i, j, 'style', 'background-color:white; font-size: 15px');
-            }
-          }
-        }
-
-        //create a dashboard.
-        var dashboard = new google.visualization.Dashboard(
-        document.getElementById('dashboard_div'));
-
-        //create fiter
-        var options = {
-          'filterColumnLabel': 'Schengen',
-          "ui": {"label": "", 
-                "labelStacking": 'horizotal',
-                "caption": "Filter by Schengen/Non-Schengen",
-                }
-        };
-        
-        var tableFilter = new google.visualization.ControlWrapper({
-          'controlType': 'CategoryFilter',
-          'containerId': 'filter_div',
-          'options': options
-        });
-
-        // Create table
-        var tableChart = new google.visualization.ChartWrapper({
-          'chartType': 'Table',
-          'containerId': 'table_div',
-          'options': {
-            'allowHtml': true, 
-            'cssClassNames': {tableCell: 'table-font', headerRow: 'table-font', headerCell: 'googleHeaderCell' },
-            'sortColumn': 0, //time
-            'showRowNumber': false, 'width': '100%', 'height': '100%'
-          }
-        });
-
-        dashboard.bind(tableFilter, tableChart);
-
-        var view = new google.visualization.DataView(data);
-        view.hideColumns([priority_col, priority_col-1]); //hide priority one
-        //document.getElementById("filter_div").style.display = "none";
-        dashboard.draw(view);
-
-         //overall_status
-        var overall_status =  "Total quota: " + total_quota;
-        overall_status += " - Total completed: " + total_completed + " (" + total_completed_percent + "%)";
-        document.getElementById("overall_status").innerHTML =overall_status + " | " + "Data updated at " + download_time;
-     }
-    
-     function getGeoSuccessCallback(position) {
-        console.log(position);
-        lat = position.coords.latitude;
-        long = position.coords.longitude;
-      };
-
-      function getGeoErrorCallback(error){
-        console.log(error);
-      };
-
+  <script>
     function start_new_interview() {
-     
       console.log("start_new_interview");
-     
-      let url = "https://silverliningresearch.github.io/cag_osqs/survey.html?";
-      
-      //
-      url = url + "urlVar01=" + "Siew Lee";
-      url = url + "&urlVar02=" + "Starbucks Coffee (Premises B)♦TERMINAL 1♦Airside♦#02-59♦FBA♦Min6";
-      url = url + "&urlVar03=" + lat;
-      url = url + "&urlVar04=" + long;
+      window.localStorage.clear();
 
-      document.getElementById('inputFlightCodeID').value = "";
+      let url = "https://silverliningresearch.github.io/cag_osqs/survey";
       window.location.href = url;
     }
 
-      window.addEventListener('load', function () {
-      load_flight_list();
-      navigator.geolocation.getCurrentPosition(getGeoSuccessCallback, getGeoErrorCallback);
-      document.getElementById('inputFlightCodeID').value = "";
-    });
+    function resume_curent_interview() {
+      console.log("resume_curent_interview");
+      let url = "https://silverliningresearch.github.io/cag_osqs/survey";
+      window.location.href = url;
+    }
+
+</script>
+  </br>
+  </br>
+  <button onclick="start_new_interview()" class="button red">Start a new interview</button>
+  <button onclick="resume_curent_interview()" class="button blue">Resume the current interview </button>
+
+  <p>
+	</br>
+    *<strong>Resume the current interview</strong> will continue from the last question in the current interview.</br>
+	</br></br></br>  
+  </p>
 
 
-    </script>
-  </head>
-  <body>
+  <div style="background-color: lightblue;">
+  </br>
+  </div>
 
-    <h4  style="text-align:center;">OSQS Survey</h4>
+  <h2>
+    Interviewer Information
+  </h2>
+  <h3>
     </br>
-  <!-- </br></br></br> -->
-    <div>
-      <input list="flightDropBoxList" 
-        onchange="select_flight()"  
-        onkeyup="update_drop_box_list()" 
-        placeholder="Please key in flight number:"
-        name="inputFlightCodeID" id="inputFlightCodeID" >
-      <datalist id="flightDropBoxList">
-    </div>  
-  
-    <div>
-      </br></br></br> </br></br>
-      <button onclick="start_new_interview()" class="button yellow">Start survey</button>
-      </br></br>
-    </div>
+    <a href="https://silverliningresearch.github.io/cag_osqs/QuotaReport.html" target="_blank">
+Quota Report - OSQS Survey
+    </a>
+  </h3>
 
-    
-    <div style="background-color:#efcb65">
-      </br>
-    </div>
-    
-    <h4 id="overall_status"></h4>
 
-    <div id="dashboard_div">
-      <!--Divs that will hold each control and chart-->
-      <div id="filter_div" style="font-size: 15px"> </div>
-        </br>
-      <div id="table_div"></div>
-    </div>
-
-  </body>
+</body>
 </html>
+
+

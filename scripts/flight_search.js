@@ -107,7 +107,7 @@ function load_flight_list() {
 }
 
 function update_drop_box_list() {
-  var input = document.getElementById('inputFlightCodeID').value;
+  var input = document.getElementById('inputOutletNameID').value;
   var searchList = document.getElementById('flightDropBoxList');
   
   searchList.innerHTML = '';
@@ -137,18 +137,18 @@ function update_drop_box_list() {
     }
   }
 
-  if (flight_in_list_found(flightList, document.getElementById('inputFlightCodeID').value)) {
-    console.log("Found ", document.getElementById('inputFlightCodeID').value);
+  if (flight_in_list_found(flightList, document.getElementById('inputOutletNameID').value)) {
+    console.log("Found ", document.getElementById('inputOutletNameID').value);
   }
   else{
-    console.log("Not found ", document.getElementById('inputFlightCodeID').value);
+    console.log("Not found ", document.getElementById('inputOutletNameID').value);
   }  
   
   console.log("search flight done!");
 }
 
 function select_flight() {
-  var selectedFlight = document.getElementById('inputFlightCodeID').value;
+  var selectedFlight = document.getElementById('inputOutletNameID').value;
   var found = false;
 
   for (i = 0; i < flightShortList.length; i++) {
