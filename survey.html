@@ -38,6 +38,14 @@
     <script src="https://survalyzer.survalyzer.eu/assets/survalyzer-survey.js"></script>
 
     <script>
+        function getGeoSuccessCallback(position) {
+          console.log(position);
+        };
+
+        function getGeoErrorCallback(error){
+          console.log(error);
+        };
+
         window.addEventListener('load', function () {
         setTimeout(() => {
           const listSearchHandler = () => {
@@ -47,12 +55,23 @@
               const queryString = window.location.search;
               const urlParams = new URLSearchParams(queryString);
               const urlVar01 = urlParams.get('urlVar01');
-              const urlVar02 = urlParams.get('urlVar02')
+              const urlVar02 = urlParams.get('urlVar02');
+              const urlVar03 = urlParams.get('urlVar03');
+              const urlVar04 = urlParams.get('urlVar04');
 
               api.fn.answers({Interviewer: urlVar01});
               api.fn.answers({Q1_0_1_text: urlVar02});
+              api.fn.answers({Latitude: urlVar03});
+              api.fn.answers({Longitude: urlVar04});
+
               api.fn.answers({urlVar01: urlVar01});
               api.fn.answers({urlVar02: urlVar02});
+              api.fn.answers({urlVar03: urlVar03});
+              api.fn.answers({urlVar04: urlVar04});
+            }
+            else if (api.fn.getCurrentPageIndex()==1) 
+            {
+              //navigator.geolocation.getCurrentPosition(getGeoSuccessCallback, getGeoErrorCallback);
             }
           };
 
