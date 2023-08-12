@@ -62,7 +62,7 @@
         document.getElementById('dashboard_div'));
 
         //create fiter
-        var options = {
+        var filter_cluster_options = {
           // 'allowHtml': true, 
           'filterColumnLabel': 'Cluster',
           "ui": {"label": "", 
@@ -70,10 +70,10 @@
                 "caption": "Select Cluster"
                 }
         };
-        var tableFilter = new google.visualization.ControlWrapper({
+        var tableFilterCluster = new google.visualization.ControlWrapper({
           'controlType': 'CategoryFilter',
           'containerId': 'filter_div',
-          'options': options
+          'options': filter_cluster_options
         });
   
         //create filter_terminal
@@ -100,11 +100,13 @@
                 "caption": "Select Area"
                 }
         };
+
         var tableFilterAL = new google.visualization.ControlWrapper({
           'controlType': 'CategoryFilter',
           'containerId': 'filter_area',
           'options': filter_AL_options
         });
+
         
         // Create table
         var tableChart = new google.visualization.ChartWrapper({
@@ -118,7 +120,7 @@
           }
         });
 
-        dashboard.bind(tableFilter, tableChart);
+        dashboard.bind(tableFilterCluster, tableChart);
         dashboard.bind(tableFilterTerminal, tableChart);
         dashboard.bind(tableFilterAL, tableChart);
 
@@ -127,7 +129,7 @@
         dashboard.draw(view);
 
         //Update time info
-        document.getElementById("download_time").innerHTML = "*Data updated: " + "18/02/2023 22:15"//Data updated
+        document.getElementById("download_time").innerHTML = "Data updated: " + "12/08/2023 22:15"//Data updated
         var str =  "Total quota: " + total_quota  + " - completed: " + total_completed + " - remaining: " + total_remaining;
         str = str + " | " +  "Hard quota: " + hard_quota  + " - completed: " + hard_quota_completed + " - remaining: " + hard_quota_remaining;
         str = str + " | " +  "Flexible quota remaining: "+  felxible_quota_remaining;
@@ -136,12 +138,13 @@
     </script>
   </head>
   <body>
-    <h4 id="total_quota"></h4>
-    <h5 id="hard_quota"></h4>
-    <h5 id="flexible_quota"></h4>
-    <h5 id="download_time"></h4>
 
-    <h1>Remaining list</h1>
+    <h2>Quota Report - OSQS Survey</h2>
+    <h5 id="total_quota"></h5>
+    <h5 id="hard_quota"></h5>
+    <h5 id="flexible_quota"></h5>
+    <h5 id="download_time"></h5>
+
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
       <div id="filter_terminal" style="font-size: 15px"> </div>
