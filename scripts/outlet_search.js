@@ -18,7 +18,7 @@ function load_postal_code() {
 
   postalCode = [];
 
-  for (i = 0; i<temp_data.length; i++ )
+  for (var i = 0; i<temp_data.length; i++ )
   {
     item = temp_data[i];
     if ((item["Terminal"] == "TERMINAL " +  terminal)
@@ -41,7 +41,8 @@ function contains(str1, str2) {
 
 function show_outlet_search_box() {
     load_postal_code();  
-    if (data) {
+    //if (data) {
+    if (0) {
     // the variable is defined
       data = postalCode;
     }
