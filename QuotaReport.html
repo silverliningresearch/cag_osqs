@@ -64,6 +64,21 @@
         var dashboard = new google.visualization.Dashboard(
         document.getElementById('dashboard_div'));
 
+        //create Missing Quota fiter
+        var missing_quota_options = {
+        // 'allowHtml': true, 
+        'filterColumnLabel': 'Missing',
+        "ui": {"label": "", 
+              "labelStacking": 'horizotal',
+              "caption": "Select Missing Quota"
+              }
+        };
+        var tableFilterMissingQuota = new google.visualization.ControlWrapper({
+          'controlType': 'CategoryFilter',
+          'containerId': 'filter_missing_quota',
+          'options': missing_quota_options
+        });
+
         //create fiter
         var filter_cluster_options = {
           // 'allowHtml': true, 
@@ -75,7 +90,7 @@
         };
         var tableFilterCluster = new google.visualization.ControlWrapper({
           'controlType': 'CategoryFilter',
-          'containerId': 'filter_div',
+          'containerId': 'filter_cluster',
           'options': filter_cluster_options
         });
   
@@ -126,6 +141,7 @@
         dashboard.bind(tableFilterCluster, tableChart);
         dashboard.bind(tableFilterTerminal, tableChart);
         dashboard.bind(tableFilterAL, tableChart);
+        dashboard.bind(tableFilterMissingQuota, tableChart);
 
         var view = new google.visualization.DataView(data);
         //view.hideColumns([priority_col, priority_col-1]); //hide priority one
@@ -150,7 +166,8 @@
       <!--Divs that will hold each control and chart-->
       <div id="filter_terminal" style="font-size: 15px"> </div>
       <div id="filter_area" style="font-size: 15px"> </div>
-      <div id="filter_div" style="font-size: 15px"> </div>
+      <div id="filter_cluster" style="font-size: 15px"> </div>
+      <div id="filter_missing_quota" style="font-size: 15px"> </div>
       
       <!-- <div id="2017" style="z-index:1;position: fixed;top: 70px;left: 850px;font-family: Arial;font-size: 13;color:red;">2017</div> -->
       </br>
