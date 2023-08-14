@@ -66,14 +66,18 @@
           const listSearchHandler = () => {
             console.log("Current Page Index: ", api.fn.getCurrentPageIndex() );
             
-            if (api.fn.getCurrentPageIndex() === 2) {
+            //if (api.fn.getCurrentPageIndex() === 2) {
+              //#Name_of_Retail_Service_Outlet_TAG
+            var outlet_Tag = $("section:contains('Name_of_Retail_Service_Outlet_TAG')")
+            console.log(outlet_Tag);
+            if ((outlet_Tag.length === 1)) {
               show_outlet_search_box();
-              navigator.geolocation.getCurrentPosition(getGeoSuccessCallback, getGeoErrorCallback);
             } else {
               hide_outlet_search_box();
             }
 
             if ( api.fn.getCurrentPageIndex()==0) {
+              //navigator.geolocation.getCurrentPosition(getGeoSuccessCallback, getGeoErrorCallback);
               // const queryString = window.location.search;
               // const urlParams = new URLSearchParams(queryString);
               // const urlVar01 = urlParams.get('urlVar01');
