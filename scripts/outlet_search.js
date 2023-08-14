@@ -53,31 +53,31 @@ function load_outlets_list() {
   console.log("load_outlet_code done!");
 }
 
-function update_outlet_list_for_drop_box() {
-  var input = document.getElementById('inputOutletID').value;
+
+function load_outlet_list_for_drop_box(input) {
   var searchList = document.getElementById('outletsDropBoxList');
-  
   searchList.innerHTML = '';
   outletsShortList = [];
   outletsShortList.length = 0;
 
   input = input.toLowerCase();
 
-  var count = 0;
   for (i = 0; i < outletsList.length; i++) {
     let item = outletsList[i];
-    if (item.Show.toLowerCase().includes(input)) {
+    if ((input == "all") || 
+        (item.Show.toLowerCase().includes(input))) {
       const elem = document.createElement("option");
       elem.value = item.Show;
       searchList.appendChild(elem);
       outletsShortList.push(item);
-      count++;
-    }
-   
-    if (count > 30) {
-      break;
     }
   }
+}
+
+function update_outlet_list_for_drop_box() {
+  var input = document.getElementById('inputOutletID').value;
+
+  load_outlet_list_for_drop_box(input);
 
   if (outlet_in_list_found(outletsList, document.getElementById('inputOutletID').value)) {
     console.log("Found ", document.getElementById('inputOutletID').value);
@@ -123,6 +123,7 @@ function show_outlet_search_box() {
   $('.rt-element.rt-text-container').append(`<input list="outletsDropBoxList" onchange="select_oulet()"  onkeyup="update_outlet_list_for_drop_box()" name="inputOutletID" id="inputOutletID">
   <datalist id="outletsDropBoxList"> </datalist>`);
  
+  load_outlet_list_for_drop_box("all");
 
   var currentValue  = api.fn.answers().Outlet_ID;
   if (currentValue) {
