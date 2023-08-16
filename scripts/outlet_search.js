@@ -18,8 +18,8 @@ function item_in_list_found(list, item) {
 }
 
 function load_outlets_list() {
-  var terminal  = api.fn.answers().Q10_1;
-  var area  = api.fn.answers().Q10_2;
+  var terminal  = api.fn.answers().Q1_0_1;
+  var area  = api.fn.answers().Q1_0_2;
   var temp_data = JSON.parse(quota_list);
  
   if (area == 1) area_text = "Airside F&B";
