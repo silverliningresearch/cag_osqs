@@ -25,10 +25,7 @@ function prepareData() {
 
     quota.Completed  = 0;
     for (j = 0; j<interview_data.length; j++ ) {
-
       interview = interview_data[j];
-      console.log("interview",interview );
-      console.log("quota.quota_id",quota.quota_id );
       if ( quota.quota_id == interview.quota_id) {
         quota.Completed = quota.Completed + interview["Number of interviews"];
 

@@ -1,7 +1,7 @@
 <html>
   <head>
 		<title>Quota Report - OSQS Survey</title>
-
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <script src="scripts/PrepareData.js"></script>
 
     <script src="data/quota.js"></script>
@@ -30,7 +30,7 @@
 
         //define header
         data.addColumn('number', 'Com ID');
-        data.addColumn('number', 'Cluster');
+        //data.addColumn('number', 'Cluster');
         data.addColumn('string', 'Terminal');
         data.addColumn('string', 'AL');
         data.addColumn('string', 'Category');
@@ -46,7 +46,7 @@
           data.addRows([
           [
             row["Com ID"],
-            Number(row.Cluster),
+            //Number(row.Cluster),
             row.Terminal,
             row.AL, 
             row.Category, 
@@ -78,21 +78,6 @@
           'options': missing_quota_options
         });
 
-        //create fiter
-        var filter_cluster_options = {
-          // 'allowHtml': true, 
-          'filterColumnLabel': 'Cluster',
-          "ui": {"label": "", 
-                "labelStacking": 'horizotal',
-                "caption": "Select Cluster"
-                }
-        };
-        var tableFilterCluster = new google.visualization.ControlWrapper({
-          'controlType': 'CategoryFilter',
-          'containerId': 'filter_cluster',
-          'options': filter_cluster_options
-        });
-  
         //create filter_terminal
         var filter_terminal_options = {
           // 'allowHtml': true, 
@@ -137,7 +122,6 @@
           }
         });
 
-        dashboard.bind(tableFilterCluster, tableChart);
         dashboard.bind(tableFilterTerminal, tableChart);
         dashboard.bind(tableFilterAL, tableChart);
         dashboard.bind(tableFilterMissingQuota, tableChart);
@@ -165,7 +149,6 @@
       <!--Divs that will hold each control and chart-->
       <div id="filter_terminal" style="font-size: 15px"> </div>
       <div id="filter_area" style="font-size: 15px"> </div>
-      <div id="filter_cluster" style="font-size: 15px"> </div>
       <div id="filter_missing_quota" style="font-size: 15px"> </div>
       
       <!-- <div id="2017" style="z-index:1;position: fixed;top: 70px;left: 850px;font-family: Arial;font-size: 13;color:red;">2017</div> -->
