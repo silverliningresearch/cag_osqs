@@ -16,6 +16,34 @@
         font-size: 16px;
         /* height: 18px; */
       }
+
+      .year_month{
+        font-size: 15px;
+        padding: 10px 8px 10px 14px;
+        background: #eee;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        overflow: hidden;
+        position: relative;
+      }
+
+      .year_month .select{
+        width: 120%;
+        background:url('arrow.png') no-repeat;
+        background-position:80% center;
+      }
+
+      .year_month .select select{
+        background: transparent;
+        line-height: 1;
+        border: 0;
+        padding: 0;
+        border-radius: 0;
+        width: 120%;
+        position: relative;
+        z-index: 10;
+        font-size: 1em;
+      }
     </style>
 
 		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -30,7 +58,7 @@
 
         //define header
         data.addColumn('number', 'Com ID');
-        //data.addColumn('number', 'Cluster');
+        data.addColumn('number', 'Cluster');
         data.addColumn('string', 'Terminal');
         data.addColumn('string', 'AL');
         data.addColumn('string', 'Category');
@@ -46,7 +74,7 @@
           data.addRows([
           [
             row["Com ID"],
-            //Number(row.Cluster),
+            Number(row.Cluster),
             row.Terminal,
             row.AL, 
             row.Category, 
@@ -93,6 +121,21 @@
           'options': filter_terminal_options
         });
 
+        //create filter_terminal
+        var filter_cluster_options = {
+          // 'allowHtml': true, 
+          'filterColumnLabel': 'Cluster',
+          "ui": {"label": "", 
+                "labelStacking": 'horizotal',
+                "caption": "Select Cluster"
+                }
+        };
+        var tableFilterCluster = new google.visualization.ControlWrapper({
+          'controlType': 'CategoryFilter',
+          'containerId': 'filter_cluster',
+          'options': filter_cluster_options
+        });
+
         //create filter_AL
         var filter_AL_options = {
         // 'allowHtml': true, 
@@ -122,6 +165,7 @@
           }
         });
 
+        dashboard.bind(tableFilterCluster, tableChart);
         dashboard.bind(tableFilterTerminal, tableChart);
         dashboard.bind(tableFilterAL, tableChart);
         dashboard.bind(tableFilterMissingQuota, tableChart);
@@ -145,10 +189,22 @@
     <h4 id="total_quota"></h4>
     <h4 id="download_time"></h4>
 
+    <div class="year_month">
+      <label for="year_month">Data collection period:</label>
+      <select id="year_month" onchange="drawTable()">
+        <option value="current-month">current month
+          <option value="09-2023">09-2023
+          <option value="08-2023">08-2023
+      </select>
+    </div>
+    
+    </br>
+    
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
       <div id="filter_terminal" style="font-size: 15px"> </div>
       <div id="filter_area" style="font-size: 15px"> </div>
+      <div id="filter_cluster" style="font-size: 15px"> </div>
       <div id="filter_missing_quota" style="font-size: 15px"> </div>
       
       <!-- <div id="2017" style="z-index:1;position: fixed;top: 70px;left: 850px;font-family: Arial;font-size: 13;color:red;">2017</div> -->
