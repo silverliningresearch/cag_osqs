@@ -93,6 +93,10 @@ function prepareData() {
   for (j = 0; j<interview_data_temp.length; j++ ) {
     if (isCurrentMonth(interview_data_temp[j].InterviewDate)) 
     {
+      //clean data
+      if ((interview_data_temp[j].InterviewDate == "2023-09-01") && (interview_data_temp[j].quota_id == "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u266602-26\u2666FBA\u2666Min6")) {
+        interview_data_temp[j].quota_id = "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min9"
+      }
       interview_data.push(interview_data_temp[j]);
     }
   }

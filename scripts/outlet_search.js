@@ -36,11 +36,14 @@ function load_outlets_list() {
   outletsList = [];
 
   var i;
+  initCurrentTimeVars();
   for (i = 0; i<temp_data.length; i++ )
   {
     item = temp_data[i];
+    var quota_month =  temp_data[i].Month + "-"  + temp_data[i].Year; 
     if ((item["Terminal"] == "TERMINAL " +  terminal)
     && (item["AL"] == area_text)
+    && (quota_month == currentMonth)
     )
     { 
       item.Show = item.quota_id;
