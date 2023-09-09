@@ -67,7 +67,16 @@
         data.addColumn('number', 'Quota');
         data.addColumn('number', 'Completed');
 				data.addColumn('number', 'Missing');
+        data.addColumn('string', 'Need more?');
 
+        //add data
+        for (i = 0; i < quota_data.length; i++) {
+          var row = quota_data[i];
+          quota_data[i].Need_more = "Yes";
+          if (Number(row.Missing<1)) {
+            quota_data[i].Need_more = "No";
+          }
+        }  
         //add data
         for (i = 0; i < quota_data.length; i++) {
           var row = quota_data[i];
@@ -82,7 +91,8 @@
             row.Number,
             Number(row.Quota),
             Number(row.Completed),
-            Number(row.Missing)
+            Number(row.Missing),
+            row.Need_more
           ]
           ]);
 			  }	
@@ -94,10 +104,10 @@
         //create Missing Quota fiter
         var missing_quota_options = {
         // 'allowHtml': true, 
-        'filterColumnLabel': 'Missing',
+        'filterColumnLabel': 'Need more?',
         "ui": {"label": "", 
               "labelStacking": 'horizotal',
-              "caption": "Select Missing Quota"
+              "caption": "Need more?"
               }
         };
         var tableFilterMissingQuota = new google.visualization.ControlWrapper({
