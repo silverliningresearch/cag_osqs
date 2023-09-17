@@ -1568,7 +1568,7 @@
         "AL": "Airside F&B",
         "Cluster": 14.0,
         "Name": "Starbucks",
-        "Number": "#02-095-06",
+        "Number": "#026-095-06",
         "Quota": 9,
         "Year": "2023",
         "Month": "09"
@@ -1854,7 +1854,7 @@
         "AL": "Airside Shops",
         "Cluster": 16.0,
         "Name": "Ray-Ban",
-        "Number": "#02-152 (#02-094)",
+        "Number": "#02-152 (#026-094)",
         "Quota": 9,
         "Year": "2023",
         "Month": "09"
@@ -2252,9 +2252,9 @@
     {
         "quota_id": "Baggage Storage\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min9",
         "Com ID": 174,
-        "Category": "Shops",
+        "Category": "Services",
         "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
+        "AL": "Airside Services",
         "Cluster": 20.0,
         "Name": "Baggage Storage",
         "Number": "#02-242",
@@ -5641,7 +5641,49 @@
         "Quota": 9,
         "Year": "2023",
         "Month": "09"
+    },
+    {
+        "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS\u2666Min9",
+        "Com ID": 435,
+        "Category": "Services",
+        "Terminal": "TERMINAL 4",
+        "AL": "Landside Services",
+        "Cluster": 50.0,
+        "Name": "Premises B - Baggage Storage by Smarte Carte (Landside)",
+        "Number": "#01-02",
+        "Quota": 9,
+        "Year": "2023",
+        "Month": "09"
+    },
+    {
+        "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP\u2666Min9",
+        "Com ID": 436,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Shops",
+        "Cluster": 50.0,
+        "Name": "LACOSTE",
+        "Number": "#02-48",
+        "Quota": 9,
+        "Year": "2023",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min9",
+        "Com ID": 437,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 50.0,
+        "Name": "Old Seng Choong",
+        "Number": "#02-175/176",
+        "Quota": 9,
+        "Year": "2023",
+        "Month": "09"
     }
+
+
+    
 ]    
 
  `;
