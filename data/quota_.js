@@ -5680,58 +5680,6 @@
         "Quota": 9,
         "Year": "2023",
         "Month": "09"
-    },
-    {
-        "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min9",
-        "Com ID": 438,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 50,
-        "Name": "myEureka",
-        "Number": "#02-181",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "09"
-    },
-    {
-        "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min9",
-        "Com ID": 439,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Shops",
-        "Cluster": 50,
-        "Name": "Goldheart",
-        "Number": "#02-47",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "09"
-    },
-    {
-        "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT\u2666Min9",
-        "Com ID": 440,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Shops",
-        "Cluster": 50,
-        "Name": "Lego",
-        "Number": "#02-55",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "09"
-    },
-    {
-        "quota_id": "Paris Baguette\u2666TERMINAL 4\u2666Landside\u2666#01-05\u2666FBL\u2666Min9",
-        "Com ID": 441,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 4",
-        "AL": "Landside F&B",
-        "Cluster": 50,
-        "Name": "Paris Baguette",
-        "Number": "#01-05",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "09"
     }
 ]    
 
