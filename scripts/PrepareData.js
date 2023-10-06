@@ -69,7 +69,43 @@ function isCurrentMonth(interviewEndDate)
    return result;
 }
 
+function clean_data ()
+{
+  for (i = 0; i<interview_data.length; i++ )
+  {
+    //clean data
+   // console.log("interview_data[i]: ", interview_data[i].InterviewDate.substring(0,7) );
+    if (interview_data[i].InterviewDate.substring(0,7) == "2023-09") {
+      if (interview_data[i].quota_id == "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u266602-26\u2666FBA\u2666Min6") {
+        interview_data[i].quota_id = "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min9"
+      }
+    }
 
+    if (interview_data[i].InterviewDate.substring(0,7) == "2023-10") {
+
+      if ( interview_data[i].quota_id == "Baggage Storage\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min9") 
+      {     
+        interview_data[i].quota_id = "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min9";
+      }  
+      if ( interview_data[i].quota_id == "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT\u2666Min25") interview_data[i].quota_id = "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT\u2666Min15";
+      if ( interview_data[i].quota_id == "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min25") interview_data[i].quota_id = "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min15";
+      if ( interview_data[i].quota_id == "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min20") interview_data[i].quota_id = "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15";
+      if ( interview_data[i].quota_id == "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min25") interview_data[i].quota_id = "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15";
+      if ( interview_data[i].quota_id == "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT\u2666Min25") interview_data[i].quota_id = "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT\u2666Min15";
+      if ( interview_data[i].quota_id == "LT T3 Arrival South\u2666TERMINAL 3\u2666Airside\u2666#01-19\u2666LT\u2666Min25") interview_data[i].quota_id = "LT T3 Arrival South\u2666TERMINAL 3\u2666Airside\u2666#01-19\u2666LT\u2666Min15";
+      if ( interview_data[i].quota_id == "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT\u2666Min25") interview_data[i].quota_id = "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT\u2666Min15";
+      if ( interview_data[i].quota_id == "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min25") interview_data[i].quota_id = "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min15";
+      if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC\u2666Min25") interview_data[i].quota_id = "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC\u2666Min15";
+      if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T1 ABW)\u2666TERMINAL 1\u2666Airside\u2666#01-22F\u2666PC\u2666Min25") interview_data[i].quota_id = "Perfumes & Cosmetics (T1 ABW)\u2666TERMINAL 1\u2666Airside\u2666#01-22F\u2666PC\u2666Min15";
+      if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min20") interview_data[i].quota_id = "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min15";
+      if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC\u2666Min25") interview_data[i].quota_id = "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC\u2666Min15";
+      if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min25") interview_data[i].quota_id = "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min15";
+      if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min25") interview_data[i].quota_id = "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min15";
+      if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min25") interview_data[i].quota_id = "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15";
+  }  
+
+  }
+}
 function prepareData() {
   initCurrentTimeVars();			
 
@@ -93,11 +129,8 @@ function prepareData() {
   for (j = 0; j<interview_data_temp.length; j++ ) {
     if (isCurrentMonth(interview_data_temp[j].InterviewDate)) 
     {
-      //clean data
-      if ((interview_data_temp[j].InterviewDate == "2023-09-01") && (interview_data_temp[j].quota_id == "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u266602-26\u2666FBA\u2666Min6")) {
-        interview_data_temp[j].quota_id = "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min9"
-      }
       interview_data.push(interview_data_temp[j]);
+      clean_data();
     }
   }
 
@@ -133,4 +166,23 @@ function prepareData() {
   total_remaining = total_quota - total_completed;
   minium_quota_remaining = minium_quota - minium_quota_completed;
   felxible_quota_remaining = total_remaining - minium_quota_remaining;
+
+  
+  //check what not belong to quota data
+  var found_temp = 0;
+  var not_in_quota_list =[];
+  for (i = 0; i < interview_data.length; i++) 
+  {
+    found_temp = 0;
+    for (j = 0; j < quota_data.length; j++) 
+    {
+      if (quota_data[j].quota_id == interview_data[i].quota_id) 
+      { 
+        found_temp = 1;
+      }
+    }
+    if (found_temp==0) not_in_quota_list.push(interview_data[i]);
+  }
+  console.log("not_in_quota_list: ", not_in_quota_list);
+
 }
