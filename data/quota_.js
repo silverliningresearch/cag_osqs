@@ -2289,7 +2289,7 @@
         "Month": "10"
     },
     {
-        "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min9",
+        "quota_id": "The Cocoa Trees (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min9",
         "Com ID": 177,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2393,7 +2393,7 @@
         "Month": "10"
     },
     {
-        "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min9",
+        "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min9",
         "Com ID": 185,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -5773,7 +5773,7 @@
         "Month": "10"
     },
     {
-        "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min9",
+        "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01\u2666BS\u2666Min9",
         "Com ID": 445,
         "Category": "",
         "Terminal": "TERMINAL 2",
@@ -6106,84 +6106,6 @@
         "Cluster": 51.0,
         "Name": "The Hainan Story Coffee & Toast",
         "Number": "#02-K11",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA\u2666Min9",
-        "Com ID": 471,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside F&B",
-        "Cluster": 52.0,
-        "Name": "Buk Chang Dong Soon Tofu",
-        "Number": "#02-K12",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min9",
-        "Com ID": 472,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside F&B",
-        "Cluster": 52.0,
-        "Name": "Chef Wei",
-        "Number": "#02-K6",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA\u2666Min9",
-        "Com ID": 473,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside F&B",
-        "Cluster": 52.0,
-        "Name": "The Satay Club",
-        "Number": "#02-169",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min9",
-        "Com ID": 474,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 52.0,
-        "Name": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)",
-        "Number": "#02-166",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min9",
-        "Com ID": 475,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 52.0,
-        "Name": "The Cocoa Trees (T2 DTS, beside Transfer F)",
-        "Number": "#02-196",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "Baker's Well\u2666TERMINAL 2\u2666Landside\u2666#02-05\u2666LS\u2666Min9",
-        "Com ID": 476,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Landside Shops",
-        "Cluster": 52.0,
-        "Name": "Baker's Well",
-        "Number": "#02-05",
         "Quota": 9,
         "Year": "2023",
         "Month": "10"

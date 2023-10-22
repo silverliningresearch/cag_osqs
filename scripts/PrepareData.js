@@ -102,6 +102,11 @@ function clean_data ()
       if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min25") interview_data[i].quota_id = "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min15";
       if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min25") interview_data[i].quota_id = "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min15";
       if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min25") interview_data[i].quota_id = "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15";
+
+      if ( interview_data[i].quota_id == "The Cocoa Trees (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min9") interview_data[i].quota_id =  "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min9";
+      if ( interview_data[i].quota_id == "The Cocoa Trees (Premises B3) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min9") interview_data[i].quota_id =  "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min9";
+      if ( interview_data[i].quota_id == "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01\u2666BS\u2666Min9") interview_data[i].quota_id =  "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min9";
+
   }  
 
   }
