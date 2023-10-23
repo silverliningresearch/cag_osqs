@@ -2081,7 +2081,7 @@
         "Month": "10"
     },
     {
-        "quota_id": "haina",
+        "quota_id": "Sprint-Cass (T2 DTS)♦TERMINAL 2♦Airside♦#02-186♦EL♦Min9",
         "Com ID": 161,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
