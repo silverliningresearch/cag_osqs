@@ -2081,12 +2081,12 @@
         "Month": "10"
     },
     {
-        "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min9",
+        "quota_id": "Sprint-Cass (T2 DTS)♦TERMINAL 2♦Airside♦#02-186♦EL♦Min9",
         "Com ID": 161,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
-        "Cluster": 17.0,
+        "Cluster": "",
         "Name": "Sprint-Cass (T2 DTS)",
         "Number": "#02-186",
         "Quota": 9,
@@ -4538,6 +4538,19 @@
         "Month": "10"
     },
     {
+        "quota_id": "ANJIE INTERNATIONAL EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-CSO\u2666LS\u2666Min9",
+        "Com ID": 350,
+        "Category": "Services",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside Services",
+        "Cluster": 45.0,
+        "Name": "ANJIE INTERNATIONAL EXPRESS",
+        "Number": "#B2-CSO",
+        "Quota": 9,
+        "Year": "2023",
+        "Month": "10"
+    },
+    {
         "quota_id": "CLIMB@T3\u2666TERMINAL 3\u2666Landside\u2666#B3-01/02\u2666LS\u2666Min9",
         "Com ID": 351,
         "Category": "Services",
@@ -5981,7 +5994,7 @@
         "Month": "10"
     },
     {
-        "quota_id": "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#02-234 (#026-057)\u2666MP\u2666Min9",
+        "quota_id": "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#026-057\u2666MP\u2666Min9",
         "Com ID": 462,
         "Category": "",
         "Terminal": "TERMINAL 2",
@@ -5994,7 +6007,7 @@
         "Month": "10"
     },
     {
-        "quota_id": "T2 UOB Bank\u2666TERMINAL 2\u2666Landside\u2666#B1-52 (#B16-017)\u2666MC\u2666Min9",
+        "quota_id": "T2 UOB Bank\u2666TERMINAL 2\u2666Landside\u2666#B1-52\u2666MC\u2666Min9",
         "Com ID": 463,
         "Category": "",
         "Terminal": "TERMINAL 2",
@@ -6171,71 +6184,6 @@
         "Cluster": 52.0,
         "Name": "Baker's Well",
         "Number": "#02-05",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#026-022/023\u2666PC\u2666Min9",
-        "Com ID": 477,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Landside Shops",
-        "Cluster": 53.0,
-        "Name": "Perfumes & Cosmetics",
-        "Number": "#026-022/023",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "The Killiney Experience\u2666TERMINAL 1\u2666Airside\u2666#02-K12\u2666CCD\u2666Min9",
-        "Com ID": 478,
-        "Category": "",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 53.0,
-        "Name": "The Killiney Experience",
-        "Number": "#02-K12",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "Cafe O\u2666TERMINAL 2\u2666Landside\u2666#02-07/08/09\u2666FBL\u2666Min9",
-        "Com ID": 479,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Landside F&B",
-        "Cluster": 53.0,
-        "Name": "Cafe O",
-        "Number": "#02-07/08/09",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Landside\u2666#02-K9\u2666FBA\u2666Min9",
-        "Com ID": 480,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Landside F&B",
-        "Cluster": 53.0,
-        "Name": "Wee Nam Kee",
-        "Number": "#02-K9",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
-        "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Landside\u2666#02-K7\u2666FBA\u2666Min9",
-        "Com ID": 481,
-        "Category": "",
-        "Terminal": "TERMINAL 2",
-        "AL": "Landside F&B",
-        "Cluster": 53.0,
-        "Name": "Old Chang Kee",
-        "Number": "#02-K7",
         "Quota": 9,
         "Year": "2023",
         "Month": "10"
