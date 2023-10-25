@@ -6176,14 +6176,14 @@
         "Month": "10"
     },
     {
-        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#026-022/023\u2666PC\u2666Min9",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC\u2666Min9",
         "Com ID": 477,
         "Category": "",
         "Terminal": "TERMINAL 2",
         "AL": "Landside Shops",
         "Cluster": 53.0,
         "Name": "Perfumes & Cosmetics",
-        "Number": "#026-022/023",
+        "Number": "#02-10/11 (#026-022/023)",
         "Quota": 9,
         "Year": "2023",
         "Month": "10"
