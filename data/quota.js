@@ -6215,11 +6215,11 @@
         "Month": "10"
     },
     {
-        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Landside\u2666#02-K9\u2666FBA\u2666Min9",
+        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min9",
         "Com ID": 480,
         "Category": "",
         "Terminal": "TERMINAL 2",
-        "AL": "Landside F&B",
+        "AL": "Airside F&B",
         "Cluster": 53.0,
         "Name": "Wee Nam Kee",
         "Number": "#02-K9",
@@ -6228,11 +6228,11 @@
         "Month": "10"
     },
     {
-        "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Landside\u2666#02-K7\u2666FBA\u2666Min9",
+        "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K7\u2666FBA\u2666Min9",
         "Com ID": 481,
         "Category": "",
         "Terminal": "TERMINAL 2",
-        "AL": "Landside F&B",
+        "AL": "Airside F&B",
         "Cluster": 53.0,
         "Name": "Old Chang Kee",
         "Number": "#02-K7",
