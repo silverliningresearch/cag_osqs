@@ -107,6 +107,10 @@ function clean_data ()
       if ( interview_data[i].quota_id == "The Cocoa Trees (Premises B3) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min9") interview_data[i].quota_id =  "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min9";
       if ( interview_data[i].quota_id == "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01\u2666BS\u2666Min9") interview_data[i].quota_id =  "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min9";
 
+      if ( interview_data[i].quota_id == "T2 UOB Bank\u2666TERMINAL 2\u2666Landside\u2666#B1-52\u2666MC\u2666Min9") interview_data[i].quota_id =  "T2 UOB Bank\u2666TERMINAL 2\u2666Landside\u2666#B1-52 (#B16-017)\u2666MC\u2666Min9";
+      if ( interview_data[i].quota_id == "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#026-057\u2666MP\u2666Min9") interview_data[i].quota_id =  "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#02-234 (#026-057)\u2666MP\u2666Min9";
+
+
   }  
 
   }
