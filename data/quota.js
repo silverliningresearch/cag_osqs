@@ -6020,19 +6020,6 @@
         "Month": "10"
     },
     {
-        "quota_id": "JustCo\u2666TERMINAL 3\u2666Landside\u2666#03-34/41\u2666LS\u2666Min9",
-        "Com ID": 465,
-        "Category": "",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Shops",
-        "Cluster": 51.0,
-        "Name": "JustCo",
-        "Number": "#03-34/41",
-        "Quota": 9,
-        "Year": "2023",
-        "Month": "10"
-    },
-    {
         "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min9",
         "Com ID": 466,
         "Category": "",
