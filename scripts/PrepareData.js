@@ -111,7 +111,7 @@ function clean_data ()
       if ( interview_data[i].quota_id == "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#026-057\u2666MP\u2666Min9") interview_data[i].quota_id =  "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#02-234 (#026-057)\u2666MP\u2666Min9";
 
 
-  }  
+    }  
 
   }
 }
