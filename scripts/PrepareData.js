@@ -113,6 +113,16 @@ function clean_data ()
 
     }  
 
+    if (interview_data[i].InterviewDate.substring(0,7) == "2023-11") {
+      if ( interview_data[i].quota_id == "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#026-84-3)\u2666OW\u2666Min9") interview_data[i].quota_id =  "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW\u2666Min9";
+      if ( interview_data[i].quota_id == "SSAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8") interview_data[i].quota_id =  "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8";
+      if ( interview_data[i].quota_id == "T1 iSC Arrival counter\u2666TERMINAL 1\u2666Landside\u2666NA\u2666PS\u2666Min9") interview_data[i].quota_id =  "T1 iSC Arrival counter\u2666TERMINAL 1\u2666Landside\u2666NA\u2666PS\u2666Min5";
+      if ( interview_data[i].quota_id == "T2 iSC Arrival counter\u2666TERMINAL 2\u2666Landside\u2666#01-179\u2666PS\u2666Min9") interview_data[i].quota_id =  "T2 iSC Arrival counter\u2666TERMINAL 2\u2666Landside\u2666#01-179\u2666PS\u2666Min5";
+      if ( interview_data[i].quota_id == "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min9") interview_data[i].quota_id =  "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min5";
+      if ( interview_data[i].quota_id == "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS\u2666Min9") interview_data[i].quota_id =  "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS\u2666Min5";
+      interview_data[i].quota_id = interview_data[i].quota_id.replace("\u2666Min9", "\u2666Min8");
+      
+    }
   }
 }
 function prepareData() {
