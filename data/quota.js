@@ -5595,7 +5595,7 @@
         "Com ID": 432,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
-        "AL": "Airside Services",
+        "AL": "Landside Services",
         "Cluster": "",
         "Name": "Premises B - Baggage Storage by Smarte Carte (Landside)",
         "Number": "#01-02",
