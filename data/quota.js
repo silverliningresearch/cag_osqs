@@ -6421,7 +6421,22 @@
         "Quota": 8,
         "Year": "2023",
         "Month": "11"
+    },
+
+    {
+        "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
+        "Com ID": 496,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 2",
+        "AL": "Landside F&B",
+        "Cluster": 51.0,
+        "Name": "A-Roy Thai Restaurant",
+        "Number": "#03-14",
+        "Quota": 8,
+        "Year": "2023",
+        "Month": "11"
     }
+
 ]    
 
  `;
