@@ -6512,6 +6512,20 @@
         "Quota": 8,
         "Year": "2023",
         "Month": "12"
+    },
+
+    {
+        "quota_id": "Guardian\u2666TERMINAL 2\u2666Landside\u2666#02-13\u2666LS\u2666Min8",
+        "Com ID": 502,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Landside Shops",
+        "Cluster": 50.0,
+        "Name": "Guardian",
+        "Number": "#02-13",
+        "Quota": 8,
+        "Year": "2023",
+        "Month": "12"
     }
 ]    
 
