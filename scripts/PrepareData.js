@@ -123,6 +123,15 @@ function clean_data ()
       interview_data[i].quota_id = interview_data[i].quota_id.replace("\u2666Min9", "\u2666Min8");
       
     }
+    
+    if (interview_data[i].InterviewDate.substring(0,7) == "2024-01") {    
+      if ( interview_data[i].quota_id == "Travelex T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#026-CTR-02\u2666MC\u2666Min8") interview_data[i].quota_id =  "Travelex T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-235\u2666MC\u2666Min8";
+      if ( interview_data[i].quota_id == "UOB T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#026-CTR-03\u2666MC\u2666Min8") interview_data[i].quota_id =  "UOB T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209B\u2666MC\u2666Min8";
+      if ( interview_data[i].quota_id == "UOB T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#026-CTR-01\u2666MC\u2666Min8") interview_data[i].quota_id =  "UOB T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC\u2666Min8";
+      if ( interview_data[i].quota_id == "Garrett Popcorn Shops\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min8") interview_data[i].quota_id =  "Garrett Popcorn Shops\u2666TERMINAL 2\u2666Airside\u2666#02-164 (#026-095-05R)\u2666CCD\u2666Min8";
+      if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-177 (#026-103E)\u2666PC\u2666Min25") interview_data[i].quota_id =  "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25";
+      if ( interview_data[i].quota_id == "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K1\u2666CR\u2666Min8") interview_data[i].quota_id =  "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR\u2666Min8";
+    }
   }
 }
 function prepareData() {
