@@ -132,6 +132,17 @@ function clean_data ()
       if ( interview_data[i].quota_id == "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-177 (#026-103E)\u2666PC\u2666Min25") interview_data[i].quota_id =  "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25";
       if ( interview_data[i].quota_id == "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K1\u2666CR\u2666Min8") interview_data[i].quota_id =  "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR\u2666Min8";
     }
+
+    if (interview_data[i].InterviewDate.substring(0,7) == "2024-02") {    
+      if ( interview_data[i].quota_id == "HUGO\u2666TERMINAL 2\u2666Airside\u266602-232\u2666LX\u2666Min8") interview_data[i].quota_id =  "Hugo Boss\u2666TERMINAL 2\u2666Airside\u2666#02-232\u2666LX\u2666Min8";
+      if ( interview_data[i].quota_id == "CHAGEE\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8") interview_data[i].quota_id =  "CHAGEE (AMPS TEA)\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8";
+      if ( interview_data[i].quota_id == "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8") interview_data[i].quota_id =  "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161 (#026-97)\u2666CT\u2666Min8";
+      if ( interview_data[i].quota_id == "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162\u2666CT\u2666Min8") interview_data[i].quota_id =  "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8";
+      if ( interview_data[i].quota_id == "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163\u2666MP\u2666Min8") interview_data[i].quota_id =  "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163 (#026-098-01)\u2666MP\u2666Min8";
+      if ( interview_data[i].quota_id == "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-201/202/203\u2666LT\u2666Min15") interview_data[i].quota_id =  "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15";
+      if ( interview_data[i].quota_id == "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072\u2666LX\u2666Min8") interview_data[i].quota_id =  "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072 (#02-229)\u2666LX\u2666Min8";
+      if ( interview_data[i].quota_id == "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093\u2666PC\u2666Min8") interview_data[i].quota_id =  "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC";
+    }
   }
 }
 function prepareData() {

@@ -1,5 +1,6 @@
      let quota_list = ` 
 [
+  
     {
         "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min8",
         "Com ID": 1,
@@ -438,6 +439,19 @@
         "Cluster": 4,
         "Name": "Bvlgari",
         "Number": "#02-12R",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "02"
+    },
+    {
+        "quota_id": "MCM\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX\u2666Min8",
+        "Com ID": 35,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 4,
+        "Name": "MCM",
+        "Number": "#02-13AF",
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
@@ -1613,6 +1627,19 @@
         "Month": "02"
     },
     {
+        "quota_id": "Hudsons (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-209 (beside Travelex)\u2666FBA\u2666Min8",
+        "Com ID": 126,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside F&B",
+        "Cluster": 13,
+        "Name": "Hudsons (DTS)",
+        "Number": "#02-209 (beside Travelex)",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "02"
+    },
+    {
         "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA\u2666Min8",
         "Com ID": 127,
         "Category": "F&B",
@@ -2198,40 +2225,40 @@
         "Month": "02"
     },
     {
-        "quota_id": "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161 (#026-97)\u2666CT\u2666Min8",
+        "quota_id": "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
         "Com ID": 172,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 18,
         "Name": "Avenue Kids",
-        "Number": "#02-161 (#026-97)",
+        "Number": "#02-161",
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
     },
     {
-        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
+        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162\u2666CT\u2666Min8",
         "Com ID": 173,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 18,
         "Name": "Kaboom",
-        "Number": "#02-162 (#026-098)",
+        "Number": "#02-162",
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
     },
     {
-        "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163 (#026-098-01)\u2666MP\u2666Min8",
+        "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163\u2666MP\u2666Min8",
         "Com ID": 174,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 18,
         "Name": "Lacoste",
-        "Number": "#02-163 (#026-098-01)",
+        "Number": "#02-163",
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
@@ -2432,14 +2459,14 @@
         "Month": "02"
     },
     {
-        "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15",
+        "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-201/202/203\u2666LT\u2666Min15",
         "Com ID": 190,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 19,
         "Name": "Liquor & Tobacco (T2 DTS)",
-        "Number": "#02-197",
+        "Number": "#02-201/202/203",
         "Quota": 15,
         "Year": "2024",
         "Month": "02"
@@ -2518,6 +2545,19 @@
         "Cluster": 20,
         "Name": "Rimowa",
         "Number": "#02-213",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "02"
+    },
+    {
+        "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min8",
+        "Com ID": 197,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 20,
+        "Name": "Burberry",
+        "Number": "#02-214",
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
@@ -2848,14 +2888,14 @@
         "Month": "02"
     },
     {
-        "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072 (#02-229)\u2666LX\u2666Min8",
+        "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072\u2666LX\u2666Min8",
         "Com ID": 223,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 23,
         "Name": "Prada",
-        "Number": "#026-072 (#02-229)",
+        "Number": "#026-072",
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
@@ -2874,14 +2914,14 @@
         "Month": "02"
     },
     {
-        "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC\u2666Min8",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093\u2666PC\u2666Min8",
         "Com ID": 225,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 23,
         "Name": "Victoria's Secret",
-        "Number": "#026-093 (#02-151)",
+        "Number": "#026-093",
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
@@ -2939,14 +2979,14 @@
         "Month": "02"
     },
     {
-        "quota_id": "Hugo Boss\u2666TERMINAL 2\u2666Airside\u2666#02-232\u2666LX\u2666Min8",
+        "quota_id": "HUGO\u2666TERMINAL 2\u2666Airside\u266602-232\u2666LX\u2666Min8",
         "Com ID": 230,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 23,
-        "Name": "Hugo Boss",
-        "Number": "#02-232",
+        "Name": "HUGO",
+        "Number": "02-232",
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
@@ -3030,13 +3070,13 @@
         "Month": "02"
     },
     {
-        "quota_id": "CHAGEE (AMPS TEA)\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8",
+        "quota_id": "CHAGEE\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8",
         "Com ID": 237,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
         "AL": "Landside F&B",
         "Cluster": 24,
-        "Name": "CHAGEE (AMPS TEA)",
+        "Name": "CHAGEE",
         "Number": "#02-06",
         "Quota": 8,
         "Year": "2024",
@@ -6512,72 +6552,9 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
-    },
-    {
-        "quota_id": "Qeelin\u2666TERMINAL 1\u2666Airside\u2666#02-78\u2666LX\u2666Min9",
-        "Com ID": 505,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside",
-        "Cluster": 52,
-        "Name": "Qeelin",
-        "Number": "#02-78",
-        "Quota": 9,
-        "Year": "2024",
-        "Month": "02"
-    },
-    {
-        "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD\u2666Min9",
-        "Com ID": 506,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside",
-        "Cluster": 52,
-        "Name": "Bacha Coffee (DTS)",
-        "Number": "#02-195",
-        "Quota": 9,
-        "Year": "2024",
-        "Month": "02"
-    },
-    {
-        "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX\u2666Min9",
-        "Com ID": 507,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside",
-        "Cluster": 52,
-        "Name": "Moncler",
-        "Number": "#02-225-03",
-        "Quota": 9,
-        "Year": "2024",
-        "Month": "02"
-    },
-    {
-        "quota_id": "Bvlgari\u2666TERMINAL 3\u2666Airside\u2666#02-45-02\u2666LX\u2666Min9",
-        "Com ID": 508,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside",
-        "Cluster": 52,
-        "Name": "Bvlgari",
-        "Number": "#02-45-02",
-        "Quota": 9,
-        "Year": "2024",
-        "Month": "02"
-    },
-    {
-        "quota_id": "The Digital Gadgets\u2666TERMINAL 4\u2666Landside\u2666#02-08\u2666LS\u2666Min8",
-        "Com ID": 509,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 4",
-        "AL": "Landside",
-        "Cluster": 52,
-        "Name": "The Digital Gadgets",
-        "Number": "#02-08",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "02"
     }
+
+    
 ]    
 
  `;
