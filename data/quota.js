@@ -6577,6 +6577,32 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
+    },
+    {
+        "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT\u2666Min25",
+        "Com ID": 510,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Shops",
+        "Cluster": 52,
+        "Name": "LT T3 Duplex",
+        "Number": "#02-37/39E & #03-07/08",
+        "Quota": 25,
+        "Year": "2024",
+        "Month": "02"
+    },
+    {
+        "quota_id": "Famous Amos\u2666TERMINAL 3\u2666Landside\u2666#02-97\u2666LS\u2666Min8",
+        "Com ID": 511,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside Shops",
+        "Cluster": 52,
+        "Name": "Famous Amos",
+        "Number": "#02-97",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "02"
     }
 ]    
 
