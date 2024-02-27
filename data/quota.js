@@ -6603,6 +6603,32 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "02"
+    },
+    {
+        "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT\u2666Min8",
+        "Com ID": 512,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Shops",
+        "Cluster": 52,
+        "Name": "LT T4 DT North",
+        "Number": "#02-57",
+        "Quota": 15,
+        "Year": "2024",
+        "Month": "02"
+    },
+    {
+        "quota_id": "UOB T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC\u2666Min15",
+        "Com ID": 513,
+        "Category": "Services",
+        "Terminal": "TERMINAL 4",
+        "AL": "Landside Services",
+        "Cluster": 52,
+        "Name": "UOB T4 DCI Central",
+        "Number": "#02-02",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "02"
     }
 ]    
 
