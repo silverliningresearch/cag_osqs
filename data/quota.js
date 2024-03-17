@@ -1288,19 +1288,6 @@
         "Month": "03"
     },
     {
-        "quota_id": "ANJIE INTERNATIONAL EXPRESS\u2666TERMINAL 1\u2666Landside\u2666#01-K6\u2666LS\u2666Min8",
-        "Com ID": 108,
-        "Category": "Services",
-        "Terminal": "TERMINAL 1",
-        "AL": "Landside Services",
-        "Cluster": 11,
-        "Name": "ANJIE INTERNATIONAL EXPRESS",
-        "Number": "#01-K6",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "03"
-    },
-    {
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR\u2666Min8",
         "Com ID": 109,
         "Category": "Services",
@@ -2466,19 +2453,6 @@
         "Cluster": 20,
         "Name": "TWG Tea Boutique",
         "Number": "#02-216",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "03"
-    },
-    {
-        "quota_id": "Montblanc\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min8",
-        "Com ID": 199,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 20,
-        "Name": "Montblanc",
-        "Number": "#02-217",
         "Quota": 8,
         "Year": "2024",
         "Month": "03"
@@ -5391,19 +5365,6 @@
         "Cluster": 43,
         "Name": "MIXSHOP",
         "Number": "#B2-32A",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "03"
-    },
-    {
-        "quota_id": "THE BLUES\u2666TERMINAL 3\u2666Landside\u2666#B2-36\u2666LS\u2666Min8",
-        "Com ID": 429,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Shops",
-        "Cluster": 43,
-        "Name": "THE BLUES",
-        "Number": "#B2-36",
         "Quota": 8,
         "Year": "2024",
         "Month": "03"
