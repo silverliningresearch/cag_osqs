@@ -6447,33 +6447,8 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "03"
-    },
-    {
-        "quota_id": "Roger Vivier\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX\u2666Min8",
-        "Com ID": 513,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 52,
-        "Name": "Roger Vivier",
-        "Number": "#02-13AF",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "03"
-    },
-    {
-        "quota_id": "Saboten\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
-        "Com ID": 514,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 1",
-        "AL": "Landside F&B",
-        "Cluster": 52,
-        "Name": "Saboten",
-        "Number": "#03-21",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "03"
     }
+
 ]    
 
  `;
