@@ -6473,19 +6473,6 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "03"
-    },
-    {
-        "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min8",
-        "Com ID": 515,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 52,
-        "Name": "Sunglass Hut (T1 DTW)",
-        "Number": "#02-28",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "03"
     }
 ]    
 
