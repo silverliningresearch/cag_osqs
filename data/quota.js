@@ -2315,7 +2315,7 @@
         "Month": "04"
     },
     {
-        "quota_id": "Samsonite Red / Lipault Paris\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
+        "quota_id": "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
         "Com ID": 179,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -6509,6 +6509,45 @@
         "Cluster": 51,
         "Name": "Simply Toys",
         "Number": "#02-95/96",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "04"
+    },
+    {
+        "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX\u2666Min8",
+        "Com ID": 503,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 51,
+        "Name": "Bottega Veneta",
+        "Number": "#02-224",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "04"
+    },
+    {
+        "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min8",
+        "Com ID": 504,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 51,
+        "Name": "Burberry",
+        "Number": "#02-214",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "04"
+    },
+    {
+        "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
+        "Com ID": 506,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Shops",
+        "Cluster": 51,
+        "Name": "Sunglass Hut",
+        "Number": "#02-21",
         "Quota": 8,
         "Year": "2024",
         "Month": "04"
