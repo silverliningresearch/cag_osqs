@@ -2341,6 +2341,19 @@
         "Month": "04"
     },
     {
+        "quota_id": "Guardian (Premises B) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH\u2666Min8",
+        "Com ID": 181,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 19,
+        "Name": "Guardian (Premises B) (T2 DTS)",
+        "Number": "#02-192",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "04"
+    },
+    {
         "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
         "Com ID": 182,
         "Category": "Shops",
@@ -4442,6 +4455,19 @@
         "Cluster": 35,
         "Name": "TWG Tea (T3 DTN)",
         "Number": "#02-K12",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "04"
+    },
+    {
+        "quota_id": "Eureka\u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666CCD\u2666Min8",
+        "Com ID": 344,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Shops",
+        "Cluster": 35,
+        "Name": "Eureka",
+        "Number": "#02-K13R",
         "Quota": 8,
         "Year": "2024",
         "Month": "04"
