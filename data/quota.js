@@ -2321,7 +2321,7 @@
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 18,
-        "Name": "Samsonite Red / Lipault Paris",
+        "Name": "Samsonite",
         "Number": "#02-190",
         "Quota": 8,
         "Year": "2024",
