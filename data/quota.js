@@ -8586,7 +8586,7 @@
         "Com ID": 159,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
+        "AL": "Landside Shops",
         "Cluster": 16,
         "Name": "Perfumes & Cosmetics",
         "Number": "#02-10/11 (#026-022/023)",
