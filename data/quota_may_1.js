@@ -1,5 +1,6 @@
      let quota_list = ` 
 [
+   
     {
         "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min8",
         "Com ID": 1,
@@ -2679,13 +2680,13 @@
         "Month": "05"
     },
     {
-        "quota_id": "Swarovski (T2N)\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666MP\u2666Min8",
+        "quota_id": "Swarovski\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666MP\u2666Min8",
         "Com ID": 207,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 21,
-        "Name": "Swarovski (T2N)",
+        "Name": "Swarovski",
         "Number": "#02-236",
         "Quota": 8,
         "Year": "2024",
@@ -6522,71 +6523,6 @@
         "Cluster": 51,
         "Name": "BEE CHENG HIANG",
         "Number": "#02-12",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "05"
-    },
-    {
-        "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12\u2666LX\u2666Min8",
-        "Com ID": 503,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 52,
-        "Name": "Bvlgari",
-        "Number": "#02-12",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "05"
-    },
-    {
-        "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP\u2666Min8",
-        "Com ID": 504,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 52,
-        "Name": "Kering Eyewear",
-        "Number": "#02-203",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "05"
-    },
-    {
-        "quota_id": "Marc Jacobs\u2666TERMINAL 2\u2666Airside\u2666#02-227\u2666MP\u2666Min8",
-        "Com ID": 505,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 52,
-        "Name": "Marc Jacobs",
-        "Number": "#02-227",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "05"
-    },
-    {
-        "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP\u2666Min8",
-        "Com ID": 506,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 52,
-        "Name": "Swarovski (T2S)",
-        "Number": "#02-202",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "05"
-    },
-    {
-        "quota_id": "Mr Teh Tarik Cafe\u2666TERMINAL 4\u2666Landside\u2666#01-331 (Taxi Holding Area)\u2666FBL\u2666Min8",
-        "Com ID": 507,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 4",
-        "AL": "Landside F&B",
-        "Cluster": 52,
-        "Name": "Mr Teh Tarik Cafe",
-        "Number": "#01-331 (Taxi Holding Area)",
         "Quota": 8,
         "Year": "2024",
         "Month": "05"
