@@ -6590,6 +6590,19 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "05"
+    },
+    {
+        "quota_id": "Irvin's\u2666TERMINAL 4\u2666Airside\u2666#02-71\u2666CCD\u2666Min8",
+        "Com ID": 508,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Shops",
+        "Cluster": 52,
+        "Name": "Irvin's",
+        "Number": "#02-71",
+        "Quota": 9,
+        "Year": "2024",
+        "Month": "05"
     }
 ]    
 
