@@ -6600,7 +6600,7 @@
         "Cluster": 52,
         "Name": "Irvin's",
         "Number": "#02-71",
-        "Quota": 9,
+        "Quota": 8,
         "Year": "2024",
         "Month": "05"
     }
