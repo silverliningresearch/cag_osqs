@@ -4512,6 +4512,19 @@
         "Month": "05"
     },
     {
+        "quota_id": "Beyond The Vines\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP\u2666Min8",
+        "Com ID": 348,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Shops",
+        "Cluster": 35,
+        "Name": "Beyond The Vines",
+        "Number": "#02-K14",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "05"
+    },
+    {
         "quota_id": "MCDONALD'S\u2666TERMINAL 3\u2666Landside\u2666#01-21\u2666FBL\u2666Min8",
         "Com ID": 349,
         "Category": "F&B",
@@ -6111,6 +6124,19 @@
         "Month": "05"
     },
     {
+        "quota_id": "Avenue Kids\u2666TERMINAL 4\u2666Airside\u2666#02-63\u2666CT\u2666Min8",
+        "Com ID": 472,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Shops",
+        "Cluster": 48,
+        "Name": "Avenue Kids",
+        "Number": "#02-63",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "05"
+    },
+    {
         "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT\u2666Min8",
         "Com ID": 473,
         "Category": "Shops",
@@ -6553,6 +6579,19 @@
         "Month": "05"
     },
     {
+        "quota_id": "Mr Teh Tarik Cafe\u2666TERMINAL 4\u2666Landside\u2666#01-331 (Taxi Holding Area)\u2666FBL\u2666Min8",
+        "Com ID": 507,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 4",
+        "AL": "Landside F&B",
+        "Cluster": 52,
+        "Name": "Mr Teh Tarik Cafe",
+        "Number": "#01-331 (Taxi Holding Area)",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "05"
+    },
+    {
         "quota_id": "Irvin's\u2666TERMINAL 4\u2666Airside\u2666#02-71\u2666CCD\u2666Min8",
         "Com ID": 508,
         "Category": "Shops",
@@ -6561,32 +6600,6 @@
         "Cluster": 52,
         "Name": "Irvin's",
         "Number": "#02-71",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "05"
-    },
-    {
-        "quota_id": "Pazzion\u2666TERMINAL 2\u2666Airside\u2666#02-201\u2666MP\u2666Min8",
-        "Com ID": 509,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 52,
-        "Name": "Pazzion",
-        "Number": "#02-201",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "05"
-    },
-    {
-        "quota_id": "Unity\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH\u2666Min8",
-        "Com ID": 510,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 52,
-        "Name": "Unity",
-        "Number": "#02-192",
         "Quota": 8,
         "Year": "2024",
         "Month": "05"
