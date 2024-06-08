@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>OSQS Survey</title>
+    <title>OSQS MS Survey</title>
 	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link
@@ -67,36 +67,6 @@
         setTimeout(() => {
           const listSearchHandler = () => {
             console.log("Current Page Index: ", api.fn.getCurrentPageIndex() );
-            
-            //if (api.fn.getCurrentPageIndex() === 2) {
-              //#Name_of_Retail_Service_Outlet_TAG
-            var outlet_Tag = $("section:contains('Name_of_Retail_Service_Outlet_TAG')")
-            console.log(outlet_Tag);
-            if ((outlet_Tag.length === 1)) {
-              show_outlet_search_box();
-            } else {
-              hide_outlet_search_box();
-            }
-
-            if ( api.fn.getCurrentPageIndex()==0) {
-              navigator.geolocation.getCurrentPosition(getGeoSuccessCallback, getGeoErrorCallback);
-              // const queryString = window.location.search;
-              // const urlParams = new URLSearchParams(queryString);
-              // const urlVar01 = urlParams.get('urlVar01');
-              // const urlVar02 = urlParams.get('urlVar02');
-              // const urlVar03 = urlParams.get('urlVar03');
-              // const urlVar04 = urlParams.get('urlVar04');
-
-              // api.fn.answers({Interviewer: urlVar01});
-              // api.fn.answers({Q1_0_1_text: urlVar02});
-              // api.fn.answers({Latitude: urlVar03});
-              // api.fn.answers({Longitude: urlVar04});
-
-              // api.fn.answers({urlVar01: urlVar01});
-              // api.fn.answers({urlVar02: urlVar02});
-              // api.fn.answers({urlVar03: urlVar03});
-              // api.fn.answers({urlVar04: urlVar04});
-            }
           };
 
           api.events.subscribe('next', listSearchHandler);
