@@ -2224,19 +2224,6 @@
         "Month": "06"
     },
     {
-        "quota_id": "Adidas\u2666TERMINAL 2\u2666Airside\u2666#02-168 (#026-106/7)\u2666MP\u2666Min8",
-        "Com ID": 172,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 18,
-        "Name": "Adidas",
-        "Number": "#02-168 (#026-106/7)",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "06"
-    },
-    {
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
         "Com ID": 173,
         "Category": "Shops",
@@ -6600,6 +6587,58 @@
         "Cluster": 52,
         "Name": "Jewel Changi Airport Attractions Ticketing",
         "Number": "#01-K12",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "06"
+    },
+    {
+        "quota_id": "Zegna\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min8",
+        "Com ID": 510,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 52,
+        "Name": "Zegna",
+        "Number": "#02-217",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "06"
+    },
+    {
+        "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666CCD\u2666Min8",
+        "Com ID": 511,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Shops",
+        "Cluster": 52,
+        "Name": "Mr. Bucket Chocolaterie",
+        "Number": "#02-K14",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "06"
+    },
+    {
+        "quota_id": "Papparich\u2666TERMINAL 4\u2666Landside\u2666#02-203A\u2666FBL\u2666Min8",
+        "Com ID": 512,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 4",
+        "AL": "Landside F&B",
+        "Cluster": 52,
+        "Name": "Papparich",
+        "Number": "#02-203A",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "06"
+    },
+    {
+        "quota_id": "GO Noodle House\u2666TERMINAL 4\u2666Landside\u2666#02-203\u2666FBL\u2666Min8",
+        "Com ID": 513,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 4",
+        "AL": "Landside F&B",
+        "Cluster": 52,
+        "Name": "GO Noodle House",
+        "Number": "#02-203",
         "Quota": 8,
         "Year": "2024",
         "Month": "06"
