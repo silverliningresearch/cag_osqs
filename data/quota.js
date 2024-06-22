@@ -6642,6 +6642,19 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "06"
+    },
+    {
+        "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX\u2666Min8",
+        "Com ID": 514,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 52,
+        "Name": "Tory Burch",
+        "Number": "#02-57",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "06"
     }
 ]    
 
