@@ -6655,6 +6655,19 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "06"
+    },
+    {
+        "quota_id": "Chopstix & Rice and Taiwan Culture\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL\u2666Min8",
+        "Com ID": 515,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 2",
+        "AL": "Landside F&B",
+        "Cluster": 52,
+        "Name": "Chopstix & Rice and Taiwan Culture",
+        "Number": "#03-11/12",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "06"
     }
 ]    
 
