@@ -144,9 +144,12 @@ function clean_data ()
       if ( interview_data[i].quota_id == "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093\u2666PC\u2666Min8") interview_data[i].quota_id =  "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC";
     }
 
-    if (interview_data[i].InterviewDate.substring(0,7) == "2024-04") {    
-      if ( interview_data[i].quota_id == "Samsonite Red / Lipault Paris\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8") interview_data[i].quota_id =  "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8";
-   }
+    if (interview_data[i].InterviewDate.substring(0,7) == "2024-06") {    
+      if ( interview_data[i].quota_id == "Yakun Kaya Toast\u2666TERMINAL 2\u2666Airside\u2666#02-803\u2666FBA\u2666Min8") interview_data[i].quota_id =  "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25";
+    }
+
+
+   
   }
 }
 function prepareData() {
