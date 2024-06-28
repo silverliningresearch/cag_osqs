@@ -145,7 +145,7 @@ function clean_data ()
     }
 
     if (interview_data[i].InterviewDate.substring(0,7) == "2024-06") {    
-      if ( interview_data[i].quota_id == "Yakun Kaya Toast\u2666TERMINAL 2\u2666Airside\u2666#02-803\u2666FBA\u2666Min8") interview_data[i].quota_id =  "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25";
+      if ( interview_data[i].quota_id == "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8") interview_data[i].quota_id =  "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25";
     }
 
 
