@@ -80,6 +80,16 @@ function clean_data ()
         interview_data[i].quota_id = "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min9"
       }
     }
+
+    if (interview_data[i].quota_id == "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096\u2666MP") {
+      interview_data[i].quota_id = "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096 (#02-160)\u2666MP"
+    }
+
+    if (interview_data[i].quota_id == "Tumi\u2666TERMINAL 2\u2666Airside\u2666#02-184\u2666MP") {
+      interview_data[i].quota_id = "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP"
+    }
+
+    
   }
 }
 function prepareData() {
