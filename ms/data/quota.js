@@ -6655,6 +6655,32 @@
         "Quota": 2,
         "Year": "2024",
         "Month": "06_07"
+    },
+    {
+        "quota_id": "Sandbar\u2666TERMINAL 1\u2666Airside\u2666#02-K26\u2666MP",
+        "Com ID": 515,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 53,
+        "Name": "Sandbar",
+        "Number": "#02-K26",
+        "Quota": 1,
+        "Year": "2024",
+        "Month": "06_07"
+    },
+    {
+        "quota_id": "Sunnystep\u2666TERMINAL 4\u2666Airside\u2666#02-68\u2666MP",
+        "Com ID": 516,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Shops",
+        "Cluster": 53,
+        "Name": "Sunnystep",
+        "Number": "#02-68",
+        "Quota": 1,
+        "Year": "2024",
+        "Month": "06_07"
     }
 ]    
 
