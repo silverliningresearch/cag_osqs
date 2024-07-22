@@ -6681,6 +6681,19 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "07"
+    },
+    {
+        "quota_id": "Marc Jacobs\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666MP\u2666Min8",
+        "Com ID": 517,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 53,
+        "Name": "Marc Jacobs",
+        "Number": "#02-58",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "07"
     }
 ]    
 
