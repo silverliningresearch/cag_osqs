@@ -573,19 +573,6 @@
         "Month": "07"
     },
     {
-        "quota_id": "Pazzion\u2666TERMINAL 1\u2666Airside\u2666#02-30AF\u2666MP\u2666Min8",
-        "Com ID": 45,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 5,
-        "Name": "Pazzion",
-        "Number": "#02-30AF",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "07"
-    },
-    {
         "quota_id": "LACOSTE\u2666TERMINAL 1\u2666Airside\u2666#02-30F\u2666MP\u2666Min8",
         "Com ID": 46,
         "Category": "Shops",
@@ -1088,19 +1075,6 @@
         "Cluster": 9,
         "Name": "Sunglass Hut (T1 DTE)",
         "Number": "#02-K25",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "07"
-    },
-    {
-        "quota_id": "Scarves & Glitter, House of Kashkha\u2666TERMINAL 1\u2666Airside\u2666#02-K46\u2666MP\u2666Min8",
-        "Com ID": 87,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 9,
-        "Name": "Scarves & Glitter, House of Kashkha",
-        "Number": "#02-K46",
         "Quota": 8,
         "Year": "2024",
         "Month": "07"
@@ -2479,19 +2453,6 @@
         "Cluster": 20,
         "Name": "Pomellato",
         "Number": "#02-212",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "07"
-    },
-    {
-        "quota_id": "Rimowa\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666MP\u2666Min8",
-        "Com ID": 194,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 20,
-        "Name": "Rimowa",
-        "Number": "#02-213",
         "Quota": 8,
         "Year": "2024",
         "Month": "07"
@@ -6691,6 +6652,19 @@
         "Cluster": 53,
         "Name": "Marc Jacobs",
         "Number": "#02-58",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "07"
+    },
+    {
+        "quota_id": "The Green Party\u2666TERMINAL 3\u2666Landside\u2666#B2-35/36\u2666LS\u2666Min8",
+        "Com ID": 518,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside Shops",
+        "Cluster": 53,
+        "Name": "The Green Party",
+        "Number": "#B2-35/36",
         "Quota": 8,
         "Year": "2024",
         "Month": "07"
