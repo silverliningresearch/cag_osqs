@@ -2003,19 +2003,6 @@
         "Month": "08"
     },
     {
-        "quota_id": "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161 (#026-97)\u2666CT\u2666Min8",
-        "Com ID": 165,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 17,
-        "Name": "Avenue Kids",
-        "Number": "#02-161 (#026-97)",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "08"
-    },
-    {
         "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
         "Com ID": 166,
         "Category": "Shops",
@@ -6717,6 +6704,45 @@
         "Cluster": 53,
         "Name": "Irvin's Salted Egg",
         "Number": "#02-209D",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "08"
+    },
+    {
+        "quota_id": "Chow Tai Fook\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666JW\u2666Min8",
+        "Com ID": 531,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 54,
+        "Name": "Chow Tai Fook",
+        "Number": "#02-29",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "08"
+    },
+    {
+        "quota_id": "Times Travel\u2666TERMINAL 1\u2666Airside\u2666#02-30A\u2666CT\u2666Min8",
+        "Com ID": 532,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 54,
+        "Name": "Times Travel",
+        "Number": "#02-30A",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "08"
+    },
+    {
+        "quota_id": "Texas Chicken and PastaMania\u2666TERMINAL 2\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
+        "Com ID": 533,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 2",
+        "AL": "Landside F&B",
+        "Cluster": 54,
+        "Name": "Texas Chicken and PastaMania",
+        "Number": "#03-22",
         "Quota": 8,
         "Year": "2024",
         "Month": "08"
