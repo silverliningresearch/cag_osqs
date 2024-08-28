@@ -5903,19 +5903,6 @@
         "Month": "08"
     },
     {
-        "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-46\u2666PH\u2666Min8",
-        "Com ID": 469,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 4",
-        "AL": "Airside Shops",
-        "Cluster": 47,
-        "Name": "Airport Pharmacy",
-        "Number": "#02-46",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "08"
-    },
-    {
         "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP\u2666Min8",
         "Com ID": 470,
         "Category": "Shops",
@@ -6743,6 +6730,32 @@
         "Cluster": 54,
         "Name": "Texas Chicken and PastaMania",
         "Number": "#03-22",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "08"
+    },
+    {
+        "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
+        "Com ID": 534,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 54,
+        "Name": "Beyond The Vines",
+        "Number": "#02-K25",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "08"
+    },
+    {
+        "quota_id": "Tech House\u2666TERMINAL 3\u2666Landside\u2666#B2-K3\u2666LS\u2666Min8",
+        "Com ID": 535,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside Shops",
+        "Cluster": 54,
+        "Name": "Tech House\u2666TERMINAL 3",
+        "Number": "#B2-K3",
         "Quota": 8,
         "Year": "2024",
         "Month": "08"
