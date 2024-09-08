@@ -4733,19 +4733,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "COLLIN'S\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
-        "Com ID": 365,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside F&B",
-        "Cluster": 37,
-        "Name": "COLLIN'S",
-        "Number": "#03-21",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL\u2666Min8",
         "Com ID": 366,
         "Category": "F&B",
@@ -6756,6 +6743,19 @@
         "Cluster": 52,
         "Name": "BEE CHENG HIANG",
         "Number": "#02-12",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666OW\u2666Min8",
+        "Com ID": 521,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 53,
+        "Name": "WH Smith (T1 DTE)",
+        "Number": "#02-61",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
