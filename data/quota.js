@@ -183,19 +183,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "UOB T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC\u2666Min8",
-        "Com ID": 15,
-        "Category": "Services",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Services",
-        "Cluster": 2,
-        "Name": "UOB T1 DT West",
-        "Number": "#02-20",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "Prosegur T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC\u2666Min8",
         "Com ID": 16,
         "Category": "Services",
@@ -204,19 +191,6 @@
         "Cluster": 2,
         "Name": "Prosegur T1 DT West",
         "Number": "#02-21",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "UOB T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC\u2666Min8",
-        "Com ID": 17,
-        "Category": "Services",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Services",
-        "Cluster": 2,
-        "Name": "UOB T1 DT East",
-        "Number": "#02-71",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
@@ -534,19 +508,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "Under Armour\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666MP\u2666Min8",
-        "Com ID": 42,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 5,
-        "Name": "Under Armour",
-        "Number": "#02-27",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min8",
         "Com ID": 43,
         "Category": "Shops",
@@ -567,19 +528,6 @@
         "AL": "Airside Shops",
         "Cluster": 5,
         "Name": "Chow Tai Fook",
-        "Number": "#02-29",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "House of Samsonite\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666MP\u2666Min8",
-        "Com ID": 45,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 5,
-        "Name": "House of Samsonite",
         "Number": "#02-29",
         "Quota": 8,
         "Year": "2024",
@@ -1236,19 +1184,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "UOB T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC\u2666Min8",
-        "Com ID": 96,
-        "Category": "Services",
-        "Terminal": "TERMINAL 1",
-        "AL": "Landside Services",
-        "Cluster": 10,
-        "Name": "UOB T1 Arr Mtg West",
-        "Number": "#01-K24",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "Prosegur T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC\u2666Min8",
         "Com ID": 97,
         "Category": "Services",
@@ -1270,19 +1205,6 @@
         "Cluster": 10,
         "Name": "Travelex T1 Arr Mtg Hall East",
         "Number": "#01-K26",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "UOB T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
-        "Com ID": 99,
-        "Category": "Services",
-        "Terminal": "TERMINAL 1",
-        "AL": "Landside Services",
-        "Cluster": 10,
-        "Name": "UOB T1 Arr Mtg Hall East",
-        "Number": "#01-K27",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
@@ -1361,19 +1283,6 @@
         "Cluster": 11,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K9 (beside Starhub)",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "UOB T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
-        "Com ID": 106,
-        "Category": "Services",
-        "Terminal": "TERMINAL 1",
-        "AL": "Landside Services",
-        "Cluster": 11,
-        "Name": "UOB T1 DCI Central",
-        "Number": "#02-01",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
@@ -1808,19 +1717,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "UOB T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC\u2666Min8",
-        "Com ID": 140,
-        "Category": "Services",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Services",
-        "Cluster": 14,
-        "Name": "UOB T2 Arrival Baggage Claim Hall South",
-        "Number": "#01-178",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "Prosegur T2 Arr Mtg Hall Central\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC\u2666Min8",
         "Com ID": 141,
         "Category": "Services",
@@ -1860,19 +1756,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "UOB T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209B\u2666MC\u2666Min8",
-        "Com ID": 144,
-        "Category": "Services",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Services",
-        "Cluster": 15,
-        "Name": "UOB T2 DT South",
-        "Number": "#02-209B",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "Travelex T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-235\u2666MC\u2666Min8",
         "Com ID": 145,
         "Category": "Services",
@@ -1881,19 +1764,6 @@
         "Cluster": 15,
         "Name": "Travelex T2 DT North",
         "Number": "#02-235",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "UOB T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC\u2666Min8",
-        "Com ID": 146,
-        "Category": "Services",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Services",
-        "Cluster": 15,
-        "Name": "UOB T2 DT North",
-        "Number": "#02-237",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
@@ -3303,19 +3173,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "UOB T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC\u2666Min8",
-        "Com ID": 255,
-        "Category": "Services",
-        "Terminal": "TERMINAL 2",
-        "AL": "Landside Services",
-        "Cluster": 26,
-        "Name": "UOB T2 DCI Central",
-        "Number": "#02-16",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "Travelex T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-17\u2666MC\u2666Min8",
         "Com ID": 256,
         "Category": "Services",
@@ -3758,19 +3615,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "UOB T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
-        "Com ID": 290,
-        "Category": "Services",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Services",
-        "Cluster": 29,
-        "Name": "UOB T3 DT North",
-        "Number": "#02-K10",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7T\u2666MC\u2666Min8",
         "Com ID": 291,
         "Category": "Services",
@@ -3779,19 +3623,6 @@
         "Cluster": 30,
         "Name": "Travelex T3 DT South",
         "Number": "#02-K7T",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "UOB T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC\u2666Min8",
-        "Com ID": 292,
-        "Category": "Services",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Services",
-        "Cluster": 30,
-        "Name": "UOB T3 DT South",
-        "Number": "#02-K7",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
@@ -5084,19 +4915,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "UOB T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
-        "Com ID": 393,
-        "Category": "Services",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Services",
-        "Cluster": 40,
-        "Name": "UOB T3 Arr Mtg Hall South",
-        "Number": "#01-K10",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
         "Com ID": 394,
         "Category": "Services",
@@ -5144,19 +4962,6 @@
         "Cluster": 40,
         "Name": "Travelex T3 Arr Mtg Hall North",
         "Number": "#01-K15",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "UOB T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
-        "Com ID": 398,
-        "Category": "Services",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Services",
-        "Cluster": 40,
-        "Name": "UOB T3 Arr Mtg Hall North",
-        "Number": "#01-K16",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
@@ -5222,19 +5027,6 @@
         "Cluster": 41,
         "Name": "Travelex T3 Arr Mtg Hall South",
         "Number": "#01-K9",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "UOB T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-82\u2666MC\u2666Min8",
-        "Com ID": 404,
-        "Category": "Services",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Services",
-        "Cluster": 41,
-        "Name": "UOB T3 DCI Central",
-        "Number": "#02-82",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
@@ -5578,19 +5370,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "SUPERFOOD KITCHEN\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS\u2666Min8",
-        "Com ID": 431,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Shops",
-        "Cluster": 44,
-        "Name": "SUPERFOOD KITCHEN",
-        "Number": "#B2-25",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "MIXSHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-32A\u2666LS\u2666Min8",
         "Com ID": 432,
         "Category": "Shops",
@@ -5864,19 +5643,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "UOB T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Airside\u2666#01-06\u2666MC\u2666Min8",
-        "Com ID": 453,
-        "Category": "Services",
-        "Terminal": "TERMINAL 4",
-        "AL": "Airside Services",
-        "Cluster": 46,
-        "Name": "UOB T4 Arr Mtg Hall Central",
-        "Number": "#01-06",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "Prosegur T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Landside\u2666#01-07\u2666MC\u2666Min8",
         "Com ID": 454,
         "Category": "Services",
@@ -5924,19 +5690,6 @@
         "Cluster": 46,
         "Name": "7-Eleven (T4)",
         "Number": "#02-240",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "UOB T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC\u2666Min8",
-        "Com ID": 458,
-        "Category": "Services",
-        "Terminal": "TERMINAL 4",
-        "AL": "Airside Services",
-        "Cluster": 46,
-        "Name": "UOB T4 DT North",
-        "Number": "#02-37",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
@@ -6449,19 +6202,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "Old Street Bak Kut Teh\u2666TERMINAL 4\u2666Landside\u2666#01-10\u2666FBL\u2666Min8",
-        "Com ID": 498,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 4",
-        "AL": "Landside F&B",
-        "Cluster": 50,
-        "Name": "Old Street Bak Kut Teh",
-        "Number": "#01-10",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "Starbucks Coffee\u2666TERMINAL 4\u2666Landside\u2666#02-04\u2666FBL\u2666Min8",
         "Com ID": 499,
         "Category": "F&B",
@@ -6644,19 +6384,6 @@
         "Month": "09"
     },
     {
-        "quota_id": "UOB T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC\u2666Min8",
-        "Com ID": 513,
-        "Category": "Services",
-        "Terminal": "TERMINAL 4",
-        "AL": "Landside Services",
-        "Cluster": 52,
-        "Name": "UOB T4 DCI Central",
-        "Number": "#02-02",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#02-K7\u2666CR\u2666Min8",
         "Com ID": 514,
         "Category": "Services",
@@ -6679,19 +6406,6 @@
         "Name": "T4 iSC Arrival pushcart",
         "Number": "",
         "Quota": 5,
-        "Year": "2024",
-        "Month": "09"
-    },
-    {
-        "quota_id": "LIHO TEA\u2666TERMINAL 4\u2666Landside\u2666#01-08\u2666LS\u2666Min8",
-        "Com ID": 516,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 4",
-        "AL": "Landside Shops",
-        "Cluster": 52,
-        "Name": "LIHO TEA",
-        "Number": "#01-08",
-        "Quota": 8,
         "Year": "2024",
         "Month": "09"
     },
@@ -6756,6 +6470,266 @@
         "Cluster": 53,
         "Name": "WH Smith (T1 DTE)",
         "Number": "#02-61",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Tory Burch\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666LX\u2666Min8",
+        "Com ID": 522,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 53,
+        "Name": "Tory Burch",
+        "Number": "#02-213",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "FILA\u2666TERMINAL 4\u2666Airside\u2666#02-53/54\u2666MP\u2666Min8",
+        "Com ID": 523,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Shops",
+        "Cluster": 53,
+        "Name": "FILA",
+        "Number": "#02-53/54",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Prosegur T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
+        "Com ID": 524,
+        "Category": "Services",
+        "Terminal": "TERMINAL 1",
+        "AL": "Landside Services",
+        "Cluster": 54,
+        "Name": "Prosegur T1 Arr Mtg Hall East",
+        "Number": "#01-K27",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC\u2666Min8",
+        "Com ID": 525,
+        "Category": "Services",
+        "Terminal": "TERMINAL 1",
+        "AL": "Landside Services",
+        "Cluster": 54,
+        "Name": "Travelex T1 Arr Mtg West",
+        "Number": "#01-K24",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
+        "Com ID": 526,
+        "Category": "Services",
+        "Terminal": "TERMINAL 1",
+        "AL": "Landside Services",
+        "Cluster": 54,
+        "Name": "Travelex T1 DCI Central",
+        "Number": "#02-01",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC\u2666Min8",
+        "Com ID": 527,
+        "Category": "Services",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Services",
+        "Cluster": 54,
+        "Name": "Travelex T1 DT East",
+        "Number": "#02-71",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC\u2666Min8",
+        "Com ID": 528,
+        "Category": "Services",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Services",
+        "Cluster": 54,
+        "Name": "Travelex T1 DT West",
+        "Number": "#02-20",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC\u2666Min8",
+        "Com ID": 529,
+        "Category": "Services",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Services",
+        "Cluster": 54,
+        "Name": "Travelex T2 Arrival Baggage Claim Hall South",
+        "Number": "#01-178",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Prosegur T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209B\u2666MC\u2666Min8",
+        "Com ID": 530,
+        "Category": "Services",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Services",
+        "Cluster": 54,
+        "Name": "Prosegur T2 DT South",
+        "Number": "#02-209B",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC\u2666Min8",
+        "Com ID": 531,
+        "Category": "Services",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Services",
+        "Cluster": 54,
+        "Name": "Prosegur T2 DT North",
+        "Number": "#02-237",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Prosegur T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC\u2666Min8",
+        "Com ID": 532,
+        "Category": "Services",
+        "Terminal": "TERMINAL 2",
+        "AL": "Landside Services",
+        "Cluster": 54,
+        "Name": "Prosegur T2 DCI Central",
+        "Number": "#02-16",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Prosegur T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
+        "Com ID": 533,
+        "Category": "Services",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside Services",
+        "Cluster": 54,
+        "Name": "Prosegur T3 Arr Mtg Hall North",
+        "Number": "#01-K16",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Prosegur T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
+        "Com ID": 534,
+        "Category": "Services",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside Services",
+        "Cluster": 54,
+        "Name": "Prosegur T3 Arr Mtg Hall South",
+        "Number": "#01-K10",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-82\u2666MC\u2666Min8",
+        "Com ID": 535,
+        "Category": "Services",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside Services",
+        "Cluster": 54,
+        "Name": "Travelex T3 DCI Central",
+        "Number": "#02-82",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
+        "Com ID": 536,
+        "Category": "Services",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Services",
+        "Cluster": 54,
+        "Name": "Travelex T3 DT North",
+        "Number": "#02-K10",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC\u2666Min8",
+        "Com ID": 537,
+        "Category": "Services",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Services",
+        "Cluster": 54,
+        "Name": "Travelex T3 DT South",
+        "Number": "#02-K7",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC\u2666Min8",
+        "Com ID": 538,
+        "Category": "Services",
+        "Terminal": "TERMINAL 4",
+        "AL": "Landside Services",
+        "Cluster": 54,
+        "Name": "Travelex T4 DCI Central",
+        "Number": "#02-02",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC\u2666Min8",
+        "Com ID": 539,
+        "Category": "Services",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Services",
+        "Cluster": 54,
+        "Name": "Travelex T4 DT North",
+        "Number": "#02-37",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Travelex T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Airside\u2666#01-06\u2666MC\u2666Min8",
+        "Com ID": 540,
+        "Category": "Services",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Services",
+        "Cluster": 54,
+        "Name": "Travelex T4 Arr Mtg Hall Central",
+        "Number": "#01-06",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Aroma Truffle\u2666TERMINAL 1\u2666Airside\u2666#02-K19B\u2666CCD\u2666Min8",
+        "Com ID": 541,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 54,
+        "Name": "Aroma Truffle",
+        "Number": "#02-K19B",
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
