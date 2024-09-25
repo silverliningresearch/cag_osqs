@@ -6733,6 +6733,71 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
+    },
+    {
+        "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min8",
+        "Com ID": 542,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 55,
+        "Name": "A Noodle Story",
+        "Number": "#02-K19",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA\u2666Min8",
+        "Com ID": 543,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 55,
+        "Name": "Crave",
+        "Number": "#02-K19A",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min8",
+        "Com ID": 544,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 55,
+        "Name": "Lixin Teochew Fishball Noodles",
+        "Number": "#02-K17",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Victoria's Secret\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666PC\u2666Min8",
+        "Com ID": 545,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 55,
+        "Name": "Victoria's Secret",
+        "Number": "#02-27",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
+        "Com ID": 546,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 55,
+        "Name": "Fila Kids",
+        "Number": "#02-161",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
     }
 ]    
 
