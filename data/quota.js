@@ -6798,6 +6798,32 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "09"
+    },
+    {
+        "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
+        "Com ID": 547,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 55,
+        "Name": "Hainan Story Coffee & Toast",
+        "Number": "#02-K18",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
+    },
+    {
+        "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
+        "Com ID": 548,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 55,
+        "Name": "Luckin Coffee",
+        "Number": "#02-59",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "09"
     }
 ]    
 
