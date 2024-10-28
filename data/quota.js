@@ -6828,8 +6828,7 @@
 
 
 
-
-     {
+   {
         "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min8",
         "Com ID": 1,
         "Category": "F&B",
@@ -9867,19 +9866,6 @@
         "Cluster": 24,
         "Name": "Tumi",
         "Number": "#026-100",
-        "Quota": 8,
-        "Year": "2024",
-        "Month": "10"
-    },
-    {
-        "quota_id": "Bee Cheng Hiang (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#026-135 (#02-199)\u2666CCD\u2666Min8",
-        "Com ID": 236,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 24,
-        "Name": "Bee Cheng Hiang (T2 DTS)",
-        "Number": "#026-135 (#02-199)",
         "Quota": 8,
         "Year": "2024",
         "Month": "10"
@@ -13703,6 +13689,19 @@
         "Name": "Lylo",
         "Number": "#01-K12",
         "Quota": 5,
+        "Year": "2024",
+        "Month": "10"
+    },
+    {
+        "quota_id": "Chatterbox Express\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666FBA\u2666Min8",
+        "Com ID": 532,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 54,
+        "Name": "Chatterbox Express",
+        "Number": "#02-52",
+        "Quota": 8,
         "Year": "2024",
         "Month": "10"
     }
