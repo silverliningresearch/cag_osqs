@@ -13698,12 +13698,13 @@
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
         "AL": "Airside F&B",
-        "Cluster": 54,
+        "Cluster": 55,
         "Name": "Chatterbox Express",
         "Number": "#02-52",
         "Quota": 8,
         "Year": "2024",
         "Month": "10"
+
     }
 ]    
 
