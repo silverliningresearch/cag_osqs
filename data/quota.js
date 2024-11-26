@@ -6889,6 +6889,32 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "11"
+    },
+    {
+        "quota_id": "Bacha Coffee (DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666CCD\u2666Min8",
+        "Com ID": 531,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 54,
+        "Name": "Bacha Coffee (DTN)",
+        "Number": "#02-236",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "11"
+    },
+    {
+        "quota_id": "SF Express\u2666TERMINAL 1\u2666Landside\u2666#01-K6\u2666LS\u2666Min8",
+        "Com ID": 532,
+        "Category": "Services",
+        "Terminal": "TERMINAL 1",
+        "AL": "Landside Services",
+        "Cluster": 54,
+        "Name": "SF Express",
+        "Number": "#01-K6",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "11"
     }
 ]    
 
