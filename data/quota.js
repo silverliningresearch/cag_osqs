@@ -6915,6 +6915,32 @@
         "Quota": 8,
         "Year": "2024",
         "Month": "12"
+    },
+    {
+        "quota_id": "Kaboom (DTE) \u2666TERMINAL 1\u2666Airside\u2666#02-62A\u2666CT\u2666Min8",
+        "Com ID": 537,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 55,
+        "Name": "Kaboom (DTE)",
+        "Number": "#02-62A",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "12"
+    },
+    {
+        "quota_id": "Metapod\u2666TERMINAL 1\u2666Airside\u2666#02-62\u2666EL\u2666Min8",
+        "Com ID": 538,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 55,
+        "Name": "Metapod",
+        "Number": "#02-62",
+        "Quota": 8,
+        "Year": "2024",
+        "Month": "12"
     }
 ]    
 
