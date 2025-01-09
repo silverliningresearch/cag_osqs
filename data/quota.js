@@ -3316,13 +3316,13 @@
         "Month": "01"
     },
     {
-        "quota_id": "Chopstix & Rice and Taiwan Culture\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL\u2666Min8",
+        "quota_id": "Claypot Daddy\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL\u2666Min8",
         "Com ID": 256,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
         "AL": "Landside F&B",
         "Cluster": 26,
-        "Name": "Chopstix & Rice and Taiwan Culture",
+        "Name": "Claypot Daddy",
         "Number": "#03-11/12",
         "Quota": 8,
         "Year": "2025",
@@ -4910,19 +4910,6 @@
         "Cluster": 38,
         "Name": "PARADISE DYNASTY",
         "Number": "#03-32",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "01"
-    },
-    {
-        "quota_id": "BABA NYONYA\u2666TERMINAL 3\u2666Landside\u2666#03-33\u2666FBL\u2666Min8",
-        "Com ID": 381,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside F&B",
-        "Cluster": 39,
-        "Name": "BABA NYONYA",
-        "Number": "#03-33",
         "Quota": 8,
         "Year": "2025",
         "Month": "01"
