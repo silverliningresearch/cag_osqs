@@ -6915,6 +6915,32 @@
         "Quota": 8,
         "Year": "2025",
         "Month": "01"
+    },
+    {
+        "quota_id": "Harry's Bar\u2666TERMINAL 1\u2666Airside\u2666#02-65\u2666FBA\u2666Min8",
+        "Com ID": 537,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 55,
+        "Name": "Harry's Bar",
+        "Number": "#02-65",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "01"
+    },
+    {
+        "quota_id": "Hugo Boss\u2666TERMINAL 1\u2666Airside\u2666#02-76\u2666LX\u2666Min8",
+        "Com ID": 538,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 55,
+        "Name": "Hugo Boss",
+        "Number": "#02-76",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "01"
     }
 ]    
 
