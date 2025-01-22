@@ -2263,13 +2263,13 @@
         "Month": "06_07"
     },
     {
-        "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL",
+        "quota_id": "Metapod (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL",
         "Com ID": 177,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Shops",
         "Cluster": 18,
-        "Name": "Sprint-Cass (T2 DTS)",
+        "Name": "Metapod (T2 DTS)",
         "Number": "#02-186",
         "Quota": 3,
         "Year": "2024",

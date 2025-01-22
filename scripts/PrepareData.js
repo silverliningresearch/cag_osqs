@@ -152,6 +152,12 @@ function clean_data ()
     if (interview_data[i].InterviewDate.substring(0,7) == "2024-12") {    
       if ( interview_data[i].quota_id == "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-11R\u2666FBA\u2666Min25") interview_data[i].quota_id =  "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-011\u2666FBA\u2666Min25";
     }
+
+    if (interview_data[i].InterviewDate.substring(0,7) == "2025-01") {    
+      if ( interview_data[i].quota_id == "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8") 
+        interview_data[i].quota_id =  "Metapod (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8";
+      
+    }
   
   }
 }
