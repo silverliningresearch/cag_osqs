@@ -6941,6 +6941,32 @@
         "Quota": 8,
         "Year": "2025",
         "Month": "01"
+    },
+    {
+        "quota_id": "Roost\u2666TERMINAL 4\u2666Landside\u2666#01-10\u2666FBL\u2666Min8",
+        "Com ID": 539,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 4",
+        "AL": "Landside F&B",
+        "Cluster": 55,
+        "Name": "Roost",
+        "Number": "#01-10",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "01"
+    },
+    {
+        "quota_id": "Tech House\u2666TERMINAL 2\u2666Landside\u2666#02-K2\u2666LS\u2666Min8",
+        "Com ID": 540,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Landside Shops",
+        "Cluster": 55,
+        "Name": "Tech House",
+        "Number": "#02-K2",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "01"
     }
 ]    
 
