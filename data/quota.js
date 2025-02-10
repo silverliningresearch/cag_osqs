@@ -1911,19 +1911,7 @@
         "Year": "2025",
         "Month": "02"
     },
-    {
-        "quota_id": "CRAVE\u2666TERMINAL 2\u2666Airside\u2666#02-K8\u2666FBA\u2666Min8",
-        "Com ID": 148,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside F&B",
-        "Cluster": 15,
-        "Name": "CRAVE",
-        "Number": "#02-K8",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "02"
-    },
+
     {
         "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
         "Com ID": 149,
