@@ -703,19 +703,6 @@
         "Month": "02"
     },
     {
-        "quota_id": "Tumi\u2666TERMINAL 1\u2666Airside\u2666#02-31N\u2666MP\u2666Min8",
-        "Com ID": 55,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 6,
-        "Name": "Tumi",
-        "Number": "#02-31N",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "02"
-    },
-    {
         "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD\u2666Min8",
         "Com ID": 56,
         "Category": "Shops",
@@ -1244,19 +1231,6 @@
         "Cluster": 10,
         "Name": "Beyond The Vines",
         "Number": "#02-K25",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "02"
-    },
-    {
-        "quota_id": "Sandbar\u2666TERMINAL 1\u2666Airside\u2666#02-K26\u2666MP\u2666Min8",
-        "Com ID": 97,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 10,
-        "Name": "Sandbar",
-        "Number": "#02-K26",
         "Quota": 8,
         "Year": "2025",
         "Month": "02"
@@ -1911,7 +1885,6 @@
         "Year": "2025",
         "Month": "02"
     },
-
     {
         "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
         "Com ID": 149,
@@ -6952,6 +6925,19 @@
         "Cluster": 55,
         "Name": "NUA",
         "Number": "#02-K13R",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "02"
+    },
+    {
+        "quota_id": "Chengdu Bowl\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
+        "Com ID": 538,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside F&B",
+        "Cluster": 55,
+        "Name": "Chengdu Bowl",
+        "Number": "#03-21",
         "Quota": 8,
         "Year": "2025",
         "Month": "02"
