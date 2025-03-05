@@ -66,6 +66,32 @@
         "Month": "03"
     },
     {
+        "quota_id": "Starbucks Coffee (Premises A)\u2666TERMINAL 1\u2666Airside\u2666#02-66\u2666FBA\u2666Min8",
+        "Com ID": 6,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 1,
+        "Name": "Starbucks Coffee (Premises A)",
+        "Number": "#02-66",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "03"
+    },
+    {
+        "quota_id": "Pezzo\u2666TERMINAL 1\u2666Airside\u2666#02-K09N\u2666FBA\u2666Min8",
+        "Com ID": 7,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 1,
+        "Name": "Pezzo",
+        "Number": "#02-K09N",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "03"
+    },
+    {
         "quota_id": "Pontian Wanton Noodle\u2666TERMINAL 1\u2666Airside\u2666#02-K10N\u2666FBA\u2666Min8",
         "Com ID": 8,
         "Category": "F&B",
@@ -139,6 +165,19 @@
         "Cluster": 2,
         "Name": "Crave",
         "Number": "#02-K19A",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "03"
+    },
+    {
+        "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K8\u2666FBA\u2666Min8",
+        "Com ID": 14,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 2,
+        "Name": "Heavenly Wang",
+        "Number": "#02-K8",
         "Quota": 8,
         "Year": "2025",
         "Month": "03"
@@ -2324,6 +2363,19 @@
         "Name": "Perfumes & Cosmetics (T2 DTC)",
         "Number": "#02-174 (#026-103E)",
         "Quota": 25,
+        "Year": "2025",
+        "Month": "03"
+    },
+    {
+        "quota_id": "Dyson Pop-Up\u2666TERMINAL 2\u2666Airside\u2666#02-174A\u2666EL\u2666Min8",
+        "Com ID": 183,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 19,
+        "Name": "Dyson Pop-Up",
+        "Number": "#02-174A",
+        "Quota": 8,
         "Year": "2025",
         "Month": "03"
     },
