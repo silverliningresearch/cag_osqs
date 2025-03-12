@@ -521,19 +521,6 @@
         "Month": "03"
     },
     {
-        "quota_id": "Kaboom (DTW) \u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT\u2666Min8",
-        "Com ID": 44,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 5,
-        "Name": "Kaboom (DTW) ",
-        "Number": "#02-18N",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "03"
-    },
-    {
         "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
         "Com ID": 45,
         "Category": "Shops",
@@ -2258,19 +2245,6 @@
         "Cluster": 18,
         "Name": "Lacoste",
         "Number": "#02-163 (#026-098-01)",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "03"
-    },
-    {
-        "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 2\u2666Airside\u2666#02-164 (#026-095-05R)\u2666CCD\u2666Min8",
-        "Com ID": 178,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 2",
-        "AL": "Airside Shops",
-        "Cluster": 18,
-        "Name": "Garrett Popcorn Shops",
-        "Number": "#02-164 (#026-095-05R)",
         "Quota": 8,
         "Year": "2025",
         "Month": "03"
