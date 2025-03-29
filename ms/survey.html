@@ -67,6 +67,12 @@
         setTimeout(() => {
           const listSearchHandler = () => {
             console.log("Current Page Index: ", api.fn.getCurrentPageIndex() );
+
+            if (api.fn.getCurrentPageIndex() === 3) {
+              show_outlet_search_box();
+            } else {
+              hide_outlet_search_box();
+            }
           };
 
           api.events.subscribe('next', listSearchHandler);

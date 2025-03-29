@@ -18,16 +18,24 @@ function item_in_list_found(list, item) {
 }
 
 function load_outlets_list() {
-  var terminal  = api.fn.answers().Q1_0_1;
-  var area  = api.fn.answers().Q1_0_2;
+  var terminal  = api.fn.answers().Terminal;
+  var area  = api.fn.answers().Area;
+  var category = api.fn.answers().q2;
   var temp_data = JSON.parse(quota_list);
  
-  if (area == 1) area_text = "Airside F&B";
-  if (area == 2) area_text = "Landside F&B";
-  if (area == 3) area_text = "Airside Shops";
-  if (area == 4) area_text = "Landside Shops";
-  if (area == 5) area_text = "Airside Services";
-  if (area == 6) area_text = "Landside Services";
+  // if (area == 1) area_text = "Airside F&B";
+  // if (area == 2) area_text = "Landside F&B";
+  // if (area == 3) area_text = "Airside Shops";
+  // if (area == 4) area_text = "Landside Shops";
+  // if (area == 5) area_text = "Airside Services";
+  // if (area == 6) area_text = "Landside Services";
+
+  if (area == 1) area_text = "Airside";
+  if (area == 2) area_text = "Landside";
+
+  if (category == 1) area_text = area_text + " Shops";
+  if (category == 2) area_text = area_text + " F&B";
+  if (category == 3) area_text = area_text + " Services";
 
   console.log("load_outlet_code started...");
   console.log("terminal...", terminal);
@@ -43,7 +51,7 @@ function load_outlets_list() {
     var quota_month =  temp_data[i].Month + "-"  + temp_data[i].Year; 
     if ((item["Terminal"] == "TERMINAL " +  terminal)
     && (item["AL"] == area_text)
-    && (quota_month == currentMonth)
+    //&& (quota_month == currentMonth)
     )
     { 
       item.Show = item.quota_id;
@@ -62,9 +70,6 @@ function select_data(currentOutlet) {
   {
     console.log('saving outlet data...');
     api.fn.answers({Outlet_ID:  currentOutlet.quota_id});
-    api.fn.answers({Terminal:  currentOutlet.Terminal});
-    api.fn.answers({Area:  currentOutlet.AL});
-    api.fn.answers({Outlet_name:  currentOutlet.Name + currentOutlet.Number});
     api.fn.answers({urlVar20:  currentOutlet.quota_id});
   }
   else
