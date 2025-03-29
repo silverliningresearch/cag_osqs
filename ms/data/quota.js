@@ -1,7 +1,7 @@
      let quota_list = ` 
 [
     {
-        "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min8",
+        "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA",
         "Com ID": 1,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -14,7 +14,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA\u2666Min8",
+        "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA",
         "Com ID": 2,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -27,7 +27,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Chatterbox Express\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666FBA\u2666Min8",
+        "quota_id": "Chatterbox Express\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666FBA",
         "Com ID": 3,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -40,7 +40,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
+        "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA",
         "Com ID": 4,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -53,7 +53,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Harry's Bar\u2666TERMINAL 1\u2666Airside\u2666#02-65\u2666FBA\u2666Min8",
+        "quota_id": "Harry's Bar\u2666TERMINAL 1\u2666Airside\u2666#02-65\u2666FBA",
         "Com ID": 5,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -66,7 +66,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Pontian Wanton Noodle\u2666TERMINAL 1\u2666Airside\u2666#02-K10N\u2666FBA\u2666Min8",
+        "quota_id": "Pontian Wanton Noodle\u2666TERMINAL 1\u2666Airside\u2666#02-K10N\u2666FBA",
         "Com ID": 6,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -79,7 +79,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tip Top Curry Puff\u2666TERMINAL 1\u2666Airside\u2666#02-K11N\u2666FBA\u2666Min8",
+        "quota_id": "Tip Top Curry Puff\u2666TERMINAL 1\u2666Airside\u2666#02-K11N\u2666FBA",
         "Com ID": 7,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -92,7 +92,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min8",
+        "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA",
         "Com ID": 8,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -105,7 +105,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
+        "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA",
         "Com ID": 9,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -118,7 +118,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min8",
+        "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA",
         "Com ID": 10,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -131,7 +131,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA\u2666Min8",
+        "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA",
         "Com ID": 11,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -144,7 +144,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Burger King\u2666TERMINAL 1\u2666Airside\u2666#03-02\u2666FBA\u2666Min8",
+        "quota_id": "Burger King\u2666TERMINAL 1\u2666Airside\u2666#03-02\u2666FBA",
         "Com ID": 12,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -157,7 +157,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA\u2666Min25",
+        "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA",
         "Com ID": 13,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -170,7 +170,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA\u2666Min8",
+        "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA",
         "Com ID": 14,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -183,7 +183,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min8",
+        "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA",
         "Com ID": 15,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -196,7 +196,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA\u2666Min8",
+        "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA",
         "Com ID": 16,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -209,7 +209,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Pizza Hut\u2666TERMINAL 1\u2666Airside\u2666#03-K04\u2666FBA\u2666Min8",
+        "quota_id": "Pizza Hut\u2666TERMINAL 1\u2666Airside\u2666#03-K04\u2666FBA",
         "Com ID": 17,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -222,7 +222,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Premises B - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Airside\u2666#02-17\u2666BS\u2666Min8",
+        "quota_id": "Premises B - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Airside\u2666#02-17\u2666BS",
         "Com ID": 18,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -235,7 +235,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC\u2666Min8",
+        "quota_id": "Travelex T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC",
         "Com ID": 19,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -248,7 +248,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC",
         "Com ID": 20,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -261,7 +261,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC\u2666Min8",
+        "quota_id": "Travelex T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC",
         "Com ID": 21,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -274,7 +274,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-72\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-72\u2666MC",
         "Com ID": 22,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -287,7 +287,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "7-Eleven (T1)\u2666TERMINAL 1\u2666Airside\u2666#02-75\u2666CS\u2666Min8",
+        "quota_id": "7-Eleven (T1)\u2666TERMINAL 1\u2666Airside\u2666#02-75\u2666CS",
         "Com ID": 23,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -300,7 +300,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min8",
+        "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR",
         "Com ID": 24,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -313,7 +313,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
+        "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL",
         "Com ID": 25,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -326,7 +326,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL\u2666Min20",
+        "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Com ID": 26,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -339,7 +339,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "T1 iSC Departure counter\u2666TERMINAL 1\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "quota_id": "T1 iSC Departure counter\u2666TERMINAL 1\u2666Airside\u2666NA\u2666PS",
         "Com ID": 27,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -352,7 +352,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC",
         "Com ID": 28,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -365,7 +365,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT\u2666Min15",
+        "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT",
         "Com ID": 29,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -378,7 +378,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T1 ABW)\u2666TERMINAL 1\u2666Airside\u2666#01-22F\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T1 ABW)\u2666TERMINAL 1\u2666Airside\u2666#01-22F\u2666PC",
         "Com ID": 30,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -391,7 +391,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min15",
+        "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT",
         "Com ID": 31,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -404,7 +404,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prada\u2666TERMINAL 1\u2666Airside\u2666#02-12A\u2666LX\u2666Min8",
+        "quota_id": "Prada\u2666TERMINAL 1\u2666Airside\u2666#02-12A\u2666LX",
         "Com ID": 32,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -417,7 +417,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
+        "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX",
         "Com ID": 33,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -430,7 +430,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12\u2666LX\u2666Min8",
+        "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12\u2666LX",
         "Com ID": 34,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -443,7 +443,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Roger Vivier\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX\u2666Min8",
+        "quota_id": "Roger Vivier\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX",
         "Com ID": 35,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -456,7 +456,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "iStudio\u2666TERMINAL 1\u2666Airside\u2666#02-13F\u2666EL\u2666Min8",
+        "quota_id": "iStudio\u2666TERMINAL 1\u2666Airside\u2666#02-13F\u2666EL",
         "Com ID": 36,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -469,7 +469,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD\u2666Min8",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD",
         "Com ID": 37,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -482,7 +482,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD\u2666Min8",
+        "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD",
         "Com ID": 38,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -495,7 +495,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bengawan Solo\u2666TERMINAL 1\u2666Airside\u2666#02-15N\u2666CCD\u2666Min8",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 1\u2666Airside\u2666#02-15N\u2666CCD",
         "Com ID": 39,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -508,7 +508,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Guardian (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-16\u2666PH\u2666Min8",
+        "quota_id": "Guardian (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-16\u2666PH",
         "Com ID": 40,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -521,7 +521,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
+        "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP",
         "Com ID": 41,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -534,7 +534,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT\u2666Min15",
+        "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT",
         "Com ID": 42,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -547,7 +547,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP\u2666Min8",
+        "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP",
         "Com ID": 43,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -560,7 +560,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC",
         "Com ID": 44,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -573,7 +573,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Victoria's Secret\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666PC\u2666Min8",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666PC",
         "Com ID": 45,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -586,7 +586,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min8",
+        "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP",
         "Com ID": 46,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -599,7 +599,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Chow Tai Fook\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666JW\u2666Min8",
+        "quota_id": "Chow Tai Fook\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666JW",
         "Com ID": 47,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -612,7 +612,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Times Travel\u2666TERMINAL 1\u2666Airside\u2666#02-30A\u2666CT\u2666Min8",
+        "quota_id": "Times Travel\u2666TERMINAL 1\u2666Airside\u2666#02-30A\u2666CT",
         "Com ID": 48,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -625,7 +625,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LACOSTE\u2666TERMINAL 1\u2666Airside\u2666#02-30F\u2666MP\u2666Min8",
+        "quota_id": "LACOSTE\u2666TERMINAL 1\u2666Airside\u2666#02-30F\u2666MP",
         "Com ID": 49,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -638,7 +638,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD\u2666Min8",
+        "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD",
         "Com ID": 50,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -651,7 +651,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV\u2666Min8",
+        "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV",
         "Com ID": 51,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -664,7 +664,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-35N\u2666CCD\u2666Min8",
+        "quota_id": "The Cocoa Trees (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-35N\u2666CCD",
         "Com ID": 52,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -677,7 +677,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL\u2666Min8",
+        "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL",
         "Com ID": 53,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -690,7 +690,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
+        "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC",
         "Com ID": 54,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -703,7 +703,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "WH Smith - Premises B (Air) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-41C\u2666OW\u2666Min8",
+        "quota_id": "WH Smith - Premises B (Air) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-41C\u2666OW",
         "Com ID": 55,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -716,7 +716,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD\u2666Min8",
+        "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD",
         "Com ID": 56,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -729,7 +729,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC",
         "Com ID": 57,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -742,7 +742,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
+        "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX",
         "Com ID": 58,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -755,7 +755,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tiffany & Co.\u2666TERMINAL 1\u2666Airside\u2666#02-45\u2666LX\u2666Min8",
+        "quota_id": "Tiffany & Co.\u2666TERMINAL 1\u2666Airside\u2666#02-45\u2666LX",
         "Com ID": 59,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -768,7 +768,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min8",
+        "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX",
         "Com ID": 60,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -781,7 +781,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Charles & Keith\u2666TERMINAL 1\u2666Airside\u2666#02-51\u2666MP\u2666Min8",
+        "quota_id": "Charles & Keith\u2666TERMINAL 1\u2666Airside\u2666#02-51\u2666MP",
         "Com ID": 61,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -794,7 +794,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
+        "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT",
         "Com ID": 62,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -807,7 +807,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Gassan Watches\u2666TERMINAL 1\u2666Airside\u2666#02-54\u2666LX\u2666Min8",
+        "quota_id": "Gassan Watches\u2666TERMINAL 1\u2666Airside\u2666#02-54\u2666LX",
         "Com ID": 63,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -820,7 +820,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hermes\u2666TERMINAL 1\u2666Airside\u2666#02-55/56\u2666LX\u2666Min8",
+        "quota_id": "Hermes\u2666TERMINAL 1\u2666Airside\u2666#02-55/56\u2666LX",
         "Com ID": 64,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -833,7 +833,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX\u2666Min8",
+        "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX",
         "Com ID": 65,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -846,7 +846,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Marc Jacobs\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666MP\u2666Min8",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666MP",
         "Com ID": 66,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -859,7 +859,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Omega\u2666TERMINAL 1\u2666Airside\u2666#02-60\u2666LX\u2666Min8",
+        "quota_id": "Omega\u2666TERMINAL 1\u2666Airside\u2666#02-60\u2666LX",
         "Com ID": 67,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -872,7 +872,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666OW\u2666Min8",
+        "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666OW",
         "Com ID": 68,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -885,7 +885,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Kaboom (DTE) \u2666TERMINAL 1\u2666Airside\u2666#02-62A\u2666CT\u2666Min8",
+        "quota_id": "Kaboom (DTE) \u2666TERMINAL 1\u2666Airside\u2666#02-62A\u2666CT",
         "Com ID": 69,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -898,7 +898,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Metapod\u2666TERMINAL 1\u2666Airside\u2666#02-62\u2666EL\u2666Min8",
+        "quota_id": "Metapod\u2666TERMINAL 1\u2666Airside\u2666#02-62\u2666EL",
         "Com ID": 70,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -911,7 +911,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666CCD\u2666Min8",
+        "quota_id": "The Cocoa Trees\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666CCD",
         "Com ID": 71,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -924,7 +924,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-64\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-64\u2666PC",
         "Com ID": 72,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -937,7 +937,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
+        "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT",
         "Com ID": 73,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -950,7 +950,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH\u2666Min8",
+        "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH",
         "Com ID": 74,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -963,7 +963,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Discover Singapore (Premises A) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-70\u2666SV\u2666Min8",
+        "quota_id": "Discover Singapore (Premises A) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-70\u2666SV",
         "Com ID": 75,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -976,7 +976,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "adidas Originals\u2666TERMINAL 1\u2666Airside\u2666#02-73\u2666MP\u2666Min8",
+        "quota_id": "adidas Originals\u2666TERMINAL 1\u2666Airside\u2666#02-73\u2666MP",
         "Com ID": 76,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -989,7 +989,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Pedro\u2666TERMINAL 1\u2666Airside\u2666#02-74\u2666MP\u2666Min8",
+        "quota_id": "Pedro\u2666TERMINAL 1\u2666Airside\u2666#02-74\u2666MP",
         "Com ID": 77,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1002,7 +1002,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hugo Boss\u2666TERMINAL 1\u2666Airside\u2666#02-76\u2666LX\u2666Min8",
+        "quota_id": "Hugo Boss\u2666TERMINAL 1\u2666Airside\u2666#02-76\u2666LX",
         "Com ID": 78,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1015,7 +1015,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Longchamp\u2666TERMINAL 1\u2666Airside\u2666#02-77\u2666MP\u2666Min8",
+        "quota_id": "Longchamp\u2666TERMINAL 1\u2666Airside\u2666#02-77\u2666MP",
         "Com ID": 79,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1028,7 +1028,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Qeelin\u2666TERMINAL 1\u2666Airside\u2666#02-78\u2666LX\u2666Min8",
+        "quota_id": "Qeelin\u2666TERMINAL 1\u2666Airside\u2666#02-78\u2666LX",
         "Com ID": 80,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1041,7 +1041,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Gucci\u2666TERMINAL 1\u2666Airside\u2666#02-79\u2666LX\u2666Min8",
+        "quota_id": "Gucci\u2666TERMINAL 1\u2666Airside\u2666#02-79\u2666LX",
         "Com ID": 81,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1054,7 +1054,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Burberry\u2666TERMINAL 1\u2666Airside\u2666#02-80\u2666LX\u2666Min8",
+        "quota_id": "Burberry\u2666TERMINAL 1\u2666Airside\u2666#02-80\u2666LX",
         "Com ID": 82,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1067,7 +1067,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Balenciaga\u2666TERMINAL 1\u2666Airside\u2666#02-81\u2666LX\u2666Min8",
+        "quota_id": "Balenciaga\u2666TERMINAL 1\u2666Airside\u2666#02-81\u2666LX",
         "Com ID": 83,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1080,7 +1080,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Saint Laurent\u2666TERMINAL 1\u2666Airside\u2666#02-82\u2666LX\u2666Min8",
+        "quota_id": "Saint Laurent\u2666TERMINAL 1\u2666Airside\u2666#02-82\u2666LX",
         "Com ID": 84,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1093,7 +1093,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Irvins Salted Egg\u2666TERMINAL 1\u2666Airside\u2666#02-K07A\u2666CCD\u2666Min8",
+        "quota_id": "Irvins Salted Egg\u2666TERMINAL 1\u2666Airside\u2666#02-K07A\u2666CCD",
         "Com ID": 85,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1106,7 +1106,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Killiney Experience\u2666TERMINAL 1\u2666Airside\u2666#02-K12\u2666CCD\u2666Min8",
+        "quota_id": "The Killiney Experience\u2666TERMINAL 1\u2666Airside\u2666#02-K12\u2666CCD",
         "Com ID": 86,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1119,7 +1119,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Aroma Truffle\u2666TERMINAL 1\u2666Airside\u2666#02-K19B\u2666CCD\u2666Min8",
+        "quota_id": "Aroma Truffle\u2666TERMINAL 1\u2666Airside\u2666#02-K19B\u2666CCD",
         "Com ID": 87,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1132,7 +1132,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Taste Singapore (Premises A3)\u2666TERMINAL 1\u2666Airside\u2666#02-K23\u2666CCD\u2666Min8",
+        "quota_id": "Taste Singapore (Premises A3)\u2666TERMINAL 1\u2666Airside\u2666#02-K23\u2666CCD",
         "Com ID": 88,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1145,7 +1145,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 1\u2666Airside\u2666#02-K24\u2666CCD\u2666Min8",
+        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 1\u2666Airside\u2666#02-K24\u2666CCD",
         "Com ID": 89,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1158,7 +1158,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
+        "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP",
         "Com ID": 90,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1171,7 +1171,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Breo\u2666TERMINAL 1\u2666Airside\u2666#02-K46A\u2666EL\u2666Min8",
+        "quota_id": "Breo\u2666TERMINAL 1\u2666Airside\u2666#02-K46A\u2666EL",
         "Com ID": 91,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1184,7 +1184,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "MA MUM TO GO\u2666TERMINAL 1\u2666Landside\u2666#01-K23\u2666FBL\u2666Min8",
+        "quota_id": "MA MUM TO GO\u2666TERMINAL 1\u2666Landside\u2666#01-K23\u2666FBL",
         "Com ID": 92,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -1197,7 +1197,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "HEAVENLY WANG AND WANG NASI LEMAK\u2666TERMINAL 1\u2666Landside\u2666#02-03/04\u2666FBL\u2666Min8",
+        "quota_id": "HEAVENLY WANG AND WANG NASI LEMAK\u2666TERMINAL 1\u2666Landside\u2666#02-03/04\u2666FBL",
         "Com ID": 93,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -1210,7 +1210,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min8",
+        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL",
         "Com ID": 94,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -1223,7 +1223,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Penang Culture and Woke Ramen\u2666TERMINAL 1\u2666Landside\u2666#03-19\u2666FBL\u2666Min8",
+        "quota_id": "Penang Culture and Woke Ramen\u2666TERMINAL 1\u2666Landside\u2666#03-19\u2666FBL",
         "Com ID": 95,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -1236,7 +1236,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "ANJAPPAR AND KAILASH PARBAT\u2666TERMINAL 1\u2666Landside\u2666#03-20\u2666FBL\u2666Min8",
+        "quota_id": "ANJAPPAR AND KAILASH PARBAT\u2666TERMINAL 1\u2666Landside\u2666#03-20\u2666FBL",
         "Com ID": 96,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -1249,7 +1249,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Saboten\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
+        "quota_id": "Saboten\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL",
         "Com ID": 97,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -1262,7 +1262,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "TERRACE CHINESE KITCHEN\u2666TERMINAL 1\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
+        "quota_id": "TERRACE CHINESE KITCHEN\u2666TERMINAL 1\u2666Landside\u2666#03-22\u2666FBL",
         "Com ID": 98,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -1275,7 +1275,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "BURGER KING\u2666TERMINAL 1\u2666Landside\u2666#03-23\u2666FBL\u2666Min8",
+        "quota_id": "BURGER KING\u2666TERMINAL 1\u2666Landside\u2666#03-23\u2666FBL",
         "Com ID": 99,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -1288,7 +1288,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL\u2666Min25",
+        "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL",
         "Com ID": 100,
         "Category": "F&B",
         "Terminal": "TERMINAL 1",
@@ -1301,7 +1301,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Premises G (Jewel) - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Landside\u2666#01-302\u2666BS\u2666Min8",
+        "quota_id": "Premises G (Jewel) - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Landside\u2666#01-302\u2666BS",
         "Com ID": 101,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1314,7 +1314,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC\u2666Min8",
+        "quota_id": "Travelex T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC",
         "Com ID": 102,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1327,7 +1327,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC",
         "Com ID": 103,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1340,7 +1340,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC\u2666Min8",
+        "quota_id": "Travelex T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC",
         "Com ID": 104,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1353,7 +1353,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC",
         "Com ID": 105,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1366,7 +1366,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR",
         "Com ID": 106,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1379,7 +1379,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR",
         "Com ID": 107,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1392,7 +1392,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SIXT RENT A CAR\u2666TERMINAL 1\u2666Landside\u2666#01-K5\u2666LS\u2666Min5",
+        "quota_id": "SIXT RENT A CAR\u2666TERMINAL 1\u2666Landside\u2666#01-K5\u2666LS",
         "Com ID": 108,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1405,7 +1405,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SF Express\u2666TERMINAL 1\u2666Landside\u2666#01-K6\u2666LS\u2666Min8",
+        "quota_id": "SF Express\u2666TERMINAL 1\u2666Landside\u2666#01-K6\u2666LS",
         "Com ID": 109,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1418,7 +1418,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR\u2666Min8",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR",
         "Com ID": 110,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1431,7 +1431,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR\u2666Min8",
+        "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR",
         "Com ID": 111,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1444,7 +1444,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR",
         "Com ID": 112,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1457,7 +1457,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
+        "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC",
         "Com ID": 113,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1470,7 +1470,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-02\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-02\u2666MC",
         "Com ID": 114,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1483,7 +1483,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHEERS\u2666TERMINAL 1\u2666Landside\u2666#02-05A\u2666LS\u2666Min8",
+        "quota_id": "CHEERS\u2666TERMINAL 1\u2666Landside\u2666#02-05A\u2666LS",
         "Com ID": 115,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1496,7 +1496,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS (T1 L2 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-K39\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS (T1 L2 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-K39\u2666CR",
         "Com ID": 116,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1509,7 +1509,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "T1 iSC Arrival counter\u2666TERMINAL 1\u2666Landside\u2666NA\u2666PS\u2666Min5",
+        "quota_id": "T1 iSC Arrival counter\u2666TERMINAL 1\u2666Landside\u2666NA\u2666PS",
         "Com ID": 117,
         "Category": "Services",
         "Terminal": "TERMINAL 1",
@@ -1522,7 +1522,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Jamba\u2666TERMINAL 1\u2666Landside\u2666#02-05\u2666LS\u2666Min8",
+        "quota_id": "Jamba\u2666TERMINAL 1\u2666Landside\u2666#02-05\u2666LS",
         "Com ID": 118,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1535,7 +1535,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min8",
+        "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC",
         "Com ID": 119,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1548,7 +1548,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "WH Smith - Premises C (Land) (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-84\u2666OW\u2666Min8",
+        "quota_id": "WH Smith - Premises C (Land) (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-84\u2666OW",
         "Com ID": 120,
         "Category": "Shops",
         "Terminal": "TERMINAL 1",
@@ -1561,7 +1561,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min8",
+        "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA",
         "Com ID": 121,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1574,7 +1574,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Pret A Manger\u2666TERMINAL 2\u2666Airside\u2666#02-165\u2666FBA\u2666Min8",
+        "quota_id": "Pret A Manger\u2666TERMINAL 2\u2666Airside\u2666#02-165\u2666FBA",
         "Com ID": 122,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1587,7 +1587,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA\u2666Min8",
+        "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA",
         "Com ID": 123,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1600,7 +1600,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Asian Street Kitchen\u2666TERMINAL 2\u2666Airside\u2666#02-170\u2666FBA\u2666Min8",
+        "quota_id": "Asian Street Kitchen\u2666TERMINAL 2\u2666Airside\u2666#02-170\u2666FBA",
         "Com ID": 124,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1613,7 +1613,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hard Rock Cafe\u2666TERMINAL 2\u2666Airside\u2666#02-177\u2666FBA\u2666Min8",
+        "quota_id": "Hard Rock Cafe\u2666TERMINAL 2\u2666Airside\u2666#02-177\u2666FBA",
         "Com ID": 125,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1626,7 +1626,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA\u2666Min8",
+        "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA",
         "Com ID": 126,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1639,7 +1639,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Luke's Lobster\u2666TERMINAL 2\u2666Airside\u2666#02-179\u2666FBA\u2666Min8",
+        "quota_id": "Luke's Lobster\u2666TERMINAL 2\u2666Airside\u2666#02-179\u2666FBA",
         "Com ID": 127,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1652,7 +1652,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA\u2666Min8",
+        "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA",
         "Com ID": 128,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1665,7 +1665,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 2\u2666Airside\u2666#02-800\u2666FBA\u2666Min8",
+        "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 2\u2666Airside\u2666#02-800\u2666FBA",
         "Com ID": 129,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1678,7 +1678,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Yakun Kaya Toast\u2666TERMINAL 2\u2666Airside\u2666#02-803\u2666FBA\u2666Min8",
+        "quota_id": "Yakun Kaya Toast\u2666TERMINAL 2\u2666Airside\u2666#02-803\u2666FBA",
         "Com ID": 130,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1691,7 +1691,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Hainan Story Bakery\u2666TERMINAL 2\u2666Airside\u2666#02-K05\u2666FBA\u2666Min8",
+        "quota_id": "The Hainan Story Bakery\u2666TERMINAL 2\u2666Airside\u2666#02-K05\u2666FBA",
         "Com ID": 131,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1704,7 +1704,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Ippudo Express\u2666TERMINAL 2\u2666Airside\u2666#02-K10\u2666FBA\u2666Min8",
+        "quota_id": "Ippudo Express\u2666TERMINAL 2\u2666Airside\u2666#02-K10\u2666FBA",
         "Com ID": 132,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1717,7 +1717,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Hainan Story Coffee & Toast\u2666TERMINAL 2\u2666Airside\u2666#02-K11\u2666FBA\u2666Min8",
+        "quota_id": "The Hainan Story Coffee & Toast\u2666TERMINAL 2\u2666Airside\u2666#02-K11\u2666FBA",
         "Com ID": 133,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1730,7 +1730,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA\u2666Min8",
+        "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA",
         "Com ID": 134,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1743,7 +1743,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA\u2666Min8",
+        "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA",
         "Com ID": 135,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1756,7 +1756,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Dunkin\u2019 Donuts\u2666TERMINAL 2\u2666Airside\u2666#02-K14\u2666FBA\u2666Min8",
+        "quota_id": "Dunkin\u2019 Donuts\u2666TERMINAL 2\u2666Airside\u2666#02-K14\u2666FBA",
         "Com ID": 136,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1769,7 +1769,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA\u2666Min8",
+        "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA",
         "Com ID": 137,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1782,7 +1782,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA\u2666Min8",
+        "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA",
         "Com ID": 138,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1795,7 +1795,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
+        "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA",
         "Com ID": 139,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1808,7 +1808,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K7\u2666FBA\u2666Min8",
+        "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K7\u2666FBA",
         "Com ID": 140,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1821,7 +1821,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
+        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA",
         "Com ID": 141,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1834,7 +1834,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
+        "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA",
         "Com ID": 142,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1847,7 +1847,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA\u2666Min8",
+        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA",
         "Com ID": 143,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1860,7 +1860,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA\u2666Min8",
+        "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA",
         "Com ID": 144,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1873,7 +1873,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
+        "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA",
         "Com ID": 145,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -1886,7 +1886,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC\u2666Min8",
+        "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC",
         "Com ID": 146,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -1899,7 +1899,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T2 Arr Mtg Hall Central\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T2 Arr Mtg Hall Central\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC",
         "Com ID": 147,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -1912,7 +1912,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T2 DT North (Satellite)\u2666TERMINAL 2\u2666Airside\u2666#02-150A\u2666MC\u2666Min8",
+        "quota_id": "Travelex T2 DT North (Satellite)\u2666TERMINAL 2\u2666Airside\u2666#02-150A\u2666MC",
         "Com ID": 148,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -1925,7 +1925,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209A\u2666MC\u2666Min8",
+        "quota_id": "Travelex T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209A\u2666MC",
         "Com ID": 149,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -1938,7 +1938,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209B\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209B\u2666MC",
         "Com ID": 150,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -1951,7 +1951,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-235\u2666MC\u2666Min8",
+        "quota_id": "Travelex T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-235\u2666MC",
         "Com ID": 151,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -1964,7 +1964,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC",
         "Com ID": 152,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -1977,7 +1977,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min8",
+        "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS",
         "Com ID": 153,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -1990,7 +1990,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "7-Eleven (T2 Level 2)\u2666TERMINAL 2\u2666Airside\u2666#02-404\u2666CS\u2666Min8",
+        "quota_id": "7-Eleven (T2 Level 2)\u2666TERMINAL 2\u2666Airside\u2666#02-404\u2666CS",
         "Com ID": 154,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -2003,7 +2003,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Changi Recommends\u2666TERMINAL 2\u2666Airside\u2666#02-K18\u2666CR\u2666Min8",
+        "quota_id": "Changi Recommends\u2666TERMINAL 2\u2666Airside\u2666#02-K18\u2666CR",
         "Com ID": 155,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -2016,7 +2016,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Natureland Premium\u2666TERMINAL 2\u2666Airside\u2666#03-168\u2666OS\u2666Min8",
+        "quota_id": "Natureland Premium\u2666TERMINAL 2\u2666Airside\u2666#03-168\u2666OS",
         "Com ID": 156,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -2029,7 +2029,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "7-Eleven (T2 Level 3)\u2666TERMINAL 2\u2666Airside\u2666#03-172\u2666CS\u2666Min8",
+        "quota_id": "7-Eleven (T2 Level 3)\u2666TERMINAL 2\u2666Airside\u2666#03-172\u2666CS",
         "Com ID": 157,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -2042,7 +2042,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL",
         "Com ID": 158,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -2055,7 +2055,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL",
         "Com ID": 159,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -2068,7 +2068,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS",
         "Com ID": 160,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -2081,7 +2081,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC",
         "Com ID": 161,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2094,7 +2094,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
+        "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT",
         "Com ID": 162,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2107,7 +2107,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT\u2666Min15",
+        "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT",
         "Com ID": 163,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2120,7 +2120,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC",
         "Com ID": 164,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2133,7 +2133,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Metapod (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-150\u2666EL\u2666Min8",
+        "quota_id": "Metapod (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-150\u2666EL",
         "Com ID": 165,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2146,7 +2146,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-152 (#026-094)\u2666MP\u2666Min8",
+        "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-152 (#026-094)\u2666MP",
         "Com ID": 166,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2159,7 +2159,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW\u2666Min8",
+        "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW",
         "Com ID": 167,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2172,7 +2172,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW\u2666Min8",
+        "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW",
         "Com ID": 168,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2185,7 +2185,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Guardian (Premises A) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-155\u2666PH\u2666Min8",
+        "quota_id": "Guardian (Premises A) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-155\u2666PH",
         "Com ID": 169,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2198,7 +2198,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
+        "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD",
         "Com ID": 170,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2211,7 +2211,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
+        "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT",
         "Com ID": 171,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2224,7 +2224,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
+        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT",
         "Com ID": 172,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2237,7 +2237,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163 (#026-098-01)\u2666MP\u2666Min8",
+        "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163 (#026-098-01)\u2666MP",
         "Com ID": 173,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2250,7 +2250,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD",
         "Com ID": 174,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2263,7 +2263,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
+        "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT",
         "Com ID": 175,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2276,7 +2276,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
+        "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL",
         "Com ID": 176,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2289,7 +2289,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
+        "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC",
         "Com ID": 177,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2302,7 +2302,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min8",
+        "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD",
         "Com ID": 178,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2315,7 +2315,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min8",
+        "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD",
         "Com ID": 179,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2328,7 +2328,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Metapod (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
+        "quota_id": "Metapod (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL",
         "Com ID": 180,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2341,7 +2341,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP\u2666Min8",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP",
         "Com ID": 181,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2354,7 +2354,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
+        "quota_id": "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP",
         "Com ID": 182,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2367,7 +2367,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV\u2666Min8",
+        "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV",
         "Com ID": 183,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2380,7 +2380,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Unity\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH\u2666Min8",
+        "quota_id": "Unity\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH",
         "Com ID": 184,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2393,7 +2393,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC",
         "Com ID": 185,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2406,7 +2406,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD\u2666Min8",
+        "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD",
         "Com ID": 186,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2419,7 +2419,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min8",
+        "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD",
         "Com ID": 187,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2432,7 +2432,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15",
+        "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT",
         "Com ID": 188,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2445,7 +2445,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Fragrance\u2666TERMINAL 2\u2666Airside\u2666#02-199\u2666CCD\u2666Min8",
+        "quota_id": "Fragrance\u2666TERMINAL 2\u2666Airside\u2666#02-199\u2666CCD",
         "Com ID": 189,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2458,7 +2458,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Pazzion\u2666TERMINAL 2\u2666Airside\u2666#02-201\u2666MP\u2666Min8",
+        "quota_id": "Pazzion\u2666TERMINAL 2\u2666Airside\u2666#02-201\u2666MP",
         "Com ID": 190,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2471,7 +2471,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP\u2666Min8",
+        "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP",
         "Com ID": 191,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2484,7 +2484,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP\u2666Min8",
+        "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP",
         "Com ID": 192,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2497,7 +2497,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "WH Smith (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-207\u2666OW\u2666Min8",
+        "quota_id": "WH Smith (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-207\u2666OW",
         "Com ID": 193,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2510,7 +2510,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min8",
+        "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX",
         "Com ID": 194,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2523,7 +2523,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Irvin's Salted Egg\u2666TERMINAL 2\u2666Airside\u2666#02-209D\u2666CCD\u2666Min8",
+        "quota_id": "Irvin's Salted Egg\u2666TERMINAL 2\u2666Airside\u2666#02-209D\u2666CCD",
         "Com ID": 195,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2536,7 +2536,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
+        "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX",
         "Com ID": 196,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2549,7 +2549,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-211\u2666LX\u2666Min8",
+        "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-211\u2666LX",
         "Com ID": 197,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2562,7 +2562,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX\u2666Min8",
+        "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX",
         "Com ID": 198,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2575,7 +2575,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tory Burch\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666LX\u2666Min8",
+        "quota_id": "Tory Burch\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666LX",
         "Com ID": 199,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2588,7 +2588,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min8",
+        "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX",
         "Com ID": 200,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2601,7 +2601,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP\u2666Min8",
+        "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP",
         "Com ID": 201,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2614,7 +2614,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "TWG Tea Boutique\u2666TERMINAL 2\u2666Airside\u2666#02-216\u2666CCD\u2666Min8",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 2\u2666Airside\u2666#02-216\u2666CCD",
         "Com ID": 202,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2627,7 +2627,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Zegna\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min8",
+        "quota_id": "Zegna\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX",
         "Com ID": 203,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2640,7 +2640,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
+        "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD",
         "Com ID": 204,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2653,7 +2653,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bvlgari\u2666TERMINAL 2\u2666Airside\u2666#02-221\u2666LX\u2666Min8",
+        "quota_id": "Bvlgari\u2666TERMINAL 2\u2666Airside\u2666#02-221\u2666LX",
         "Com ID": 205,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2666,7 +2666,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Ferragamo\u2666TERMINAL 2\u2666Airside\u2666#02-222 (#026-078E)\u2666LX\u2666Min8",
+        "quota_id": "Ferragamo\u2666TERMINAL 2\u2666Airside\u2666#02-222 (#026-078E)\u2666LX",
         "Com ID": 206,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2679,7 +2679,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Gucci\u2666TERMINAL 2\u2666Airside\u2666#02-223\u2666LX\u2666Min8",
+        "quota_id": "Gucci\u2666TERMINAL 2\u2666Airside\u2666#02-223\u2666LX",
         "Com ID": 207,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2692,7 +2692,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX\u2666Min8",
+        "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX",
         "Com ID": 208,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2705,7 +2705,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tod's\u2666TERMINAL 2\u2666Airside\u2666#02-225-01\u2666LX\u2666Min8",
+        "quota_id": "Tod's\u2666TERMINAL 2\u2666Airside\u2666#02-225-01\u2666LX",
         "Com ID": 209,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2718,7 +2718,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#02-225-02\u2666LX\u2666Min8",
+        "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#02-225-02\u2666LX",
         "Com ID": 210,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2731,7 +2731,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX\u2666Min8",
+        "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX",
         "Com ID": 211,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2744,7 +2744,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Polo Ralph Lauren\u2666TERMINAL 2\u2666Airside\u2666#02-225-04\u2666LX\u2666Min8",
+        "quota_id": "Polo Ralph Lauren\u2666TERMINAL 2\u2666Airside\u2666#02-225-04\u2666LX",
         "Com ID": 212,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2757,7 +2757,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Gassan Watches (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-226\u2666LX\u2666Min8",
+        "quota_id": "Gassan Watches (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-226\u2666LX",
         "Com ID": 213,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2770,7 +2770,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Marc Jacobs\u2666TERMINAL 2\u2666Airside\u2666#02-227\u2666MP\u2666Min8",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 2\u2666Airside\u2666#02-227\u2666MP",
         "Com ID": 214,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2783,7 +2783,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX\u2666Min8",
+        "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX",
         "Com ID": 215,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2796,7 +2796,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hugo Boss\u2666TERMINAL 2\u2666Airside\u2666#02-232\u2666LX\u2666Min8",
+        "quota_id": "Hugo Boss\u2666TERMINAL 2\u2666Airside\u2666#02-232\u2666LX",
         "Com ID": 216,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2809,7 +2809,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Omega\u2666TERMINAL 2\u2666Airside\u2666#02-233\u2666LX\u2666Min8",
+        "quota_id": "Omega\u2666TERMINAL 2\u2666Airside\u2666#02-233\u2666LX",
         "Com ID": 217,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2822,7 +2822,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#02-234 (#026-057)\u2666MP\u2666Min8",
+        "quota_id": "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#02-234 (#026-057)\u2666MP",
         "Com ID": 218,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2835,7 +2835,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bacha Coffee (DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666CCD\u2666Min8",
+        "quota_id": "Bacha Coffee (DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666CCD",
         "Com ID": 219,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2848,7 +2848,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "iStudio\u2666TERMINAL 2\u2666Airside\u2666#02-238\u2666EL\u2666Min8",
+        "quota_id": "iStudio\u2666TERMINAL 2\u2666Airside\u2666#02-238\u2666EL",
         "Com ID": 220,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2861,7 +2861,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Oakley\u2666TERMINAL 2\u2666Airside\u2666#02-244\u2666MP\u2666Min8",
+        "quota_id": "Oakley\u2666TERMINAL 2\u2666Airside\u2666#02-244\u2666MP",
         "Com ID": 221,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2874,7 +2874,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Braun Buffel\u2666TERMINAL 2\u2666Airside\u2666#02-245\u2666MP\u2666Min8",
+        "quota_id": "Braun Buffel\u2666TERMINAL 2\u2666Airside\u2666#02-245\u2666MP",
         "Com ID": 222,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2887,7 +2887,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH\u2666Min8",
+        "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH",
         "Com ID": 223,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2900,7 +2900,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC",
         "Com ID": 224,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2913,7 +2913,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
+        "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT",
         "Com ID": 225,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2926,7 +2926,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Discover Singapore (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-402\u2666SV\u2666Min8",
+        "quota_id": "Discover Singapore (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-402\u2666SV",
         "Com ID": 226,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2939,7 +2939,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min8",
+        "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD",
         "Com ID": 227,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2952,7 +2952,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min8",
+        "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP",
         "Com ID": 228,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2965,7 +2965,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW\u2666Min8",
+        "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW",
         "Com ID": 229,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2978,7 +2978,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072 (#02-229)\u2666LX\u2666Min8",
+        "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072 (#02-229)\u2666LX",
         "Com ID": 230,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -2991,7 +2991,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC\u2666Min8",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC",
         "Com ID": 231,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3004,7 +3004,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096 (#02-160)\u2666MP\u2666Min8",
+        "quota_id": "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096 (#02-160)\u2666MP",
         "Com ID": 232,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3017,7 +3017,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bengawan Solo\u2666TERMINAL 2\u2666Airside\u2666#026-096-01\u2666CCD\u2666Min8",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 2\u2666Airside\u2666#026-096-01\u2666CCD",
         "Com ID": 233,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3030,7 +3030,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC\u2666Min8",
+        "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC",
         "Com ID": 234,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3043,7 +3043,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP\u2666Min8",
+        "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP",
         "Com ID": 235,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3056,7 +3056,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "UOB Gold\u2666TERMINAL 2\u2666Airside\u2666#02-K19\u2666JW\u2666Min8",
+        "quota_id": "UOB Gold\u2666TERMINAL 2\u2666Airside\u2666#02-K19\u2666JW",
         "Com ID": 236,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3069,7 +3069,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Swensen\u2019s Unlimited\u2666TERMINAL 2\u2666Landside\u2666#01-03\u2666FBL\u2666Min8",
+        "quota_id": "Swensen\u2019s Unlimited\u2666TERMINAL 2\u2666Landside\u2666#01-03\u2666FBL",
         "Com ID": 237,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3082,7 +3082,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Paris Baguette\u2666TERMINAL 2\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
+        "quota_id": "Paris Baguette\u2666TERMINAL 2\u2666Landside\u2666#01-04\u2666FBL",
         "Com ID": 238,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3095,7 +3095,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Swee Choon\u2666TERMINAL 2\u2666Landside\u2666#01-07\u2666FBL\u2666Min8",
+        "quota_id": "Swee Choon\u2666TERMINAL 2\u2666Landside\u2666#01-07\u2666FBL",
         "Com ID": 239,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3108,7 +3108,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
+        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Landside\u2666#01-08\u2666FBL",
         "Com ID": 240,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3121,7 +3121,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL\u2666Min8",
+        "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL",
         "Com ID": 241,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3134,7 +3134,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01\u2666FBL\u2666Min8",
+        "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01\u2666FBL",
         "Com ID": 242,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3147,7 +3147,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min8",
+        "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL",
         "Com ID": 243,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3160,7 +3160,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHAGEE (AMPS TEA)\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8",
+        "quota_id": "CHAGEE (AMPS TEA)\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL",
         "Com ID": 244,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3173,7 +3173,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Cafe O\u2666TERMINAL 2\u2666Landside\u2666#02-07/08/09\u2666FBL\u2666Min8",
+        "quota_id": "Cafe O\u2666TERMINAL 2\u2666Landside\u2666#02-07/08/09\u2666FBL",
         "Com ID": 245,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3186,7 +3186,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Kenangan Coffee\u2666TERMINAL 2\u2666Landside\u2666#02-12\u2666FBL\u2666Min8",
+        "quota_id": "Kenangan Coffee\u2666TERMINAL 2\u2666Landside\u2666#02-12\u2666FBL",
         "Com ID": 246,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3199,7 +3199,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 2\u2666Landside\u2666#02-33\u2666FBL\u2666Min8",
+        "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 2\u2666Landside\u2666#02-33\u2666FBL",
         "Com ID": 247,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3212,7 +3212,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Claypot Daddy\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL\u2666Min8",
+        "quota_id": "Claypot Daddy\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL",
         "Com ID": 248,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3225,7 +3225,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
+        "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL",
         "Com ID": 249,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3238,7 +3238,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
+        "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL",
         "Com ID": 250,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3251,7 +3251,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Peach Garden\u2666TERMINAL 2\u2666Landside\u2666#03-16\u2666FBL\u2666Min8",
+        "quota_id": "Peach Garden\u2666TERMINAL 2\u2666Landside\u2666#03-16\u2666FBL",
         "Com ID": 251,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3264,7 +3264,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Texas Chicken and PastaMania\u2666TERMINAL 2\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
+        "quota_id": "Texas Chicken and PastaMania\u2666TERMINAL 2\u2666Landside\u2666#03-22\u2666FBL",
         "Com ID": 252,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3277,7 +3277,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "XW Western Grill \u2666TERMINAL 2\u2666Landside\u2666#03-23\u2666FBL\u2666Min8",
+        "quota_id": "XW Western Grill \u2666TERMINAL 2\u2666Landside\u2666#03-23\u2666FBL",
         "Com ID": 253,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3290,7 +3290,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "GO NOODLE HOUSE & PAPPARICH\u2666TERMINAL 2\u2666Landside\u2666#03-24 & 25\u2666FBL\u2666Min8",
+        "quota_id": "GO NOODLE HOUSE & PAPPARICH\u2666TERMINAL 2\u2666Landside\u2666#03-24 & 25\u2666FBL",
         "Com ID": 254,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3303,7 +3303,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHUTNEY MARY INDIAN FAST FOOD\u2666TERMINAL 2\u2666Landside\u2666#03-26 &27\u2666FBL\u2666Min8",
+        "quota_id": "CHUTNEY MARY INDIAN FAST FOOD\u2666TERMINAL 2\u2666Landside\u2666#03-26 &27\u2666FBL",
         "Com ID": 255,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3316,7 +3316,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Foodies' Clan\u2666TERMINAL 2\u2666Landside\u2666#0610-ASC\u2666FBL\u2666Min25",
+        "quota_id": "Foodies' Clan\u2666TERMINAL 2\u2666Landside\u2666#0610-ASC\u2666FBL",
         "Com ID": 256,
         "Category": "F&B",
         "Terminal": "TERMINAL 2",
@@ -3329,7 +3329,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
+        "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS",
         "Com ID": 257,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -3342,7 +3342,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR",
         "Com ID": 258,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -3355,7 +3355,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "T2 iSC Arrival counter\u2666TERMINAL 2\u2666Landside\u2666#01-179\u2666PS\u2666Min5",
+        "quota_id": "T2 iSC Arrival counter\u2666TERMINAL 2\u2666Landside\u2666#01-179\u2666PS",
         "Com ID": 259,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -3368,7 +3368,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-180\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-180\u2666CR",
         "Com ID": 260,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -3381,7 +3381,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-K15 (near taxi stand)\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-K15 (near taxi stand)\u2666CR",
         "Com ID": 261,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -3394,7 +3394,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC",
         "Com ID": 262,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -3407,7 +3407,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-17\u2666MC\u2666Min8",
+        "quota_id": "Travelex T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-17\u2666MC",
         "Com ID": 263,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -3420,7 +3420,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHEERS\u2666TERMINAL 2\u2666Landside\u2666#02-24\u2666LS\u2666Min8",
+        "quota_id": "CHEERS\u2666TERMINAL 2\u2666Landside\u2666#02-24\u2666LS",
         "Com ID": 264,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -3433,7 +3433,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR",
         "Com ID": 265,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
@@ -3446,7 +3446,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Lynk Fragrances\u2666TERMINAL 2\u2666Landside\u2666#02-03\u2666LS\u2666Min8",
+        "quota_id": "Lynk Fragrances\u2666TERMINAL 2\u2666Landside\u2666#02-03\u2666LS",
         "Com ID": 266,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3459,7 +3459,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-04\u2666LS\u2666Min8",
+        "quota_id": "The Cocoa Trees (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-04\u2666LS",
         "Com ID": 267,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3472,7 +3472,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Baker's Well\u2666TERMINAL 2\u2666Landside\u2666#02-05\u2666LS\u2666Min8",
+        "quota_id": "Baker's Well\u2666TERMINAL 2\u2666Landside\u2666#02-05\u2666LS",
         "Com ID": 268,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3485,7 +3485,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC\u2666Min8",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC",
         "Com ID": 269,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3498,7 +3498,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Guardian\u2666TERMINAL 2\u2666Landside\u2666#02-13\u2666LS\u2666Min8",
+        "quota_id": "Guardian\u2666TERMINAL 2\u2666Landside\u2666#02-13\u2666LS",
         "Com ID": 270,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3511,7 +3511,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "EU YAN SANG\u2666TERMINAL 2\u2666Landside\u2666#02-14\u2666LS\u2666Min8",
+        "quota_id": "EU YAN SANG\u2666TERMINAL 2\u2666Landside\u2666#02-14\u2666LS",
         "Com ID": 271,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3524,7 +3524,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bee Cheng Hiang\u2666TERMINAL 2\u2666Landside\u2666#02-20\u2666LS\u2666Min8",
+        "quota_id": "Bee Cheng Hiang\u2666TERMINAL 2\u2666Landside\u2666#02-20\u2666LS",
         "Com ID": 272,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3537,7 +3537,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LEVURE NATURELLE\u2666TERMINAL 2\u2666Landside\u2666#02-22\u2666LS\u2666Min8",
+        "quota_id": "LEVURE NATURELLE\u2666TERMINAL 2\u2666Landside\u2666#02-22\u2666LS",
         "Com ID": 273,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3550,7 +3550,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "WH Smith (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-23\u2666OW\u2666Min8",
+        "quota_id": "WH Smith (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-23\u2666OW",
         "Com ID": 274,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3563,7 +3563,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tech House\u2666TERMINAL 2\u2666Landside\u2666#02-K2\u2666LS\u2666Min8",
+        "quota_id": "Tech House\u2666TERMINAL 2\u2666Landside\u2666#02-K2\u2666LS",
         "Com ID": 275,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
@@ -3576,7 +3576,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Harry's Bar\u2666TERMINAL 3\u2666Airside\u2666#02-08\u2666FBA\u2666Min8",
+        "quota_id": "Harry's Bar\u2666TERMINAL 3\u2666Airside\u2666#02-08\u2666FBA",
         "Com ID": 276,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3589,7 +3589,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LeNu Noodle Bar & Congee Specialist\u2666TERMINAL 3\u2666Airside\u2666#02-28\u2666FBA\u2666Min8",
+        "quota_id": "LeNu Noodle Bar & Congee Specialist\u2666TERMINAL 3\u2666Airside\u2666#02-28\u2666FBA",
         "Com ID": 277,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3602,7 +3602,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA\u2666Min8",
+        "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA",
         "Com ID": 278,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3615,7 +3615,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Pret A Manger\u2666TERMINAL 3\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
+        "quota_id": "Pret A Manger\u2666TERMINAL 3\u2666Airside\u2666#02-59\u2666FBA",
         "Com ID": 279,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3628,7 +3628,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hudsons Cafe\u2666TERMINAL 3\u2666Airside\u2666#02-60\u2666FBA\u2666Min8",
+        "quota_id": "Hudsons Cafe\u2666TERMINAL 3\u2666Airside\u2666#02-60\u2666FBA",
         "Com ID": 280,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3641,7 +3641,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA\u2666Min8",
+        "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA",
         "Com ID": 281,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3654,7 +3654,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Heavenly Wang\u2666TERMINAL 3\u2666Airside\u2666#02-K1\u2666FBA\u2666Min8",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 3\u2666Airside\u2666#02-K1\u2666FBA",
         "Com ID": 282,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3667,7 +3667,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA\u2666Min8",
+        "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA",
         "Com ID": 283,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3680,7 +3680,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "IPPUDO EXPRESS\u2666TERMINAL 3\u2666Airside\u2666#02-K3\u2666FBA\u2666Min8",
+        "quota_id": "IPPUDO EXPRESS\u2666TERMINAL 3\u2666Airside\u2666#02-K3\u2666FBA",
         "Com ID": 284,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3693,7 +3693,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 3\u2666Airside\u2666#02-K4\u2666FBA\u2666Min8",
+        "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 3\u2666Airside\u2666#02-K4\u2666FBA",
         "Com ID": 285,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3706,7 +3706,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Gourmet Sarawak\u2666TERMINAL 3\u2666Airside\u2666#02-K5\u2666FBA\u2666Min8",
+        "quota_id": "Gourmet Sarawak\u2666TERMINAL 3\u2666Airside\u2666#02-K5\u2666FBA",
         "Com ID": 286,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3719,7 +3719,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
+        "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA",
         "Com ID": 287,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3732,7 +3732,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-011\u2666FBA\u2666Min25",
+        "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-011\u2666FBA",
         "Com ID": 288,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3745,7 +3745,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Burger King\u2666TERMINAL 3\u2666Airside\u2666#03-13\u2666FBA\u2666Min8",
+        "quota_id": "Burger King\u2666TERMINAL 3\u2666Airside\u2666#03-13\u2666FBA",
         "Com ID": 289,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3758,7 +3758,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "GHN4\u2666TERMINAL 3\u2666Airside\u2666GHN4 (B1-4)\u2666FBA\u2666Min8",
+        "quota_id": "GHN4\u2666TERMINAL 3\u2666Airside\u2666GHN4 (B1-4)\u2666FBA",
         "Com ID": 290,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3771,7 +3771,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "GHS3\u2666TERMINAL 3\u2666Airside\u2666GHS3 (A1-8)\u2666FBA\u2666Min8",
+        "quota_id": "GHS3\u2666TERMINAL 3\u2666Airside\u2666GHS3 (A1-8)\u2666FBA",
         "Com ID": 291,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3784,7 +3784,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "GHSS4\u2666TERMINAL 3\u2666Airside\u2666GHSS4 (A16-20)\u2666FBA\u2666Min8",
+        "quota_id": "GHSS4\u2666TERMINAL 3\u2666Airside\u2666GHSS4 (A16-20)\u2666FBA",
         "Com ID": 292,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -3797,7 +3797,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u2666#02-32\u2666OS\u2666Min8",
+        "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u2666#02-32\u2666OS",
         "Com ID": 293,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3810,7 +3810,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Premises F - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Airside\u2666#02-68/69\u2666BS\u2666Min8",
+        "quota_id": "Premises F - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Airside\u2666#02-68/69\u2666BS",
         "Com ID": 294,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3823,7 +3823,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
+        "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR",
         "Com ID": 295,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3836,7 +3836,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
+        "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR",
         "Com ID": 296,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3849,7 +3849,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
+        "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC",
         "Com ID": 297,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3862,7 +3862,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC\u2666Min8",
+        "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC",
         "Com ID": 298,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3875,7 +3875,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7T\u2666MC\u2666Min8",
+        "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7T\u2666MC",
         "Com ID": 299,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3888,7 +3888,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K8\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K8\u2666MC",
         "Com ID": 300,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3901,7 +3901,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666MC",
         "Com ID": 301,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3914,7 +3914,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "7-Eleven (T3)\u2666TERMINAL 3\u2666Airside\u2666#03-12\u2666CS\u2666Min8",
+        "quota_id": "7-Eleven (T3)\u2666TERMINAL 3\u2666Airside\u2666#03-12\u2666CS",
         "Com ID": 302,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3927,7 +3927,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL",
         "Com ID": 303,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3940,7 +3940,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL",
         "Com ID": 304,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3953,7 +3953,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "T3 iSC Departure counter\u2666TERMINAL 3\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "quota_id": "T3 iSC Departure counter\u2666TERMINAL 3\u2666Airside\u2666NA\u2666PS",
         "Com ID": 305,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -3966,7 +3966,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T3 Arrival South\u2666TERMINAL 3\u2666Airside\u2666#01-19\u2666LT\u2666Min15",
+        "quota_id": "LT T3 Arrival South\u2666TERMINAL 3\u2666Airside\u2666#01-19\u2666LT",
         "Com ID": 306,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -3979,7 +3979,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC",
         "Com ID": 307,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -3992,7 +3992,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC",
         "Com ID": 308,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4005,7 +4005,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT\u2666Min15",
+        "quota_id": "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT",
         "Com ID": 309,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4018,7 +4018,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV\u2666Min8",
+        "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV",
         "Com ID": 310,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4031,7 +4031,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC",
         "Com ID": 311,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4044,7 +4044,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Longchamp\u2666TERMINAL 3\u2666Airside\u2666#02-04\u2666MP\u2666Min8",
+        "quota_id": "Longchamp\u2666TERMINAL 3\u2666Airside\u2666#02-04\u2666MP",
         "Com ID": 312,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4057,7 +4057,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min8",
+        "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX",
         "Com ID": 313,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4070,7 +4070,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
+        "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX",
         "Com ID": 314,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4083,7 +4083,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min8",
+        "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW",
         "Com ID": 315,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4096,7 +4096,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min15",
+        "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT",
         "Com ID": 316,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4109,7 +4109,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD\u2666Min8",
+        "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Com ID": 317,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4122,7 +4122,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX\u2666Min8",
+        "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX",
         "Com ID": 318,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4135,7 +4135,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP\u2666Min8",
+        "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP",
         "Com ID": 319,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4148,7 +4148,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Gucci\u2666TERMINAL 3\u2666Airside\u2666#02-15/16\u2666LX\u2666Min8",
+        "quota_id": "Gucci\u2666TERMINAL 3\u2666Airside\u2666#02-15/16\u2666LX",
         "Com ID": 320,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4161,7 +4161,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min8",
+        "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX",
         "Com ID": 321,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4174,7 +4174,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tiffany & Co.\u2666TERMINAL 3\u2666Airside\u2666#02-18\u2666LX\u2666Min8",
+        "quota_id": "Tiffany & Co.\u2666TERMINAL 3\u2666Airside\u2666#02-18\u2666LX",
         "Com ID": 322,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4187,7 +4187,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX\u2666Min8",
+        "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX",
         "Com ID": 323,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4200,7 +4200,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Burberry\u2666TERMINAL 3\u2666Airside\u2666#02-20\u2666LX\u2666Min8",
+        "quota_id": "Burberry\u2666TERMINAL 3\u2666Airside\u2666#02-20\u2666LX",
         "Com ID": 324,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4213,7 +4213,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP",
         "Com ID": 325,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4226,7 +4226,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX\u2666Min8",
+        "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX",
         "Com ID": 326,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4239,7 +4239,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Hugo Boss\u2666TERMINAL 3\u2666Airside\u2666#02-23\u2666LX\u2666Min8",
+        "quota_id": "Hugo Boss\u2666TERMINAL 3\u2666Airside\u2666#02-23\u2666LX",
         "Com ID": 327,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4252,7 +4252,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Maison de Chronus (Premises A2) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-24\u2666LX\u2666Min8",
+        "quota_id": "Maison de Chronus (Premises A2) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-24\u2666LX",
         "Com ID": 328,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4265,7 +4265,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "MCM\u2666TERMINAL 3\u2666Airside\u2666#02-25\u2666LX\u2666Min8",
+        "quota_id": "MCM\u2666TERMINAL 3\u2666Airside\u2666#02-25\u2666LX",
         "Com ID": 329,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4278,7 +4278,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "TWG Tea Company (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-26\u2666CCD\u2666Min8",
+        "quota_id": "TWG Tea Company (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-26\u2666CCD",
         "Com ID": 330,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4291,7 +4291,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees (Premises C1) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-27\u2666CCD\u2666Min8",
+        "quota_id": "The Cocoa Trees (Premises C1) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-27\u2666CCD",
         "Com ID": 331,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4304,7 +4304,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Guardian (Premises B) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-29\u2666PH\u2666Min8",
+        "quota_id": "Guardian (Premises B) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-29\u2666PH",
         "Com ID": 332,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4317,7 +4317,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Sprint-Cass (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-30\u2666EL\u2666Min8",
+        "quota_id": "Sprint-Cass (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-30\u2666EL",
         "Com ID": 333,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4330,7 +4330,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
+        "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC",
         "Com ID": 334,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4343,7 +4343,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Louis Vuitton\u2666TERMINAL 3\u2666Airside\u2666#02-36A(F) & 03-07A(F)\u2666LX\u2666Min8",
+        "quota_id": "Louis Vuitton\u2666TERMINAL 3\u2666Airside\u2666#02-36A(F) & 03-07A(F)\u2666LX",
         "Com ID": 335,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4356,7 +4356,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT\u2666Min25",
+        "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT",
         "Com ID": 336,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4369,7 +4369,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Irvins Salted Egg\u2666TERMINAL 3\u2666Airside\u2666#02-43A\u2666CCD\u2666Min8",
+        "quota_id": "Irvins Salted Egg\u2666TERMINAL 3\u2666Airside\u2666#02-43A\u2666CCD",
         "Com ID": 337,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4382,7 +4382,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "WH Smith - Premises G (Air) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-43C\u2666OW\u2666Min8",
+        "quota_id": "WH Smith - Premises G (Air) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-43C\u2666OW",
         "Com ID": 338,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4395,7 +4395,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD\u2666Min8",
+        "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD",
         "Com ID": 339,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4408,7 +4408,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Cartier\u2666TERMINAL 3\u2666Airside\u2666#02-45-01\u2666LX\u2666Min8",
+        "quota_id": "Cartier\u2666TERMINAL 3\u2666Airside\u2666#02-45-01\u2666LX",
         "Com ID": 340,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4421,7 +4421,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bvlgari\u2666TERMINAL 3\u2666Airside\u2666#02-45-02\u2666LX\u2666Min8",
+        "quota_id": "Bvlgari\u2666TERMINAL 3\u2666Airside\u2666#02-45-02\u2666LX",
         "Com ID": 341,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4434,7 +4434,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
+        "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP",
         "Com ID": 342,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4447,7 +4447,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min8",
+        "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW",
         "Com ID": 343,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4460,7 +4460,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP\u2666Min8",
+        "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP",
         "Com ID": 344,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4473,7 +4473,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Ray-Ban\u2666TERMINAL 3\u2666Airside\u2666#02-49A\u2666MP\u2666Min8",
+        "quota_id": "Ray-Ban\u2666TERMINAL 3\u2666Airside\u2666#02-49A\u2666MP",
         "Com ID": 345,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4486,7 +4486,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Lululemon\u2666TERMINAL 3\u2666Airside\u2666#02-50A\u2666MP\u2666Min8",
+        "quota_id": "Lululemon\u2666TERMINAL 3\u2666Airside\u2666#02-50A\u2666MP",
         "Com ID": 346,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4499,7 +4499,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Maison de Chronus (Premises A1) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-51\u2666LX\u2666Min8",
+        "quota_id": "Maison de Chronus (Premises A1) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-51\u2666LX",
         "Com ID": 347,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4512,7 +4512,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bacha Coffee (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-52\u2666CCD\u2666Min8",
+        "quota_id": "Bacha Coffee (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-52\u2666CCD",
         "Com ID": 348,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4525,7 +4525,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Charles & Keith\u2666TERMINAL 3\u2666Airside\u2666#02-53\u2666MP\u2666Min8",
+        "quota_id": "Charles & Keith\u2666TERMINAL 3\u2666Airside\u2666#02-53\u2666MP",
         "Com ID": 349,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4538,7 +4538,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "iStudio\u2666TERMINAL 3\u2666Airside\u2666#02-54\u2666EL\u2666Min8",
+        "quota_id": "iStudio\u2666TERMINAL 3\u2666Airside\u2666#02-54\u2666EL",
         "Com ID": 350,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4551,7 +4551,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT\u2666Min8",
+        "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT",
         "Com ID": 351,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4564,7 +4564,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Victoria's Secret\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666PC\u2666Min8",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666PC",
         "Com ID": 352,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4577,7 +4577,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Kaboom\u2666TERMINAL 3\u2666Airside\u2666#02-57A\u2666CT\u2666Min8",
+        "quota_id": "Kaboom\u2666TERMINAL 3\u2666Airside\u2666#02-57A\u2666CT",
         "Com ID": 353,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4590,7 +4590,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC",
         "Com ID": 354,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4603,7 +4603,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Sprint-Cass (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-61\u2666EL\u2666Min8",
+        "quota_id": "Sprint-Cass (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-61\u2666EL",
         "Com ID": 355,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4616,7 +4616,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Sony\u2666TERMINAL 3\u2666Airside\u2666#02-62\u2666EL\u2666Min8",
+        "quota_id": "Sony\u2666TERMINAL 3\u2666Airside\u2666#02-62\u2666EL",
         "Com ID": 356,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4629,7 +4629,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Discover Singapore (Premises E) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-63\u2666SV\u2666Min8",
+        "quota_id": "Discover Singapore (Premises E) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-63\u2666SV",
         "Com ID": 357,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4642,7 +4642,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD\u2666Min8",
+        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD",
         "Com ID": 358,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4655,7 +4655,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT\u2666Min15",
+        "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT",
         "Com ID": 359,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4668,7 +4668,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH\u2666Min8",
+        "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH",
         "Com ID": 360,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4681,7 +4681,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW\u2666Min8",
+        "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW",
         "Com ID": 361,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4694,7 +4694,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "TWG Tea (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-K12\u2666CCD\u2666Min8",
+        "quota_id": "TWG Tea (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-K12\u2666CCD",
         "Com ID": 362,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4707,7 +4707,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "NUA\u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666CCD\u2666Min8",
+        "quota_id": "NUA\u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666CCD",
         "Com ID": 363,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4720,7 +4720,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666CCD\u2666Min8",
+        "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666CCD",
         "Com ID": 364,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -4733,7 +4733,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "MCDONALD'S\u2666TERMINAL 3\u2666Landside\u2666#01-21\u2666FBL\u2666Min8",
+        "quota_id": "MCDONALD'S\u2666TERMINAL 3\u2666Landside\u2666#01-21\u2666FBL",
         "Com ID": 365,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4746,7 +4746,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "PARIS BAGUETTE\u2666TERMINAL 3\u2666Landside\u2666#01-22\u2666FBL\u2666Min8",
+        "quota_id": "PARIS BAGUETTE\u2666TERMINAL 3\u2666Landside\u2666#01-22\u2666FBL",
         "Com ID": 366,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4759,7 +4759,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "HEAVENLY WANG\u2666TERMINAL 3\u2666Landside\u2666#01-25\u2666FBL\u2666Min8",
+        "quota_id": "HEAVENLY WANG\u2666TERMINAL 3\u2666Landside\u2666#01-25\u2666FBL",
         "Com ID": 367,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4772,7 +4772,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "O'COFFEE CLUB\u2666TERMINAL 3\u2666Landside\u2666#02-81\u2666FBL\u2666Min8",
+        "quota_id": "O'COFFEE CLUB\u2666TERMINAL 3\u2666Landside\u2666#02-81\u2666FBL",
         "Com ID": 368,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4785,7 +4785,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 3\u2666Landside\u2666#02-90\u2666FBL\u2666Min8",
+        "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 3\u2666Landside\u2666#02-90\u2666FBL",
         "Com ID": 369,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4798,7 +4798,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "NAM NAM\u2666TERMINAL 3\u2666Landside\u2666#02-91\u2666FBL\u2666Min8",
+        "quota_id": "NAM NAM\u2666TERMINAL 3\u2666Landside\u2666#02-91\u2666FBL",
         "Com ID": 370,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4811,7 +4811,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Chengdu Bowl\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
+        "quota_id": "Chengdu Bowl\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL",
         "Com ID": 371,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4824,7 +4824,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL\u2666Min8",
+        "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL",
         "Com ID": 372,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4837,7 +4837,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "PARADISE DYNASTY\u2666TERMINAL 3\u2666Landside\u2666#03-32\u2666FBL\u2666Min8",
+        "quota_id": "PARADISE DYNASTY\u2666TERMINAL 3\u2666Landside\u2666#03-32\u2666FBL",
         "Com ID": 373,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4850,7 +4850,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL\u2666Min8",
+        "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL",
         "Com ID": 374,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4863,7 +4863,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "BIKANERVALA\u2666TERMINAL 3\u2666Landside\u2666#04-01\u2666FBL\u2666Min8",
+        "quota_id": "BIKANERVALA\u2666TERMINAL 3\u2666Landside\u2666#04-01\u2666FBL",
         "Com ID": 375,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4876,7 +4876,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "4FINGERS CRISPY CHICKEN & MELTISE\u2666TERMINAL 3\u2666Landside\u2666#B2-02/02A\u2666FBL\u2666Min8",
+        "quota_id": "4FINGERS CRISPY CHICKEN & MELTISE\u2666TERMINAL 3\u2666Landside\u2666#B2-02/02A\u2666FBL",
         "Com ID": 376,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4889,7 +4889,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
+        "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL",
         "Com ID": 377,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4902,7 +4902,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8",
+        "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL",
         "Com ID": 378,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4915,7 +4915,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "HOKKAIDO BAKED CHEESE TART\u2666TERMINAL 3\u2666Landside\u2666#B2-11\u2666FBL\u2666Min8",
+        "quota_id": "HOKKAIDO BAKED CHEESE TART\u2666TERMINAL 3\u2666Landside\u2666#B2-11\u2666FBL",
         "Com ID": 379,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4928,7 +4928,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL\u2666Min8",
+        "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL",
         "Com ID": 380,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4941,7 +4941,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
+        "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL",
         "Com ID": 381,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4954,7 +4954,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "MR TEH TARIK EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-22\u2666FBL\u2666Min8",
+        "quota_id": "MR TEH TARIK EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-22\u2666FBL",
         "Com ID": 382,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4967,7 +4967,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SUBWAY\u2666TERMINAL 3\u2666Landside\u2666#B2-26\u2666FBL\u2666Min8",
+        "quota_id": "SUBWAY\u2666TERMINAL 3\u2666Landside\u2666#B2-26\u2666FBL",
         "Com ID": 383,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4980,7 +4980,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "365 JUICES BAR\u2666TERMINAL 3\u2666Landside\u2666#B2-27\u2666FBL\u2666Min8",
+        "quota_id": "365 JUICES BAR\u2666TERMINAL 3\u2666Landside\u2666#B2-27\u2666FBL",
         "Com ID": 384,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -4993,7 +4993,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
+        "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL",
         "Com ID": 385,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5006,7 +5006,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL\u2666Min8",
+        "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL",
         "Com ID": 386,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5019,7 +5019,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
+        "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL",
         "Com ID": 387,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5032,7 +5032,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
+        "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL",
         "Com ID": 388,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5045,7 +5045,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
+        "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL",
         "Com ID": 389,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5058,7 +5058,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
+        "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL",
         "Com ID": 390,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5071,7 +5071,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
+        "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL",
         "Com ID": 391,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5084,7 +5084,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CANTON PARADISE CONGEE & NOODLE BAR & LE SHRIMP RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-49/50\u2666FBL\u2666Min8",
+        "quota_id": "CANTON PARADISE CONGEE & NOODLE BAR & LE SHRIMP RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-49/50\u2666FBL",
         "Com ID": 392,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5097,7 +5097,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CURRY TIMES\u2666TERMINAL 3\u2666Landside\u2666#B2-51\u2666FBL\u2666Min8",
+        "quota_id": "CURRY TIMES\u2666TERMINAL 3\u2666Landside\u2666#B2-51\u2666FBL",
         "Com ID": 393,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5110,7 +5110,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min8",
+        "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL",
         "Com ID": 394,
         "Category": "F&B",
         "Terminal": "TERMINAL 3",
@@ -5123,7 +5123,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS\u2666Min8",
+        "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS",
         "Com ID": 395,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5136,7 +5136,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#01-24\u2666LS\u2666Min8",
+        "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#01-24\u2666LS",
         "Com ID": 396,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5149,7 +5149,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Premises E - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Landside\u2666#01-40\u2666BS\u2666Min8",
+        "quota_id": "Premises E - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Landside\u2666#01-40\u2666BS",
         "Com ID": 397,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5162,7 +5162,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC",
         "Com ID": 398,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5175,7 +5175,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
+        "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR",
         "Com ID": 399,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5188,7 +5188,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
+        "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS",
         "Com ID": 400,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5201,7 +5201,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "myCarriage\u2666TERMINAL 3\u2666Landside\u2666#01-K13\u2666LS\u2666Min5",
+        "quota_id": "myCarriage\u2666TERMINAL 3\u2666Landside\u2666#01-K13\u2666LS",
         "Com ID": 401,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5214,7 +5214,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K15\u2666MC\u2666Min8",
+        "quota_id": "Travelex T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K15\u2666MC",
         "Com ID": 402,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5227,7 +5227,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC",
         "Com ID": 403,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5240,7 +5240,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min8",
+        "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR",
         "Com ID": 404,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5253,7 +5253,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 3\u2666Landside\u2666#01-K20\u2666CR\u2666Min8",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 3\u2666Landside\u2666#01-K20\u2666CR",
         "Com ID": 405,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5266,7 +5266,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K21\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K21\u2666CR",
         "Com ID": 406,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5279,7 +5279,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K22\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K22\u2666CR",
         "Com ID": 407,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5292,7 +5292,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min8",
+        "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC",
         "Com ID": 408,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5305,7 +5305,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-82\u2666MC\u2666Min8",
+        "quota_id": "Travelex T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-82\u2666MC",
         "Com ID": 409,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5318,7 +5318,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-83\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-83\u2666MC",
         "Com ID": 410,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5331,7 +5331,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR",
         "Com ID": 411,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5344,7 +5344,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "FAIRPRICE FINEST\u2666TERMINAL 3\u2666Landside\u2666#B2-10\u2666LS\u2666Min8",
+        "quota_id": "FAIRPRICE FINEST\u2666TERMINAL 3\u2666Landside\u2666#B2-10\u2666LS",
         "Com ID": 412,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5357,7 +5357,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "ZONE X\u2666TERMINAL 3\u2666Landside\u2666#B2-23\u2666LS\u2666Min8",
+        "quota_id": "ZONE X\u2666TERMINAL 3\u2666Landside\u2666#B2-23\u2666LS",
         "Com ID": 413,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5370,7 +5370,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CLIMB@T3\u2666TERMINAL 3\u2666Landside\u2666#B3-01/02\u2666LS\u2666Min8",
+        "quota_id": "CLIMB@T3\u2666TERMINAL 3\u2666Landside\u2666#B3-01/02\u2666LS",
         "Com ID": 414,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5383,7 +5383,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min5",
+        "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS",
         "Com ID": 415,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5396,7 +5396,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
+        "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS",
         "Com ID": 416,
         "Category": "Services",
         "Terminal": "TERMINAL 3",
@@ -5409,7 +5409,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LIHO TEA\u2666TERMINAL 3\u2666Landside\u2666#01-23\u2666LS\u2666Min8",
+        "quota_id": "LIHO TEA\u2666TERMINAL 3\u2666Landside\u2666#01-23\u2666LS",
         "Com ID": 417,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5422,7 +5422,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "THE COCOA TREES\u2666TERMINAL 3\u2666Landside\u2666#02-84A\u2666LS\u2666Min8",
+        "quota_id": "THE COCOA TREES\u2666TERMINAL 3\u2666Landside\u2666#02-84A\u2666LS",
         "Com ID": 418,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5435,7 +5435,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "THE COCOA TREES\u2666TERMINAL 3\u2666Landside\u2666#02-84B\u2666LS\u2666Min8",
+        "quota_id": "THE COCOA TREES\u2666TERMINAL 3\u2666Landside\u2666#02-84B\u2666LS",
         "Com ID": 419,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5448,7 +5448,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHOMEL\u2666TERMINAL 3\u2666Landside\u2666#02-84\u2666LS\u2666Min8",
+        "quota_id": "CHOMEL\u2666TERMINAL 3\u2666Landside\u2666#02-84\u2666LS",
         "Com ID": 420,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5461,7 +5461,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "BENGAWAN SOLO\u2666TERMINAL 3\u2666Landside\u2666#02-85\u2666LS\u2666Min8",
+        "quota_id": "BENGAWAN SOLO\u2666TERMINAL 3\u2666Landside\u2666#02-85\u2666LS",
         "Com ID": 421,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5474,7 +5474,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T3 Landside)\u2666TERMINAL 3\u2666Landside\u2666#02-88\u2666PC\u2666Min8",
+        "quota_id": "Perfumes & Cosmetics (T3 Landside)\u2666TERMINAL 3\u2666Landside\u2666#02-88\u2666PC",
         "Com ID": 422,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5487,7 +5487,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "FRAGRANCE\u2666TERMINAL 3\u2666Landside\u2666#02-92\u2666LS\u2666Min8",
+        "quota_id": "FRAGRANCE\u2666TERMINAL 3\u2666Landside\u2666#02-92\u2666LS",
         "Com ID": 423,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5500,7 +5500,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS\u2666Min8",
+        "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS",
         "Com ID": 424,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5513,7 +5513,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "GODIVA Chocolatier\u2666TERMINAL 3\u2666Landside\u2666#02-94\u2666LS\u2666Min8",
+        "quota_id": "GODIVA Chocolatier\u2666TERMINAL 3\u2666Landside\u2666#02-94\u2666LS",
         "Com ID": 425,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5526,7 +5526,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Simply Toys\u2666TERMINAL 3\u2666Landside\u2666#02-95/96\u2666LS\u2666Min8",
+        "quota_id": "Simply Toys\u2666TERMINAL 3\u2666Landside\u2666#02-95/96\u2666LS",
         "Com ID": 426,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5539,7 +5539,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Famous Amos\u2666TERMINAL 3\u2666Landside\u2666#02-97\u2666LS\u2666Min8",
+        "quota_id": "Famous Amos\u2666TERMINAL 3\u2666Landside\u2666#02-97\u2666LS",
         "Com ID": 427,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5552,7 +5552,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#02-98\u2666LS\u2666Min8",
+        "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#02-98\u2666LS",
         "Com ID": 428,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5565,7 +5565,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "7-Eleven Cafe\u2666TERMINAL 3\u2666Landside\u2666#B2-05/06\u2666LS\u2666Min8",
+        "quota_id": "7-Eleven Cafe\u2666TERMINAL 3\u2666Landside\u2666#B2-05/06\u2666LS",
         "Com ID": 429,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5578,7 +5578,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Boarding Gate & The Wallet Shop\u2666TERMINAL 3\u2666Landside\u2666#B2-08/09\u2666LS\u2666Min8",
+        "quota_id": "Boarding Gate & The Wallet Shop\u2666TERMINAL 3\u2666Landside\u2666#B2-08/09\u2666LS",
         "Com ID": 430,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5591,7 +5591,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SEVEN STOP\u2666TERMINAL 3\u2666Landside\u2666#B2-19\u2666LS\u2666Min8",
+        "quota_id": "SEVEN STOP\u2666TERMINAL 3\u2666Landside\u2666#B2-19\u2666LS",
         "Com ID": 431,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5604,7 +5604,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "GUARDIAN HEALTH & BEAUTY\u2666TERMINAL 3\u2666Landside\u2666#B2-24\u2666LS\u2666Min8",
+        "quota_id": "GUARDIAN HEALTH & BEAUTY\u2666TERMINAL 3\u2666Landside\u2666#B2-24\u2666LS",
         "Com ID": 432,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5617,7 +5617,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SUSHI DELI\u2666TERMINAL 3\u2666Landside\u2666#B2-25A\u2666LS\u2666Min8",
+        "quota_id": "SUSHI DELI\u2666TERMINAL 3\u2666Landside\u2666#B2-25A\u2666LS",
         "Com ID": 433,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5630,7 +5630,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Nam Kee Pau/ Hong Kong Egglet/ Mee Hoon Kueh\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS\u2666Min8",
+        "quota_id": "Nam Kee Pau/ Hong Kong Egglet/ Mee Hoon Kueh\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS",
         "Com ID": 434,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5643,7 +5643,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Mr Coconut\u2666TERMINAL 3\u2666Landside\u2666#B2-30A\u2666LS\u2666Min8",
+        "quota_id": "Mr Coconut\u2666TERMINAL 3\u2666Landside\u2666#B2-30A\u2666LS",
         "Com ID": 435,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5656,7 +5656,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "MIXSHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-32A\u2666LS\u2666Min8",
+        "quota_id": "MIXSHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-32A\u2666LS",
         "Com ID": 436,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5669,7 +5669,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Green Party\u2666TERMINAL 3\u2666Landside\u2666#B2-35/36\u2666LS\u2666Min8",
+        "quota_id": "The Green Party\u2666TERMINAL 3\u2666Landside\u2666#B2-35/36\u2666LS",
         "Com ID": 437,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5682,7 +5682,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS\u2666Min8",
+        "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS",
         "Com ID": 438,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5695,7 +5695,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "PENIWERN\u2666TERMINAL 3\u2666Landside\u2666#B2-38\u2666LS\u2666Min8",
+        "quota_id": "PENIWERN\u2666TERMINAL 3\u2666Landside\u2666#B2-38\u2666LS",
         "Com ID": 439,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5708,7 +5708,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "KAWATA HOUSE OF SOCKS\u2666TERMINAL 3\u2666Landside\u2666#B2-43\u2666LS\u2666Min8",
+        "quota_id": "KAWATA HOUSE OF SOCKS\u2666TERMINAL 3\u2666Landside\u2666#B2-43\u2666LS",
         "Com ID": 440,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5721,7 +5721,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CLOUD 9 STUDIO (SHORT TERM TENANCY)\u2666TERMINAL 3\u2666Landside\u2666#B2-44\u2666LS\u2666Min8",
+        "quota_id": "CLOUD 9 STUDIO (SHORT TERM TENANCY)\u2666TERMINAL 3\u2666Landside\u2666#B2-44\u2666LS",
         "Com ID": 441,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5734,7 +5734,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS\u2666Min8",
+        "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS",
         "Com ID": 442,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5747,7 +5747,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS\u2666Min8",
+        "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS",
         "Com ID": 443,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5760,7 +5760,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "8 BY BOTTLES & BOTTLES\u2666TERMINAL 3\u2666Landside\u2666#B2-51A\u2666LS\u2666Min8",
+        "quota_id": "8 BY BOTTLES & BOTTLES\u2666TERMINAL 3\u2666Landside\u2666#B2-51A\u2666LS",
         "Com ID": 444,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5773,7 +5773,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "EU YAN SANG\u2666TERMINAL 3\u2666Landside\u2666#B2-55\u2666LS\u2666Min8",
+        "quota_id": "EU YAN SANG\u2666TERMINAL 3\u2666Landside\u2666#B2-55\u2666LS",
         "Com ID": 445,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5786,7 +5786,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS\u2666Min8",
+        "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS",
         "Com ID": 446,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5799,7 +5799,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tech House\u2666TERMINAL 3\u2666Landside\u2666#B2-K3\u2666LS\u2666Min8",
+        "quota_id": "Tech House\u2666TERMINAL 3\u2666Landside\u2666#B2-K3\u2666LS",
         "Com ID": 447,
         "Category": "Shops",
         "Terminal": "TERMINAL 3",
@@ -5812,7 +5812,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "International Food Hall\u2666TERMINAL 4\u2666Airside\u2666#02-228N\u2666FBA\u2666Min25",
+        "quota_id": "International Food Hall\u2666TERMINAL 4\u2666Airside\u2666#02-228N\u2666FBA",
         "Com ID": 448,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -5825,7 +5825,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Noyah La Maison & Zero Degree (Premises A1)\u2666TERMINAL 4\u2666Airside\u2666#02-35 (beside Coffee Bean)\u2666FBA\u2666Min8",
+        "quota_id": "Noyah La Maison & Zero Degree (Premises A1)\u2666TERMINAL 4\u2666Airside\u2666#02-35 (beside Coffee Bean)\u2666FBA",
         "Com ID": 449,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -5838,7 +5838,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Coffee Bean and Tea Leaf\u2666TERMINAL 4\u2666Airside\u2666#02-36N\u2666FBA\u2666Min8",
+        "quota_id": "The Coffee Bean and Tea Leaf\u2666TERMINAL 4\u2666Airside\u2666#02-36N\u2666FBA",
         "Com ID": 450,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -5851,7 +5851,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA\u2666Min8",
+        "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA",
         "Com ID": 451,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -5864,7 +5864,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Crystal Jade GO\u2666TERMINAL 4\u2666Airside\u2666#02-41\u2666FBA\u2666Min8",
+        "quota_id": "Crystal Jade GO\u2666TERMINAL 4\u2666Airside\u2666#02-41\u2666FBA",
         "Com ID": 452,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -5877,7 +5877,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Heavenly Wang\u2666TERMINAL 4\u2666Airside\u2666#02-80\u2666FBA\u2666Min8",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 4\u2666Airside\u2666#02-80\u2666FBA",
         "Com ID": 453,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -5890,7 +5890,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA\u2666Min8",
+        "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA",
         "Com ID": 454,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -5903,7 +5903,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Texas Chicken\u2666TERMINAL 4\u2666Airside\u2666#02-86\u2666FBA\u2666Min8",
+        "quota_id": "Texas Chicken\u2666TERMINAL 4\u2666Airside\u2666#02-86\u2666FBA",
         "Com ID": 455,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -5916,7 +5916,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min8",
+        "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA",
         "Com ID": 456,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -5929,7 +5929,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Airside\u2666#01-06\u2666MC\u2666Min8",
+        "quota_id": "Travelex T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Airside\u2666#01-06\u2666MC",
         "Com ID": 457,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -5942,7 +5942,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Landside\u2666#01-07\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Landside\u2666#01-07\u2666MC",
         "Com ID": 458,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -5955,7 +5955,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL\u2666Min20",
+        "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL",
         "Com ID": 459,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -5968,7 +5968,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS\u2666Min8",
+        "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Com ID": 460,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -5981,7 +5981,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC\u2666Min8",
+        "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC",
         "Com ID": 461,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -5994,7 +5994,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T4 DT South\u2666TERMINAL 4\u2666Airside\u2666#02-38\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T4 DT South\u2666TERMINAL 4\u2666Airside\u2666#02-38\u2666MC",
         "Com ID": 462,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6007,7 +6007,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-65\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-65\u2666MC",
         "Com ID": 463,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6020,7 +6020,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-66\u2666MC\u2666Min8",
+        "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-66\u2666MC",
         "Com ID": 464,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6033,7 +6033,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "T4 iSC Departure counter\u2666TERMINAL 4\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "quota_id": "T4 iSC Departure counter\u2666TERMINAL 4\u2666Airside\u2666NA\u2666PS",
         "Com ID": 465,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6046,7 +6046,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
+        "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT",
         "Com ID": 466,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6059,7 +6059,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC",
         "Com ID": 467,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6072,7 +6072,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC",
         "Com ID": 468,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6085,7 +6085,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
+        "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT",
         "Com ID": 469,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6098,7 +6098,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Cocoa Trees (Premises D)\u2666TERMINAL 4\u2666Airside\u2666#02-26\u2666CCD\u2666Min8",
+        "quota_id": "The Cocoa Trees (Premises D)\u2666TERMINAL 4\u2666Airside\u2666#02-26\u2666CCD",
         "Com ID": 470,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6111,7 +6111,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "TWG Tea Boutique\u2666TERMINAL 4\u2666Airside\u2666#02-29\u2666CCD\u2666Min8",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 4\u2666Airside\u2666#02-29\u2666CCD",
         "Com ID": 471,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6124,7 +6124,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Charles & Keith\u2666TERMINAL 4\u2666Airside\u2666#02-30\u2666MP\u2666Min8",
+        "quota_id": "Charles & Keith\u2666TERMINAL 4\u2666Airside\u2666#02-30\u2666MP",
         "Com ID": 472,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6137,7 +6137,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bacha Coffee\u2666TERMINAL 4\u2666Airside\u2666#02-31\u2666CCD\u2666Min8",
+        "quota_id": "Bacha Coffee\u2666TERMINAL 4\u2666Airside\u2666#02-31\u2666CCD",
         "Com ID": 473,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6150,7 +6150,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 4\u2666Airside\u2666#02-42\u2666CCD\u2666Min8",
+        "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 4\u2666Airside\u2666#02-42\u2666CCD",
         "Com ID": 474,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6163,7 +6163,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP\u2666Min8",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP",
         "Com ID": 475,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6176,7 +6176,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "KASHKA\u2666TERMINAL 4\u2666Airside\u2666#02-44\u2666MP\u2666Min8",
+        "quota_id": "KASHKA\u2666TERMINAL 4\u2666Airside\u2666#02-44\u2666MP",
         "Com ID": 476,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6189,7 +6189,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP\u2666Min8",
+        "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP",
         "Com ID": 477,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6202,7 +6202,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Salomon\u2666TERMINAL 4\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
+        "quota_id": "Salomon\u2666TERMINAL 4\u2666Airside\u2666#02-46\u2666MP",
         "Com ID": 478,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6215,7 +6215,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP\u2666Min8",
+        "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP",
         "Com ID": 479,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6228,7 +6228,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Lego\u2666TERMINAL 4\u2666Airside\u2666#02-48\u2666CT\u2666Min8",
+        "quota_id": "Lego\u2666TERMINAL 4\u2666Airside\u2666#02-48\u2666CT",
         "Com ID": 480,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6241,7 +6241,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Lacoste\u2666TERMINAL 4\u2666Airside\u2666#02-49\u2666MP\u2666Min8",
+        "quota_id": "Lacoste\u2666TERMINAL 4\u2666Airside\u2666#02-49\u2666MP",
         "Com ID": 481,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6254,7 +6254,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Old Seng Choong\u2666TERMINAL 4\u2666Airside\u2666#02-50\u2666CCD\u2666Min8",
+        "quota_id": "Old Seng Choong\u2666TERMINAL 4\u2666Airside\u2666#02-50\u2666CCD",
         "Com ID": 482,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6267,7 +6267,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
+        "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL",
         "Com ID": 483,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6280,7 +6280,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "iStudio\u2666TERMINAL 4\u2666Airside\u2666#02-52\u2666EL\u2666Min8",
+        "quota_id": "iStudio\u2666TERMINAL 4\u2666Airside\u2666#02-52\u2666EL",
         "Com ID": 484,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6293,7 +6293,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "FILA\u2666TERMINAL 4\u2666Airside\u2666#02-53/54\u2666MP\u2666Min8",
+        "quota_id": "FILA\u2666TERMINAL 4\u2666Airside\u2666#02-53/54\u2666MP",
         "Com ID": 485,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6306,7 +6306,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-55/56\u2666PH\u2666Min8",
+        "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-55/56\u2666PH",
         "Com ID": 486,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6319,7 +6319,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT\u2666Min15",
+        "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT",
         "Com ID": 487,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6332,7 +6332,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "WH Smith - Premises J (Air)\u2666TERMINAL 4\u2666Airside\u2666#02-59\u2666OW\u2666Min8",
+        "quota_id": "WH Smith - Premises J (Air)\u2666TERMINAL 4\u2666Airside\u2666#02-59\u2666OW",
         "Com ID": 488,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6345,7 +6345,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Fashion Place\u2666TERMINAL 4\u2666Airside\u2666#02-60/61\u2666LX\u2666Min8",
+        "quota_id": "The Fashion Place\u2666TERMINAL 4\u2666Airside\u2666#02-60/61\u2666LX",
         "Com ID": 489,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6358,7 +6358,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT\u2666Min8",
+        "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT",
         "Com ID": 490,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6371,7 +6371,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Sunnystep\u2666TERMINAL 4\u2666Airside\u2666#02-68\u2666MP\u2666Min8",
+        "quota_id": "Sunnystep\u2666TERMINAL 4\u2666Airside\u2666#02-68\u2666MP",
         "Com ID": 491,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6384,7 +6384,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Irvin's\u2666TERMINAL 4\u2666Airside\u2666#02-71\u2666CCD\u2666Min8",
+        "quota_id": "Irvin's\u2666TERMINAL 4\u2666Airside\u2666#02-71\u2666CCD",
         "Com ID": 492,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6397,7 +6397,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min8",
+        "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD",
         "Com ID": 493,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6410,7 +6410,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
+        "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV",
         "Com ID": 494,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6423,7 +6423,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bengawan Solo\u2666TERMINAL 4\u2666Airside\u2666#02-84\u2666CCD\u2666Min8",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 4\u2666Airside\u2666#02-84\u2666CCD",
         "Com ID": 495,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6436,7 +6436,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD\u2666Min8",
+        "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD",
         "Com ID": 496,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6449,7 +6449,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC\u2666Min15",
+        "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC",
         "Com ID": 497,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6462,7 +6462,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "MA MUM\u2666TERMINAL 4\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
+        "quota_id": "MA MUM\u2666TERMINAL 4\u2666Landside\u2666#01-04\u2666FBL",
         "Com ID": 498,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6475,7 +6475,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Paris Baguette\u2666TERMINAL 4\u2666Landside\u2666#01-05\u2666FBL\u2666Min8",
+        "quota_id": "Paris Baguette\u2666TERMINAL 4\u2666Landside\u2666#01-05\u2666FBL",
         "Com ID": 499,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6488,7 +6488,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "ZUS Coffee\u2666TERMINAL 4\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
+        "quota_id": "ZUS Coffee\u2666TERMINAL 4\u2666Landside\u2666#01-08\u2666FBL",
         "Com ID": 500,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6501,7 +6501,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Roost\u2666TERMINAL 4\u2666Landside\u2666#01-10\u2666FBL\u2666Min8",
+        "quota_id": "Roost\u2666TERMINAL 4\u2666Landside\u2666#01-10\u2666FBL",
         "Com ID": 501,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6514,7 +6514,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Starbucks Coffee\u2666TERMINAL 4\u2666Landside\u2666#02-04\u2666FBL\u2666Min8",
+        "quota_id": "Starbucks Coffee\u2666TERMINAL 4\u2666Landside\u2666#02-04\u2666FBL",
         "Com ID": 502,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6527,7 +6527,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "O' COFFEE CLUB\u2666TERMINAL 4\u2666Landside\u2666#02-13\u2666FBL\u2666Min8",
+        "quota_id": "O' COFFEE CLUB\u2666TERMINAL 4\u2666Landside\u2666#02-13\u2666FBL",
         "Com ID": 503,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6540,7 +6540,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL\u2666Min8",
+        "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL",
         "Com ID": 504,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6553,7 +6553,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
+        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL",
         "Com ID": 505,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6566,7 +6566,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Papparich\u2666TERMINAL 4\u2666Landside\u2666#02-203A\u2666FBL\u2666Min8",
+        "quota_id": "Papparich\u2666TERMINAL 4\u2666Landside\u2666#02-203A\u2666FBL",
         "Com ID": 506,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6579,7 +6579,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "GO Noodle House\u2666TERMINAL 4\u2666Landside\u2666#02-203\u2666FBL\u2666Min8",
+        "quota_id": "GO Noodle House\u2666TERMINAL 4\u2666Landside\u2666#02-203\u2666FBL",
         "Com ID": 507,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6592,7 +6592,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Burger King\u2666TERMINAL 4\u2666Landside\u2666#02-204\u2666FBL\u2666Min8",
+        "quota_id": "Burger King\u2666TERMINAL 4\u2666Landside\u2666#02-204\u2666FBL",
         "Com ID": 508,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6605,7 +6605,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
+        "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL",
         "Com ID": 509,
         "Category": "F&B",
         "Terminal": "TERMINAL 4",
@@ -6618,7 +6618,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS\u2666Min8",
+        "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS",
         "Com ID": 510,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6631,7 +6631,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHEERS\u2666TERMINAL 4\u2666Landside\u2666#01-09\u2666LS\u2666Min8",
+        "quota_id": "CHEERS\u2666TERMINAL 4\u2666Landside\u2666#01-09\u2666LS",
         "Com ID": 511,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6644,7 +6644,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K11\u2666CR",
         "Com ID": 512,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6657,7 +6657,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Lylo\u2666TERMINAL 4\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
+        "quota_id": "Lylo\u2666TERMINAL 4\u2666Landside\u2666#01-K12\u2666LS",
         "Com ID": 513,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6670,7 +6670,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR",
         "Com ID": 514,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6683,7 +6683,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR\u2666Min8",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR",
         "Com ID": 515,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6696,7 +6696,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
+        "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR",
         "Com ID": 516,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6709,7 +6709,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Prosegur T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
+        "quota_id": "Prosegur T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-01\u2666MC",
         "Com ID": 517,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6722,7 +6722,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Travelex T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC\u2666Min8",
+        "quota_id": "Travelex T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC",
         "Com ID": 518,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6735,7 +6735,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#02-K7\u2666CR\u2666Min8",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#02-K7\u2666CR",
         "Com ID": 519,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6748,7 +6748,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS\u2666Min5",
+        "quota_id": "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS",
         "Com ID": 520,
         "Category": "Services",
         "Terminal": "TERMINAL 4",
@@ -6761,7 +6761,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "The Digital Gadgets\u2666TERMINAL 4\u2666Landside\u2666#02-08\u2666LS\u2666Min8",
+        "quota_id": "The Digital Gadgets\u2666TERMINAL 4\u2666Landside\u2666#02-08\u2666LS",
         "Com ID": 521,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6774,7 +6774,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Landside\u2666#02-09\u2666PC\u2666Min8",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Landside\u2666#02-09\u2666PC",
         "Com ID": 522,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6787,7 +6787,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Choco Express\u2666TERMINAL 4\u2666Landside\u2666#02-10\u2666LS\u2666Min8",
+        "quota_id": "Choco Express\u2666TERMINAL 4\u2666Landside\u2666#02-10\u2666LS",
         "Com ID": 523,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6800,7 +6800,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "BAKERY CUISINE\u2666TERMINAL 4\u2666Landside\u2666#02-11\u2666LS\u2666Min8",
+        "quota_id": "BAKERY CUISINE\u2666TERMINAL 4\u2666Landside\u2666#02-11\u2666LS",
         "Com ID": 524,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
@@ -6813,7 +6813,7 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 4\u2666Landside\u2666#02-12\u2666LS\u2666Min8",
+        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 4\u2666Landside\u2666#02-12\u2666LS",
         "Com ID": 525,
         "Category": "Shops",
         "Terminal": "TERMINAL 4",
