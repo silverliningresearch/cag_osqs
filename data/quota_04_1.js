@@ -14,6 +14,19 @@
         "Month": "04"
     },
     {
+        "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA\u2666Min8",
+        "Com ID": 2,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 1,
+        "Name": "Mango Tree Kitchen / Archipelago",
+        "Number": "#02-39N",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "04"
+    },
+    {
         "quota_id": "Chatterbox Express\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666FBA\u2666Min8",
         "Com ID": 3,
         "Category": "F&B",
@@ -2219,6 +2232,19 @@
         "Cluster": 18,
         "Name": "Kaboom",
         "Number": "#02-162 (#026-098)",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "04"
+    },
+    {
+        "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163 (#026-098-01)\u2666MP\u2666Min8",
+        "Com ID": 173,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 18,
+        "Name": "Lacoste",
+        "Number": "#02-163 (#026-098-01)",
         "Quota": 8,
         "Year": "2025",
         "Month": "04"
@@ -4655,6 +4681,19 @@
         "Month": "04"
     },
     {
+        "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666CCD\u2666Min8",
+        "Com ID": 364,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Shops",
+        "Cluster": 37,
+        "Name": "Mr. Bucket Chocolaterie",
+        "Number": "#02-K14",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "04"
+    },
+    {
         "quota_id": "MCDONALD'S\u2666TERMINAL 3\u2666Landside\u2666#01-21\u2666FBL\u2666Min8",
         "Com ID": 365,
         "Category": "F&B",
@@ -6756,71 +6795,6 @@
         "Cluster": 54,
         "Name": "Griddy Grid, Floor is Lava",
         "Number": "#03-03",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "04"
-    },
-    {
-        "quota_id": "Encik Tan\u2666TERMINAL 1\u2666Airside\u2666#02-K08\u2666FBA\u2666Min8",
-        "Com ID": 530,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside F&B",
-        "Cluster": 54,
-        "Name": "Encik Tan",
-        "Number": "#02-K08",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "04"
-    },
-    {
-        "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K09\u2666FBA\u2666Min8",
-        "Com ID": 531,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside F&B",
-        "Cluster": 54,
-        "Name": "Heavenly Wang",
-        "Number": "#02-K09",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "04"
-    },
-    {
-        "quota_id": "Ippudo Express\u2666TERMINAL 1\u2666Airside\u2666#02-K08\u2666FBA\u2666Min8",
-        "Com ID": 532,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside F&B",
-        "Cluster": 54,
-        "Name": "Ippudo Express",
-        "Number": "#02-K08",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "04"
-    },
-    {
-        "quota_id": "Korea Culture\u2666TERMINAL 3\u2666Landside\u2666#03-33\u2666FBL\u2666Min8",
-        "Com ID": 533,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside F&B",
-        "Cluster": 54,
-        "Name": "Korea Culture",
-        "Number": "#03-33",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "04"
-    },
-    {
-        "quota_id": "Little Dino by Wan to Play\u2666TERMINAL 3\u2666Landside\u2666#B2-14/15/16/17/18\u2666LS\u2666Min8",
-        "Com ID": 534,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Shops",
-        "Cluster": 54,
-        "Name": "Little Dino by Wan to Play",
-        "Number": "#B2-14/15/16/17/18",
         "Quota": 8,
         "Year": "2025",
         "Month": "04"
