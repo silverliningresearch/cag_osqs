@@ -6748,7 +6748,7 @@
         "Month": "04"
     },
     {
-        "quota_id": "Griddy Grid, Floor is Lava\u2666TERMINAL 3\u2666Landside\u2666#03-03\u2666LS\u2666Min8",
+        "quota_id": "Griddy Grid, Floor is Lava\u2666TERMINAL 2\u2666Landside\u2666#03-03\u2666LS\u2666Min8",
         "Com ID": 529,
         "Category": "Shops",
         "Terminal": "TERMINAL 2",
