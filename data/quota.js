@@ -6756,7 +6756,7 @@
         "Cluster": 54,
         "Name": "Griddy Grid, Floor is Lava",
         "Number": "#03-03",
-        "Quota": 8,
+        "Quota": 5,
         "Year": "2025",
         "Month": "04"
     },
