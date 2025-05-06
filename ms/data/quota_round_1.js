@@ -9,7 +9,7 @@
         "Cluster": 1,
         "Name": "Paul le Cafe",
         "Number": "#02-26",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -22,7 +22,7 @@
         "Cluster": 1,
         "Name": "Mango Tree Kitchen / Archipelago",
         "Number": "#02-39N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -35,7 +35,7 @@
         "Cluster": 1,
         "Name": "Chatterbox Express",
         "Number": "#02-52",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -48,7 +48,7 @@
         "Cluster": 1,
         "Name": "Luckin Coffee",
         "Number": "#02-59",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -61,7 +61,7 @@
         "Cluster": 1,
         "Name": "Harry's Bar",
         "Number": "#02-65",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -74,7 +74,7 @@
         "Cluster": 1,
         "Name": "Pontian Wanton Noodle",
         "Number": "#02-K10N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -87,7 +87,7 @@
         "Cluster": 1,
         "Name": "Tip Top Curry Puff",
         "Number": "#02-K11N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -100,7 +100,7 @@
         "Cluster": 1,
         "Name": "Lixin Teochew Fishball Noodles",
         "Number": "#02-K17",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -113,7 +113,7 @@
         "Cluster": 1,
         "Name": "Hainan Story Coffee & Toast",
         "Number": "#02-K18",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -126,7 +126,7 @@
         "Cluster": 1,
         "Name": "A Noodle Story",
         "Number": "#02-K19",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -139,7 +139,7 @@
         "Cluster": 2,
         "Name": "Crave",
         "Number": "#02-K19A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -152,7 +152,7 @@
         "Cluster": 2,
         "Name": "Burger King",
         "Number": "#03-02",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -165,7 +165,7 @@
         "Cluster": 2,
         "Name": "SG Hawker",
         "Number": "#03-47/48",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -178,7 +178,7 @@
         "Cluster": 2,
         "Name": "Tap & Brew",
         "Number": "#03-52",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -191,7 +191,7 @@
         "Cluster": 2,
         "Name": "I Love Taimei",
         "Number": "#03-53",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -204,7 +204,7 @@
         "Cluster": 2,
         "Name": "Crystal Jade La Mian Xiao Long Bao",
         "Number": "#03-54",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -217,7 +217,7 @@
         "Cluster": 2,
         "Name": "Pizza Hut",
         "Number": "#03-K04",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -243,7 +243,7 @@
         "Cluster": 2,
         "Name": "Travelex T1 DT West",
         "Number": "#02-20",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -256,7 +256,7 @@
         "Cluster": 2,
         "Name": "Prosegur T1 DT West",
         "Number": "#02-21",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -269,7 +269,7 @@
         "Cluster": 3,
         "Name": "Travelex T1 DT East",
         "Number": "#02-71",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -282,7 +282,7 @@
         "Cluster": 3,
         "Name": "Prosegur T1 DT East",
         "Number": "#02-72",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -295,7 +295,7 @@
         "Cluster": 3,
         "Name": "7-Eleven (T1)",
         "Number": "#02-75",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -308,7 +308,7 @@
         "Cluster": 3,
         "Name": "Changi Recommends (T1 Licensed Area A)",
         "Number": "#02-COUNTER (near PAUL)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -321,7 +321,7 @@
         "Cluster": 3,
         "Name": "Plaza Premium Lounge",
         "Number": "#03-03",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -334,7 +334,7 @@
         "Cluster": 3,
         "Name": "Aerotel",
         "Number": "#03-139&140",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -360,7 +360,7 @@
         "Cluster": 3,
         "Name": "Perfumes & Cosmetics (T1 ABE)",
         "Number": "#01-09F",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -373,7 +373,7 @@
         "Cluster": 3,
         "Name": "LT T1 Arrival East",
         "Number": "#01-10F",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -386,7 +386,7 @@
         "Cluster": 3,
         "Name": "Perfumes & Cosmetics (T1 ABW)",
         "Number": "#01-22F",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -399,7 +399,7 @@
         "Cluster": 4,
         "Name": "LT T1 Arrival West",
         "Number": "#01-23E",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -412,7 +412,7 @@
         "Cluster": 4,
         "Name": "Prada",
         "Number": "#02-12A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -425,7 +425,7 @@
         "Cluster": 4,
         "Name": "Stefano Ricci",
         "Number": "#02-12B",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -438,7 +438,7 @@
         "Cluster": 4,
         "Name": "Bvlgari",
         "Number": "#02-12",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -451,7 +451,7 @@
         "Cluster": 4,
         "Name": "Roger Vivier",
         "Number": "#02-13AF",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -464,7 +464,7 @@
         "Cluster": 4,
         "Name": "iStudio",
         "Number": "#02-13F",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -477,7 +477,7 @@
         "Cluster": 4,
         "Name": "TWG Tea Boutique",
         "Number": "#02-14",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -490,7 +490,7 @@
         "Cluster": 4,
         "Name": "Bacha Coffee",
         "Number": "#02-15A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -503,7 +503,7 @@
         "Cluster": 4,
         "Name": "Bengawan Solo",
         "Number": "#02-15N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -516,7 +516,7 @@
         "Cluster": 4,
         "Name": "Guardian (Premises B) (T1 DTW)",
         "Number": "#02-16",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -529,7 +529,7 @@
         "Cluster": 5,
         "Name": "Giordano",
         "Number": "#02-19N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -542,7 +542,7 @@
         "Cluster": 5,
         "Name": "LT T1 DT West",
         "Number": "#02-22",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -555,7 +555,7 @@
         "Cluster": 5,
         "Name": "Uniqlo",
         "Number": "#02-23",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -568,7 +568,7 @@
         "Cluster": 5,
         "Name": "Perfumes & Cosmetics (T1 DTW #02-25)",
         "Number": "#02-25",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -581,7 +581,7 @@
         "Cluster": 5,
         "Name": "Victoria's Secret",
         "Number": "#02-27",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -594,7 +594,7 @@
         "Cluster": 5,
         "Name": "Sunglass Hut (T1 DTW)",
         "Number": "#02-28",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -607,7 +607,7 @@
         "Cluster": 5,
         "Name": "Chow Tai Fook",
         "Number": "#02-29",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -620,7 +620,7 @@
         "Cluster": 5,
         "Name": "Times Travel",
         "Number": "#02-30A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -633,7 +633,7 @@
         "Cluster": 5,
         "Name": "LACOSTE",
         "Number": "#02-30F",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -646,7 +646,7 @@
         "Cluster": 5,
         "Name": "Garrett Gold",
         "Number": "#02-32N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -659,7 +659,7 @@
         "Cluster": 6,
         "Name": "Discover Singapore (Premises B) (T1 DTW)",
         "Number": "#02-33/34",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -672,7 +672,7 @@
         "Cluster": 6,
         "Name": "The Cocoa Trees (T1 DTW)",
         "Number": "#02-35N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -685,7 +685,7 @@
         "Cluster": 6,
         "Name": "Sprint-Cass (T1 DTW)",
         "Number": "#02-36",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -698,7 +698,7 @@
         "Cluster": 6,
         "Name": "Perfumes & Cosmetics (T1 DTC)",
         "Number": "#02-37/38",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -711,7 +711,7 @@
         "Cluster": 6,
         "Name": "WH Smith - Premises B (Air) (T1 DTW)",
         "Number": "#02-41C",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -724,7 +724,7 @@
         "Cluster": 6,
         "Name": "Fragrance",
         "Number": "#02-42N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -737,7 +737,7 @@
         "Cluster": 6,
         "Name": "Perfumes & Cosmetics (T1 DTW #02-43N)",
         "Number": "#02-43N",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -750,7 +750,7 @@
         "Cluster": 6,
         "Name": "Christian Dior",
         "Number": "#02-44 & #03-44-MZ",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -763,7 +763,7 @@
         "Cluster": 6,
         "Name": "Tiffany & Co.",
         "Number": "#02-45",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -776,7 +776,7 @@
         "Cluster": 6,
         "Name": "Louis Vuitton",
         "Number": "#02-50",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -789,7 +789,7 @@
         "Cluster": 7,
         "Name": "Charles & Keith",
         "Number": "#02-51",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -802,7 +802,7 @@
         "Cluster": 7,
         "Name": "LT T1 DT Central",
         "Number": "#02-53,02-46,02-46A",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -815,7 +815,7 @@
         "Cluster": 7,
         "Name": "Gassan Watches",
         "Number": "#02-54",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -828,7 +828,7 @@
         "Cluster": 7,
         "Name": "Hermes",
         "Number": "#02-55/56",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -841,7 +841,7 @@
         "Cluster": 7,
         "Name": "Tory Burch",
         "Number": "#02-57",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -854,7 +854,7 @@
         "Cluster": 7,
         "Name": "Marc Jacobs",
         "Number": "#02-58",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -867,7 +867,7 @@
         "Cluster": 7,
         "Name": "Omega",
         "Number": "#02-60",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -880,7 +880,7 @@
         "Cluster": 7,
         "Name": "WH Smith (T1 DTE)",
         "Number": "#02-61",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -893,7 +893,7 @@
         "Cluster": 7,
         "Name": "Kaboom (DTE)",
         "Number": "#02-62A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -906,7 +906,7 @@
         "Cluster": 7,
         "Name": "Metapod",
         "Number": "#02-62",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -919,7 +919,7 @@
         "Cluster": 8,
         "Name": "The Cocoa Trees",
         "Number": "#02-63",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -932,7 +932,7 @@
         "Cluster": 8,
         "Name": "Perfumes & Cosmetics (T1 DTE)",
         "Number": "#02-64",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -945,7 +945,7 @@
         "Cluster": 8,
         "Name": "LT T1 DT East",
         "Number": "#02-68",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -958,7 +958,7 @@
         "Cluster": 8,
         "Name": "Guardian",
         "Number": "#02-69",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -971,7 +971,7 @@
         "Cluster": 8,
         "Name": "Discover Singapore (Premises A) (T1 DTE)",
         "Number": "#02-70",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -984,7 +984,7 @@
         "Cluster": 8,
         "Name": "adidas Originals",
         "Number": "#02-73",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -997,7 +997,7 @@
         "Cluster": 8,
         "Name": "Pedro",
         "Number": "#02-74",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1010,7 +1010,7 @@
         "Cluster": 8,
         "Name": "Hugo Boss",
         "Number": "#02-76",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1023,7 +1023,7 @@
         "Cluster": 8,
         "Name": "Longchamp",
         "Number": "#02-77",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1036,7 +1036,7 @@
         "Cluster": 8,
         "Name": "Qeelin",
         "Number": "#02-78",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1049,7 +1049,7 @@
         "Cluster": 9,
         "Name": "Gucci",
         "Number": "#02-79",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1062,7 +1062,7 @@
         "Cluster": 9,
         "Name": "Burberry",
         "Number": "#02-80",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1075,7 +1075,7 @@
         "Cluster": 9,
         "Name": "Balenciaga",
         "Number": "#02-81",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1088,7 +1088,7 @@
         "Cluster": 9,
         "Name": "Saint Laurent",
         "Number": "#02-82",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1101,7 +1101,7 @@
         "Cluster": 9,
         "Name": "Irvins Salted Egg",
         "Number": "#02-K07A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1114,7 +1114,7 @@
         "Cluster": 9,
         "Name": "The Killiney Experience",
         "Number": "#02-K12",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1127,7 +1127,7 @@
         "Cluster": 9,
         "Name": "Aroma Truffle",
         "Number": "#02-K19B",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1140,7 +1140,7 @@
         "Cluster": 9,
         "Name": "Taste Singapore (Premises A3)",
         "Number": "#02-K23",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1153,7 +1153,7 @@
         "Cluster": 9,
         "Name": "BEE CHENG HIANG",
         "Number": "#02-K24",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1166,7 +1166,7 @@
         "Cluster": 9,
         "Name": "Beyond The Vines",
         "Number": "#02-K25",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1179,7 +1179,7 @@
         "Cluster": 10,
         "Name": "Breo",
         "Number": "#02-K46A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1296,7 +1296,7 @@
         "Cluster": 10,
         "Name": "ORCHID CAFETERIA",
         "Number": "#B1-12A",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1322,7 +1322,7 @@
         "Cluster": 11,
         "Name": "Travelex T1 Arr Mtg West",
         "Number": "#01-K24",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1335,7 +1335,7 @@
         "Cluster": 11,
         "Name": "Prosegur T1 Arr Mtg Hall West",
         "Number": "#01-K25",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1348,7 +1348,7 @@
         "Cluster": 11,
         "Name": "Travelex T1 Arr Mtg Hall East",
         "Number": "#01-K26",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1361,7 +1361,7 @@
         "Cluster": 11,
         "Name": "Prosegur T1 Arr Mtg Hall East",
         "Number": "#01-K27",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1374,7 +1374,7 @@
         "Cluster": 11,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K31 (beside info counter)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1387,7 +1387,7 @@
         "Cluster": 11,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K4",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1426,7 +1426,7 @@
         "Cluster": 11,
         "Name": "CHANGI MEET & GREET",
         "Number": "#01-K7",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1439,7 +1439,7 @@
         "Cluster": 12,
         "Name": "STARHUB",
         "Number": "#01-K8",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1452,7 +1452,7 @@
         "Cluster": 12,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K9 (beside Starhub)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1465,7 +1465,7 @@
         "Cluster": 12,
         "Name": "Travelex T1 DCI Central",
         "Number": "#02-01",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1478,7 +1478,7 @@
         "Cluster": 12,
         "Name": "Prosegur T1 DCI Central",
         "Number": "#02-02",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1504,7 +1504,7 @@
         "Cluster": 12,
         "Name": "CHANGI RECOMMENDS (T1 L2 Landside)",
         "Number": "#02-K39",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1543,7 +1543,7 @@
         "Cluster": 12,
         "Name": "Perfumes & Cosmetics (T1 Landside)",
         "Number": "#02-83",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1556,7 +1556,7 @@
         "Cluster": 12,
         "Name": "WH Smith - Premises C (Land) (T1 Landside)",
         "Number": "#02-84",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1569,7 +1569,7 @@
         "Cluster": 13,
         "Name": "Heineken World Bar",
         "Number": "#02-157",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1582,7 +1582,7 @@
         "Cluster": 13,
         "Name": "Pret A Manger",
         "Number": "#02-165",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1595,7 +1595,7 @@
         "Cluster": 13,
         "Name": "The Satay Club",
         "Number": "#02-169",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1608,7 +1608,7 @@
         "Cluster": 13,
         "Name": "Asian Street Kitchen",
         "Number": "#02-170",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1621,7 +1621,7 @@
         "Cluster": 13,
         "Name": "Hard Rock Cafe",
         "Number": "#02-177",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1634,7 +1634,7 @@
         "Cluster": 13,
         "Name": "Hudsons (DTS Gourmet Garden)",
         "Number": "#02-178",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1647,7 +1647,7 @@
         "Cluster": 13,
         "Name": "Luke's Lobster",
         "Number": "#02-179",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1660,7 +1660,7 @@
         "Cluster": 13,
         "Name": "Starbucks",
         "Number": "#026-095-06",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1673,7 +1673,7 @@
         "Cluster": 13,
         "Name": "The Coffee Bean & Tea Leaf",
         "Number": "#02-800",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1686,7 +1686,7 @@
         "Cluster": 13,
         "Name": "Yakun Kaya Toast",
         "Number": "#02-803",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1699,7 +1699,7 @@
         "Cluster": 14,
         "Name": "The Hainan Story Bakery",
         "Number": "#02-K05",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1712,7 +1712,7 @@
         "Cluster": 14,
         "Name": "Ippudo Express",
         "Number": "#02-K10",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1725,7 +1725,7 @@
         "Cluster": 14,
         "Name": "The Hainan Story Coffee & Toast",
         "Number": "#02-K11",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1738,7 +1738,7 @@
         "Cluster": 14,
         "Name": "Buk Chang Dong Soon Tofu",
         "Number": "#02-K12",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1751,7 +1751,7 @@
         "Cluster": 14,
         "Name": "LiHO TEA",
         "Number": "#02-K13",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1764,7 +1764,7 @@
         "Cluster": 14,
         "Name": "Dunkin\u2019 Donuts",
         "Number": "#02-K14",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1777,7 +1777,7 @@
         "Cluster": 14,
         "Name": "GOPIZZA",
         "Number": "#02-K15",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1790,7 +1790,7 @@
         "Cluster": 14,
         "Name": "Boost Juice",
         "Number": "#02-K16",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1803,7 +1803,7 @@
         "Cluster": 14,
         "Name": "Chef Wei",
         "Number": "#02-K6",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1816,7 +1816,7 @@
         "Cluster": 14,
         "Name": "Old Chang Kee",
         "Number": "#02-K7",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1829,7 +1829,7 @@
         "Cluster": 15,
         "Name": "Wee Nam Kee",
         "Number": "#02-K9",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1842,7 +1842,7 @@
         "Cluster": 15,
         "Name": "Straits Food Village - Premises A",
         "Number": "#03-179/180/181",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1855,7 +1855,7 @@
         "Cluster": 15,
         "Name": "McDonald's",
         "Number": "#036-070",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1868,7 +1868,7 @@
         "Cluster": 15,
         "Name": "The Green Market",
         "Number": "#036-083",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1881,7 +1881,7 @@
         "Cluster": 15,
         "Name": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)",
         "Number": "#036-169",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1894,7 +1894,7 @@
         "Cluster": 15,
         "Name": "Travelex T2 Arrival Baggage Claim Hall South",
         "Number": "#01-178",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1907,7 +1907,7 @@
         "Cluster": 15,
         "Name": "Prosegur T2 Arr Mtg Hall Central",
         "Number": "#01-181",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1920,7 +1920,7 @@
         "Cluster": 15,
         "Name": "Travelex T2 DT North (Satellite)",
         "Number": "#02-150A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1933,7 +1933,7 @@
         "Cluster": 15,
         "Name": "Travelex T2 DT South",
         "Number": "#02-209A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1946,7 +1946,7 @@
         "Cluster": 15,
         "Name": "Prosegur T2 DT South",
         "Number": "#02-209B",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1959,7 +1959,7 @@
         "Cluster": 16,
         "Name": "Travelex T2 DT North",
         "Number": "#02-235",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1972,7 +1972,7 @@
         "Cluster": 16,
         "Name": "Prosegur T2 DT North",
         "Number": "#02-237",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1998,7 +1998,7 @@
         "Cluster": 16,
         "Name": "7-Eleven (T2 Level 2)",
         "Number": "#02-404",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2011,7 +2011,7 @@
         "Cluster": 16,
         "Name": "Changi Recommends",
         "Number": "#02-K18",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2024,7 +2024,7 @@
         "Cluster": 16,
         "Name": "Natureland Premium",
         "Number": "#03-168",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2037,7 +2037,7 @@
         "Cluster": 16,
         "Name": "7-Eleven (T2 Level 3)",
         "Number": "#03-172",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2050,7 +2050,7 @@
         "Cluster": 16,
         "Name": "Ambassador Transit Hotel",
         "Number": "#03-175/176",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2063,7 +2063,7 @@
         "Cluster": 16,
         "Name": "Ambassador Transit Lounge",
         "Number": "#036-123&123-A",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2089,7 +2089,7 @@
         "Cluster": 17,
         "Name": "Perfumes & Cosmetics (T2 ABN)",
         "Number": "#01-150",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2102,7 +2102,7 @@
         "Cluster": 17,
         "Name": "LT T2 Arrival North",
         "Number": "#01-151",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2115,7 +2115,7 @@
         "Cluster": 17,
         "Name": "Liquor & Tobacco (T2 Arrival South)",
         "Number": "#01-176",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2128,7 +2128,7 @@
         "Cluster": 17,
         "Name": "Perfumes & Cosmetics (T2 ABS)",
         "Number": "#01-177",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2141,7 +2141,7 @@
         "Cluster": 17,
         "Name": "Metapod (T2 DTN)",
         "Number": "#02-150",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2154,7 +2154,7 @@
         "Cluster": 17,
         "Name": "Ray-Ban",
         "Number": "#02-152 (#026-094)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2167,7 +2167,7 @@
         "Cluster": 17,
         "Name": "Asian Artistry",
         "Number": "#02-153",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2180,7 +2180,7 @@
         "Cluster": 17,
         "Name": "Luvenus",
         "Number": "#02-154",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2193,7 +2193,7 @@
         "Cluster": 17,
         "Name": "Guardian (Premises A) (T2 DTN)",
         "Number": "#02-155",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2206,7 +2206,7 @@
         "Cluster": 17,
         "Name": "Bee Cheng Hiang (T2 DTN)",
         "Number": "#02-156 (#026-095-01)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2219,7 +2219,7 @@
         "Cluster": 18,
         "Name": "Fila Kids",
         "Number": "#02-161",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2232,7 +2232,7 @@
         "Cluster": 18,
         "Name": "Kaboom",
         "Number": "#02-162 (#026-098)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2245,7 +2245,7 @@
         "Cluster": 18,
         "Name": "Lacoste",
         "Number": "#02-163 (#026-098-01)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2258,7 +2258,7 @@
         "Cluster": 18,
         "Name": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)",
         "Number": "#02-166",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2271,7 +2271,7 @@
         "Cluster": 18,
         "Name": "LT T2 Duplex",
         "Number": "#02-167 & #03-189",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2284,7 +2284,7 @@
         "Cluster": 18,
         "Name": "Samsung Experience Store\u2666TERMINAL",
         "Number": "#02-168",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2297,7 +2297,7 @@
         "Cluster": 18,
         "Name": "Perfumes & Cosmetics (T2 DTC)",
         "Number": "#02-174 (#026-103E)",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2310,7 +2310,7 @@
         "Cluster": 18,
         "Name": "Old Seng Choong",
         "Number": "#02-175/176",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2323,7 +2323,7 @@
         "Cluster": 18,
         "Name": "myEureka",
         "Number": "#02-181",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2336,7 +2336,7 @@
         "Cluster": 18,
         "Name": "Metapod (T2 DTS)",
         "Number": "#02-186",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2349,7 +2349,7 @@
         "Cluster": 19,
         "Name": "Sunglass Hut",
         "Number": "#02-189",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2362,7 +2362,7 @@
         "Cluster": 19,
         "Name": "Samsonite",
         "Number": "#02-190",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2375,7 +2375,7 @@
         "Cluster": 19,
         "Name": "Discover Singapore (Premises D) (T2 DTS)",
         "Number": "#02-191",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2388,7 +2388,7 @@
         "Cluster": 19,
         "Name": "Unity",
         "Number": "#02-192",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2401,7 +2401,7 @@
         "Cluster": 19,
         "Name": "Perfumes & Cosmetics (T2 DTS)",
         "Number": "#02-194 (#026-116)",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2414,7 +2414,7 @@
         "Cluster": 19,
         "Name": "Bacha Coffee (DTS)",
         "Number": "#02-195",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2427,7 +2427,7 @@
         "Cluster": 19,
         "Name": "The Cocoa Trees (T2 DTS, beside Transfer F)",
         "Number": "#02-196",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2440,7 +2440,7 @@
         "Cluster": 19,
         "Name": "Liquor & Tobacco (T2 DTS)",
         "Number": "#02-197",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2453,7 +2453,7 @@
         "Cluster": 19,
         "Name": "Fragrance",
         "Number": "#02-199",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2466,7 +2466,7 @@
         "Cluster": 19,
         "Name": "Pazzion",
         "Number": "#02-201",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2479,7 +2479,7 @@
         "Cluster": 20,
         "Name": "Swarovski (T2S)",
         "Number": "#02-202",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2492,7 +2492,7 @@
         "Cluster": 20,
         "Name": "Kering Eyewear",
         "Number": "#02-203",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2505,7 +2505,7 @@
         "Cluster": 20,
         "Name": "WH Smith (T2 DTS)",
         "Number": "#02-207",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2518,7 +2518,7 @@
         "Cluster": 20,
         "Name": "Gassan Watches (T2 DTS)",
         "Number": "#02-208",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2531,7 +2531,7 @@
         "Cluster": 20,
         "Name": "Irvin's Salted Egg",
         "Number": "#02-209D",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2544,7 +2544,7 @@
         "Cluster": 20,
         "Name": "Chloe",
         "Number": "#02-210",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2557,7 +2557,7 @@
         "Cluster": 20,
         "Name": "Hermes",
         "Number": "#02-211",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2570,7 +2570,7 @@
         "Cluster": 20,
         "Name": "Pomellato",
         "Number": "#02-212",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2583,7 +2583,7 @@
         "Cluster": 20,
         "Name": "Tory Burch",
         "Number": "#02-213",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2596,7 +2596,7 @@
         "Cluster": 20,
         "Name": "Burberry",
         "Number": "#02-214",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2609,7 +2609,7 @@
         "Cluster": 21,
         "Name": "Longchamp",
         "Number": "#02-215",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2622,7 +2622,7 @@
         "Cluster": 21,
         "Name": "TWG Tea Boutique",
         "Number": "#02-216",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2635,7 +2635,7 @@
         "Cluster": 21,
         "Name": "Zegna",
         "Number": "#02-217",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2648,7 +2648,7 @@
         "Cluster": 21,
         "Name": "The Cocoa Trees (T2 DTS, beside Montblanc)",
         "Number": "#02-218",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2661,7 +2661,7 @@
         "Cluster": 21,
         "Name": "Bvlgari",
         "Number": "#02-221",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2674,7 +2674,7 @@
         "Cluster": 21,
         "Name": "Ferragamo",
         "Number": "#02-222 (#026-078E)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2687,7 +2687,7 @@
         "Cluster": 21,
         "Name": "Gucci",
         "Number": "#02-223",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2700,7 +2700,7 @@
         "Cluster": 21,
         "Name": "Bottega Veneta",
         "Number": "#02-224",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2713,7 +2713,7 @@
         "Cluster": 21,
         "Name": "Tod's",
         "Number": "#02-225-01",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2726,7 +2726,7 @@
         "Cluster": 21,
         "Name": "Saint Laurent",
         "Number": "#02-225-02",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2739,7 +2739,7 @@
         "Cluster": 22,
         "Name": "Moncler",
         "Number": "#02-225-03",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2752,7 +2752,7 @@
         "Cluster": 22,
         "Name": "Polo Ralph Lauren",
         "Number": "#02-225-04",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2765,7 +2765,7 @@
         "Cluster": 22,
         "Name": "Gassan Watches (T2 DTN)",
         "Number": "#02-226",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2778,7 +2778,7 @@
         "Cluster": 22,
         "Name": "Marc Jacobs",
         "Number": "#02-227",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2791,7 +2791,7 @@
         "Cluster": 22,
         "Name": "MCM",
         "Number": "#02-228",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2804,7 +2804,7 @@
         "Cluster": 22,
         "Name": "Hugo Boss",
         "Number": "#02-232",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2817,7 +2817,7 @@
         "Cluster": 22,
         "Name": "Omega",
         "Number": "#02-233",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2830,7 +2830,7 @@
         "Cluster": 22,
         "Name": "Charles & Keith",
         "Number": "#02-234 (#026-057)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2843,7 +2843,7 @@
         "Cluster": 22,
         "Name": "Bacha Coffee (DTN)",
         "Number": "#02-236",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2856,7 +2856,7 @@
         "Cluster": 22,
         "Name": "iStudio",
         "Number": "#02-238",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2869,7 +2869,7 @@
         "Cluster": 23,
         "Name": "Oakley",
         "Number": "#02-244",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2882,7 +2882,7 @@
         "Cluster": 23,
         "Name": "Braun Buffel",
         "Number": "#02-245",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2895,7 +2895,7 @@
         "Cluster": 23,
         "Name": "Eu Yan Sang",
         "Number": "#02-246",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2908,7 +2908,7 @@
         "Cluster": 23,
         "Name": "Perfumes & Cosmetics (T2 DTN)",
         "Number": "#02-400 (#027-027E)",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2921,7 +2921,7 @@
         "Cluster": 23,
         "Name": "LT T2 DT North",
         "Number": "#02-401",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2934,7 +2934,7 @@
         "Cluster": 23,
         "Name": "Discover Singapore (T2 DTN)",
         "Number": "#02-402",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2947,7 +2947,7 @@
         "Cluster": 23,
         "Name": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)",
         "Number": "#02-403",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2960,7 +2960,7 @@
         "Cluster": 23,
         "Name": "Tommy Hilfiger",
         "Number": "#026-055-01A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2973,7 +2973,7 @@
         "Cluster": 23,
         "Name": "WH Smith - Premises D (Air) (T2 DTN)",
         "Number": "#026-055-02A (#02-240)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2986,7 +2986,7 @@
         "Cluster": 23,
         "Name": "Prada",
         "Number": "#026-072 (#02-229)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -2999,7 +2999,7 @@
         "Cluster": 24,
         "Name": "Victoria's Secret",
         "Number": "#026-093 (#02-151)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3012,7 +3012,7 @@
         "Cluster": 24,
         "Name": "Giordano",
         "Number": "#026-096 (#02-160)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3025,7 +3025,7 @@
         "Cluster": 24,
         "Name": "Bengawan Solo",
         "Number": "#026-096-01",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3038,7 +3038,7 @@
         "Cluster": 24,
         "Name": "Maison Christian Dior/ Diptyque/ Byredo",
         "Number": "#026-100-03",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3051,7 +3051,7 @@
         "Cluster": 24,
         "Name": "Tumi",
         "Number": "#026-100",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3064,7 +3064,7 @@
         "Cluster": 24,
         "Name": "UOB Gold",
         "Number": "#02-K19",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3311,7 +3311,7 @@
         "Cluster": 26,
         "Name": "Foodies' Clan",
         "Number": "#0610-ASC",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3337,7 +3337,7 @@
         "Cluster": 26,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-05 (beside iSC counter near lifts)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3363,7 +3363,7 @@
         "Cluster": 26,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-180",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3376,7 +3376,7 @@
         "Cluster": 27,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K15 (near taxi stand)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3389,7 +3389,7 @@
         "Cluster": 27,
         "Name": "Prosegur T2 DCI Central",
         "Number": "#02-16",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3402,7 +3402,7 @@
         "Cluster": 27,
         "Name": "Travelex T2 DCI Central",
         "Number": "#02-17",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3428,7 +3428,7 @@
         "Cluster": 27,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#02-K4",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3480,7 +3480,7 @@
         "Cluster": 27,
         "Name": "Perfumes & Cosmetics",
         "Number": "#02-10/11 (#026-022/023)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3545,7 +3545,7 @@
         "Cluster": 28,
         "Name": "WH Smith (T2 Landside)",
         "Number": "#02-23",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3571,7 +3571,7 @@
         "Cluster": 28,
         "Name": "Harry's Bar",
         "Number": "#02-08",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3584,7 +3584,7 @@
         "Cluster": 28,
         "Name": "LeNu Noodle Bar & Congee Specialist",
         "Number": "#02-28",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3597,7 +3597,7 @@
         "Cluster": 28,
         "Name": "The Kitchen by Wolfgang Puck",
         "Number": "#02-42",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3610,7 +3610,7 @@
         "Cluster": 28,
         "Name": "Pret A Manger",
         "Number": "#02-59",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3623,7 +3623,7 @@
         "Cluster": 28,
         "Name": "Hudsons Cafe",
         "Number": "#02-60",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3636,7 +3636,7 @@
         "Cluster": 29,
         "Name": "Coffee Cart",
         "Number": "#02-CC (outside A13)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3649,7 +3649,7 @@
         "Cluster": 29,
         "Name": "Heavenly Wang",
         "Number": "#02-K1",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3662,7 +3662,7 @@
         "Cluster": 29,
         "Name": "Old Chang Kee",
         "Number": "#02-K2",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3675,7 +3675,7 @@
         "Cluster": 29,
         "Name": "IPPUDO EXPRESS",
         "Number": "#02-K3",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3688,7 +3688,7 @@
         "Cluster": 29,
         "Name": "The Coffee Bean & Tea Leaf",
         "Number": "#02-K4",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3701,7 +3701,7 @@
         "Cluster": 29,
         "Name": "Gourmet Sarawak",
         "Number": "#02-K5",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3714,7 +3714,7 @@
         "Cluster": 29,
         "Name": "Encik Tan",
         "Number": "#02-K6",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3727,7 +3727,7 @@
         "Cluster": 29,
         "Name": "Singapore Food Street",
         "Number": "#03-011",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3740,7 +3740,7 @@
         "Cluster": 29,
         "Name": "Burger King",
         "Number": "#03-13",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3753,7 +3753,7 @@
         "Cluster": 29,
         "Name": "GHN4",
         "Number": "GHN4 (B1-4)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3766,7 +3766,7 @@
         "Cluster": 30,
         "Name": "GHS3",
         "Number": "GHS3 (A1-8)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3779,7 +3779,7 @@
         "Cluster": 30,
         "Name": "GHSS4",
         "Number": "GHSS4 (A16-20)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3792,7 +3792,7 @@
         "Cluster": 30,
         "Name": "Be Relax",
         "Number": "#02-32",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3818,7 +3818,7 @@
         "Cluster": 30,
         "Name": "Changi Recommends (T3 Licensed Area B)",
         "Number": "#02-COUNTER B (near Skytrain station to T1)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3831,7 +3831,7 @@
         "Cluster": 30,
         "Name": "Changi Recommends (T3 Licensed Area C)",
         "Number": "#02-COUNTER C (near Skytrain station to A15-21)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3844,7 +3844,7 @@
         "Cluster": 30,
         "Name": "Travelex T3 DT North",
         "Number": "#02-K10",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3857,7 +3857,7 @@
         "Cluster": 30,
         "Name": "Travelex T3 DT South",
         "Number": "#02-K7",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3870,7 +3870,7 @@
         "Cluster": 30,
         "Name": "Travelex T3 DT South",
         "Number": "#02-K7T",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3883,7 +3883,7 @@
         "Cluster": 30,
         "Name": "Prosegur T3 DT South",
         "Number": "#02-K8",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3896,7 +3896,7 @@
         "Cluster": 31,
         "Name": "Prosegur T3 DT North",
         "Number": "#02-K9",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3909,7 +3909,7 @@
         "Cluster": 31,
         "Name": "7-Eleven (T3)",
         "Number": "#03-12",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3922,7 +3922,7 @@
         "Cluster": 31,
         "Name": "Ambassador Transit Lounge",
         "Number": "#03-14",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3935,7 +3935,7 @@
         "Cluster": 31,
         "Name": "Ambassador Transit Hotel",
         "Number": "#03-15",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3961,7 +3961,7 @@
         "Cluster": 31,
         "Name": "LT T3 Arrival South",
         "Number": "#01-19",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3974,7 +3974,7 @@
         "Cluster": 31,
         "Name": "Perfumes & Cosmetics (T3 ABS)",
         "Number": "#01-20",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -3987,7 +3987,7 @@
         "Cluster": 31,
         "Name": "Perfumes & Cosmetics (T3 ABN)",
         "Number": "#01-28",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4000,7 +4000,7 @@
         "Cluster": 31,
         "Name": "LT T3 Arrival North",
         "Number": "#01-29",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4013,7 +4013,7 @@
         "Cluster": 31,
         "Name": "Discover Singapore (Premises F) (T3 DTS)",
         "Number": "#02-03A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4026,7 +4026,7 @@
         "Cluster": 32,
         "Name": "Perfumes & Cosmetics (T3 DTS)",
         "Number": "#02-03",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4039,7 +4039,7 @@
         "Cluster": 32,
         "Name": "Longchamp",
         "Number": "#02-04",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4052,7 +4052,7 @@
         "Cluster": 32,
         "Name": "Hermes",
         "Number": "#02-05E",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4065,7 +4065,7 @@
         "Cluster": 32,
         "Name": "WH Smith - Premises H (Air) (T3 DTS)",
         "Number": "#02-07",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4078,7 +4078,7 @@
         "Cluster": 32,
         "Name": "LT T3 DT South",
         "Number": "#02-10/11/12",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4091,7 +4091,7 @@
         "Cluster": 32,
         "Name": "Bacha Coffee (Duplex) (T3 DTS)",
         "Number": "#02-10A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4104,7 +4104,7 @@
         "Cluster": 32,
         "Name": "Rolex",
         "Number": "#02-13",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4117,7 +4117,7 @@
         "Cluster": 32,
         "Name": "Furla",
         "Number": "#02-14",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4130,7 +4130,7 @@
         "Cluster": 32,
         "Name": "Gucci",
         "Number": "#02-15/16",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4143,7 +4143,7 @@
         "Cluster": 33,
         "Name": "Prada",
         "Number": "#02-17",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4156,7 +4156,7 @@
         "Cluster": 33,
         "Name": "Tiffany & Co.",
         "Number": "#02-18",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4169,7 +4169,7 @@
         "Cluster": 33,
         "Name": "Bottega Veneta",
         "Number": "#02-19",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4182,7 +4182,7 @@
         "Cluster": 33,
         "Name": "Burberry",
         "Number": "#02-20",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4195,7 +4195,7 @@
         "Cluster": 33,
         "Name": "Sunglass Hut",
         "Number": "#02-21",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4208,7 +4208,7 @@
         "Cluster": 33,
         "Name": "Michael Kors",
         "Number": "#02-22",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4221,7 +4221,7 @@
         "Cluster": 33,
         "Name": "Hugo Boss",
         "Number": "#02-23",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4234,7 +4234,7 @@
         "Cluster": 33,
         "Name": "MCM",
         "Number": "#02-25",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4247,7 +4247,7 @@
         "Cluster": 33,
         "Name": "TWG Tea Company (T3 DTS)",
         "Number": "#02-26",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4260,7 +4260,7 @@
         "Cluster": 34,
         "Name": "The Cocoa Trees (Premises C1) (T3 DTS)",
         "Number": "#02-27",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4273,7 +4273,7 @@
         "Cluster": 34,
         "Name": "Guardian (Premises B) (T3 DTS)",
         "Number": "#02-29",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4286,7 +4286,7 @@
         "Cluster": 34,
         "Name": "Sprint-Cass (T3 DTS)",
         "Number": "#02-30",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4299,7 +4299,7 @@
         "Cluster": 34,
         "Name": "Perfumes & Cosmetics (T3 DTC)",
         "Number": "#02-35E & 03-06B (Central)",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4312,7 +4312,7 @@
         "Cluster": 34,
         "Name": "Louis Vuitton",
         "Number": "#02-36A(F) & 03-07A(F)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4325,7 +4325,7 @@
         "Cluster": 34,
         "Name": "LT T3 Duplex",
         "Number": "#02-37/39E & #03-07/08",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4338,7 +4338,7 @@
         "Cluster": 34,
         "Name": "Irvins Salted Egg",
         "Number": "#02-43A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4351,7 +4351,7 @@
         "Cluster": 34,
         "Name": "WH Smith - Premises G (Air) (T3 DTN)",
         "Number": "#02-43C",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4364,7 +4364,7 @@
         "Cluster": 34,
         "Name": "The Cocoa Trees (Premises C2) (T3 DTN)",
         "Number": "#02-44",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4377,7 +4377,7 @@
         "Cluster": 34,
         "Name": "Cartier",
         "Number": "#02-45-01",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4390,7 +4390,7 @@
         "Cluster": 35,
         "Name": "Bvlgari",
         "Number": "#02-45-02",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4403,7 +4403,7 @@
         "Cluster": 35,
         "Name": "MLB",
         "Number": "#02-46",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4416,7 +4416,7 @@
         "Cluster": 35,
         "Name": "Goldheart",
         "Number": "#02-47",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4429,7 +4429,7 @@
         "Cluster": 35,
         "Name": "LACOSTE",
         "Number": "#02-48",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4442,7 +4442,7 @@
         "Cluster": 35,
         "Name": "Ray-Ban",
         "Number": "#02-49A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4455,7 +4455,7 @@
         "Cluster": 35,
         "Name": "Lululemon",
         "Number": "#02-50A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4468,7 +4468,7 @@
         "Cluster": 35,
         "Name": "Maison de Chronus (Premises A1) (T3 DTN)",
         "Number": "#02-51",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4481,7 +4481,7 @@
         "Cluster": 35,
         "Name": "Bacha Coffee (T3 DTN)",
         "Number": "#02-52",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4494,7 +4494,7 @@
         "Cluster": 35,
         "Name": "Charles & Keith",
         "Number": "#02-53",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4507,7 +4507,7 @@
         "Cluster": 35,
         "Name": "iStudio",
         "Number": "#02-54",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4520,7 +4520,7 @@
         "Cluster": 36,
         "Name": "Lego",
         "Number": "#02-55",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4533,7 +4533,7 @@
         "Cluster": 36,
         "Name": "Victoria's Secret",
         "Number": "#02-56",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4546,7 +4546,7 @@
         "Cluster": 36,
         "Name": "Kaboom",
         "Number": "#02-57A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4559,7 +4559,7 @@
         "Cluster": 36,
         "Name": "Perfumes & Cosmetics (T3 DTN)",
         "Number": "#02-58",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4572,7 +4572,7 @@
         "Cluster": 36,
         "Name": "Sprint-Cass (T3 DTN)",
         "Number": "#02-61",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4585,7 +4585,7 @@
         "Cluster": 36,
         "Name": "Sony",
         "Number": "#02-62",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4598,7 +4598,7 @@
         "Cluster": 36,
         "Name": "Discover Singapore (Premises E) (T3 DTN)",
         "Number": "#02-63",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4611,7 +4611,7 @@
         "Cluster": 36,
         "Name": "BEE CHENG HIANG",
         "Number": "#02-64",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4624,7 +4624,7 @@
         "Cluster": 36,
         "Name": "LT T3 DT North",
         "Number": "#02-65",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4637,7 +4637,7 @@
         "Cluster": 36,
         "Name": "Guardian (Premises A) (T3 DTN)",
         "Number": "#02-66",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4650,7 +4650,7 @@
         "Cluster": 37,
         "Name": "Luvenus",
         "Number": "#02-K11",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4663,7 +4663,7 @@
         "Cluster": 37,
         "Name": "TWG Tea (T3 DTN)",
         "Number": "#02-K12",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4676,7 +4676,7 @@
         "Cluster": 37,
         "Name": "NUA",
         "Number": "#02-K13R",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4689,7 +4689,7 @@
         "Cluster": 37,
         "Name": "Mr. Bucket Chocolaterie",
         "Number": "#02-K14",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -4858,7 +4858,7 @@
         "Cluster": 38,
         "Name": "KOPITIAM",
         "Number": "#B2-03",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5118,7 +5118,7 @@
         "Cluster": 40,
         "Name": "Prosegur T3 Arr Mtg Hall South",
         "Number": "#01-K10",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5131,7 +5131,7 @@
         "Cluster": 40,
         "Name": "STARHUB",
         "Number": "#01-K11",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5170,7 +5170,7 @@
         "Cluster": 41,
         "Name": "Travelex T3 Arr Mtg Hall North",
         "Number": "#01-K15",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5183,7 +5183,7 @@
         "Cluster": 41,
         "Name": "Prosegur T3 Arr Mtg Hall North",
         "Number": "#01-K16",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5196,7 +5196,7 @@
         "Cluster": 41,
         "Name": "TRAVELLERS",
         "Number": "#01-K17",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5209,7 +5209,7 @@
         "Cluster": 41,
         "Name": "CHANGI MEET & GREET",
         "Number": "#01-K20",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5222,7 +5222,7 @@
         "Cluster": 41,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K21",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5235,7 +5235,7 @@
         "Cluster": 41,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K22",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5248,7 +5248,7 @@
         "Cluster": 41,
         "Name": "Travelex T3 Arr Mtg Hall South",
         "Number": "#01-K9",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5261,7 +5261,7 @@
         "Cluster": 41,
         "Name": "Travelex T3 DCI Central",
         "Number": "#02-82",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5274,7 +5274,7 @@
         "Cluster": 41,
         "Name": "Prosegur T3 DCI Central",
         "Number": "#02-83",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5287,7 +5287,7 @@
         "Cluster": 42,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#02-90A",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5417,7 +5417,7 @@
         "Cluster": 43,
         "Name": "Perfumes & Cosmetics (T3 Landside)",
         "Number": "#02-88",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5742,7 +5742,7 @@
         "Cluster": 45,
         "Name": "International Food Hall",
         "Number": "#02-228N",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5755,7 +5755,7 @@
         "Cluster": 45,
         "Name": "Noyah La Maison & Zero Degree (Premises A1)",
         "Number": "#02-35 (beside Coffee Bean)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5768,7 +5768,7 @@
         "Cluster": 45,
         "Name": "The Coffee Bean and Tea Leaf",
         "Number": "#02-36N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5781,7 +5781,7 @@
         "Cluster": 46,
         "Name": "Tiger's Den",
         "Number": "#02-39",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5794,7 +5794,7 @@
         "Cluster": 46,
         "Name": "Crystal Jade GO",
         "Number": "#02-41",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5807,7 +5807,7 @@
         "Cluster": 46,
         "Name": "Heavenly Wang",
         "Number": "#02-80",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5820,7 +5820,7 @@
         "Cluster": 46,
         "Name": "Curry Times",
         "Number": "#02-81/82",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5833,7 +5833,7 @@
         "Cluster": 46,
         "Name": "Texas Chicken",
         "Number": "#02-86",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5846,7 +5846,7 @@
         "Cluster": 46,
         "Name": "Noyah La Maison & Zero Degree (Premises A2)",
         "Number": "#02-K26 (near Gate G17)",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5859,7 +5859,7 @@
         "Cluster": 46,
         "Name": "Travelex T4 Arr Mtg Hall Central",
         "Number": "#01-06",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5872,7 +5872,7 @@
         "Cluster": 46,
         "Name": "Prosegur T4 Arr Mtg Hall Central",
         "Number": "#01-07",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5885,7 +5885,7 @@
         "Cluster": 46,
         "Name": "SATS PPG Blossom Lounge",
         "Number": "#02-225&226",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5898,7 +5898,7 @@
         "Cluster": 46,
         "Name": "7-Eleven (T4)",
         "Number": "#02-240",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5911,7 +5911,7 @@
         "Cluster": 47,
         "Name": "Travelex T4 DT North",
         "Number": "#02-37",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5924,7 +5924,7 @@
         "Cluster": 47,
         "Name": "Prosegur T4 DT South",
         "Number": "#02-38",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5937,7 +5937,7 @@
         "Cluster": 47,
         "Name": "Prosegur T4 DT North",
         "Number": "#02-65",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5950,7 +5950,7 @@
         "Cluster": 47,
         "Name": "Travelex T4 DT North",
         "Number": "#02-66",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5976,7 +5976,7 @@
         "Cluster": 47,
         "Name": "LT T4 Arrival North",
         "Number": "#01-12",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -5989,7 +5989,7 @@
         "Cluster": 47,
         "Name": "Perfumes & Cosmetics",
         "Number": "#01-13",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6002,7 +6002,7 @@
         "Cluster": 47,
         "Name": "Perfumes & Cosmetics",
         "Number": "#02-24",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6015,7 +6015,7 @@
         "Cluster": 47,
         "Name": "LT T4 DT South (walkthrough)",
         "Number": "#02-25",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6028,7 +6028,7 @@
         "Cluster": 47,
         "Name": "The Cocoa Trees (Premises D)",
         "Number": "#02-26",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6041,7 +6041,7 @@
         "Cluster": 48,
         "Name": "TWG Tea Boutique",
         "Number": "#02-29",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6054,7 +6054,7 @@
         "Cluster": 48,
         "Name": "Charles & Keith",
         "Number": "#02-30",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6067,7 +6067,7 @@
         "Cluster": 48,
         "Name": "Bacha Coffee",
         "Number": "#02-31",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6080,7 +6080,7 @@
         "Cluster": 48,
         "Name": "Garrett Popcorn Shops",
         "Number": "#02-42",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6093,7 +6093,7 @@
         "Cluster": 48,
         "Name": "Sunglass Hut",
         "Number": "#02-43",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6106,7 +6106,7 @@
         "Cluster": 48,
         "Name": "KASHKA",
         "Number": "#02-44",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6119,7 +6119,7 @@
         "Cluster": 48,
         "Name": "acme de la vie",
         "Number": "#02-45",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6132,7 +6132,7 @@
         "Cluster": 48,
         "Name": "Salomon",
         "Number": "#02-46",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6145,7 +6145,7 @@
         "Cluster": 48,
         "Name": "Oakley",
         "Number": "#02-47",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6158,7 +6158,7 @@
         "Cluster": 48,
         "Name": "Lego",
         "Number": "#02-48",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6171,7 +6171,7 @@
         "Cluster": 49,
         "Name": "Lacoste",
         "Number": "#02-49",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6184,7 +6184,7 @@
         "Cluster": 49,
         "Name": "Old Seng Choong",
         "Number": "#02-50",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6197,7 +6197,7 @@
         "Cluster": 49,
         "Name": "Metapod",
         "Number": "#02-51",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6210,7 +6210,7 @@
         "Cluster": 49,
         "Name": "iStudio",
         "Number": "#02-52",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6223,7 +6223,7 @@
         "Cluster": 49,
         "Name": "FILA",
         "Number": "#02-53/54",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6236,7 +6236,7 @@
         "Cluster": 49,
         "Name": "Airport Pharmacy",
         "Number": "#02-55/56",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6249,7 +6249,7 @@
         "Cluster": 49,
         "Name": "LT T4 DT North",
         "Number": "#02-57",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6262,7 +6262,7 @@
         "Cluster": 49,
         "Name": "WH Smith - Premises J (Air)",
         "Number": "#02-59",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6275,7 +6275,7 @@
         "Cluster": 49,
         "Name": "The Fashion Place",
         "Number": "#02-60/61",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6288,7 +6288,7 @@
         "Cluster": 49,
         "Name": "ZAKKASG",
         "Number": "#02-67",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6301,7 +6301,7 @@
         "Cluster": 50,
         "Name": "Sunnystep",
         "Number": "#02-68",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6314,7 +6314,7 @@
         "Cluster": 50,
         "Name": "Irvin's",
         "Number": "#02-71",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6327,7 +6327,7 @@
         "Cluster": 50,
         "Name": "Taste Singapore",
         "Number": "#02-72",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6340,7 +6340,7 @@
         "Cluster": 50,
         "Name": "Discover Singapore",
         "Number": "#02-73/74/75/76/77",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6353,7 +6353,7 @@
         "Cluster": 50,
         "Name": "Bengawan Solo",
         "Number": "#02-84",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6366,7 +6366,7 @@
         "Cluster": 50,
         "Name": "Bee Cheng Hiang",
         "Number": "#02-85",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6379,7 +6379,7 @@
         "Cluster": 50,
         "Name": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)",
         "Number": "#02-87",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6535,7 +6535,7 @@
         "Cluster": 51,
         "Name": "KOPITIAM",
         "Number": "#02-205",
-        "Quota": 4,
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6574,7 +6574,7 @@
         "Cluster": 52,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K11",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6600,7 +6600,7 @@
         "Cluster": 52,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K1",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6613,7 +6613,7 @@
         "Cluster": 52,
         "Name": "CHANGI MEET & GREET",
         "Number": "#01-K3",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6626,7 +6626,7 @@
         "Cluster": 52,
         "Name": "STARHUB",
         "Number": "#01-K4",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6639,7 +6639,7 @@
         "Cluster": 52,
         "Name": "Prosegur T4 DCI Central",
         "Number": "#02-01",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6652,7 +6652,7 @@
         "Cluster": 52,
         "Name": "Travelex T4 DCI Central",
         "Number": "#02-02",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6665,7 +6665,7 @@
         "Cluster": 52,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#02-K7",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6704,7 +6704,7 @@
         "Cluster": 53,
         "Name": "Perfumes & Cosmetics",
         "Number": "#02-09",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6756,7 +6756,7 @@
         "Cluster": 54,
         "Name": "Marche",
         "Number": "#02-40N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6769,7 +6769,7 @@
         "Cluster": 54,
         "Name": "Swarovski ",
         "Number": "#02-31N",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -6782,7 +6782,7 @@
         "Cluster": 54,
         "Name": "Mr. Bucket Chocolaterie",
         "Number": "#02-164",
-        "Quota": 2,
+        "Quota": 1,
         "Year": "2025",
         "Month": "04_05"
     },
