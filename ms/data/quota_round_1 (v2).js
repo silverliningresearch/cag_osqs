@@ -14,6 +14,19 @@
         "Month": "04_05"
     },
     {
+        "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA",
+        "Com ID": 2,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 1,
+        "Name": "Mango Tree Kitchen / Archipelago",
+        "Number": "#02-39N",
+        "Quota": 2,
+        "Year": "2025",
+        "Month": "04_05"
+    },
+    {
         "quota_id": "Chatterbox Express\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666FBA",
         "Com ID": 3,
         "Category": "F&B",
@@ -153,6 +166,19 @@
         "Name": "SG Hawker",
         "Number": "#03-47/48",
         "Quota": 4,
+        "Year": "2025",
+        "Month": "04_05"
+    },
+    {
+        "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA",
+        "Com ID": 14,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 2,
+        "Name": "Tap & Brew",
+        "Number": "#03-52",
+        "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
     },
@@ -1101,6 +1127,19 @@
         "Cluster": 9,
         "Name": "Aroma Truffle",
         "Number": "#02-K19B",
+        "Quota": 2,
+        "Year": "2025",
+        "Month": "04_05"
+    },
+    {
+        "quota_id": "Taste Singapore (Premises A3)\u2666TERMINAL 1\u2666Airside\u2666#02-K23\u2666CCD",
+        "Com ID": 88,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 9,
+        "Name": "Taste Singapore (Premises A3)",
+        "Number": "#02-K23",
         "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
@@ -2193,6 +2232,19 @@
         "Cluster": 18,
         "Name": "Kaboom",
         "Number": "#02-162 (#026-098)",
+        "Quota": 2,
+        "Year": "2025",
+        "Month": "04_05"
+    },
+    {
+        "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163 (#026-098-01)\u2666MP",
+        "Com ID": 173,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 2",
+        "AL": "Airside Shops",
+        "Cluster": 18,
+        "Name": "Lacoste",
+        "Number": "#02-163 (#026-098-01)",
         "Quota": 2,
         "Year": "2025",
         "Month": "04_05"
@@ -4629,6 +4681,19 @@
         "Month": "04_05"
     },
     {
+        "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666CCD",
+        "Com ID": 364,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Airside Shops",
+        "Cluster": 37,
+        "Name": "Mr. Bucket Chocolaterie",
+        "Number": "#02-K14",
+        "Quota": 2,
+        "Year": "2025",
+        "Month": "04_05"
+    },
+    {
         "quota_id": "MCDONALD'S\u2666TERMINAL 3\u2666Landside\u2666#01-21\u2666FBL",
         "Com ID": 365,
         "Category": "F&B",
@@ -6722,41 +6787,15 @@
         "Month": "04_05"
     },
     {
-        "quota_id": "Mango Tree and Heineken World Bar\u2666TERMINAL 1\u2666Airside\u2666#02-39\u2666FBA",
+        "quota_id": "Griddy Grid, Floor is Lava\u2666TERMINAL 3\u2666Landside\u2666#03-03\u2666LS",
         "Com ID": 529,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside F&B",
-        "Cluster": 55,
-        "Name": "Mango Tree and Heineken World Bar",
-        "Number": "#02-39",
-        "Quota": 2,
-        "Year": "2025",
-        "Month": "04_05"
-    },
-    {
-        "quota_id": "Lululemon\u2666TERMINAL 1\u2666Airside\u2666#02-18\u2666MP",
-        "Com ID": 530,
         "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 55,
-        "Name": "Lululemon",
-        "Number": "#02-18",
-        "Quota": 2,
-        "Year": "2025",
-        "Month": "04_05"
-    },
-    {
-        "quota_id": "By Invite Only Jewellery\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP",
-        "Com ID": 531,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Shops",
-        "Cluster": 55,
-        "Name": "By Invite Only Jewellery",
-        "Number": "#02-K14",
-        "Quota": 2,
+        "Terminal": "TERMINAL 2",
+        "AL": "Landside Shops",
+        "Cluster": 54,
+        "Name": "Griddy Grid, Floor is Lava",
+        "Number": "#03-03",
+        "Quota": 0,
         "Year": "2025",
         "Month": "04_05"
     }
