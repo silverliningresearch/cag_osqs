@@ -4707,19 +4707,6 @@
         "Month": "05"
     },
     {
-        "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW\u2666Min8",
-        "Com ID": 363,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Shops",
-        "Cluster": 37,
-        "Name": "Luvenus",
-        "Number": "#02-K11",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "05"
-    },
-    {
         "quota_id": "TWG Tea (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-K12\u2666CCD\u2666Min8",
         "Com ID": 364,
         "Category": "Shops",
@@ -6899,6 +6886,19 @@
         "Cluster": 54,
         "Name": "Animal Kaiser+",
         "Number": "#B2-56",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "05"
+    },
+    {
+        "quota_id": "Teo Heng Family KTV Studio\u2666TERMINAL 3\u2666Landside\u2666#B2-52/53/54\u2666LS\u2666Min8",
+        "Com ID": 532,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside Shops",
+        "Cluster": 54,
+        "Name": "Teo Heng Family KTV Studio",
+        "Number": "#B2-52/53/54",
         "Quota": 8,
         "Year": "2025",
         "Month": "05"
