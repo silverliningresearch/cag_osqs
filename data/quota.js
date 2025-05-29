@@ -209,19 +209,6 @@
         "Month": "05"
     },
     {
-        "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min8",
-        "Com ID": 17,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside F&B",
-        "Cluster": 2,
-        "Name": "I Love Taimei",
-        "Number": "#03-53",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "05"
-    },
-    {
         "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA\u2666Min8",
         "Com ID": 18,
         "Category": "F&B",
@@ -906,19 +893,6 @@
         "Cluster": 7,
         "Name": "Omega",
         "Number": "#02-60",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "05"
-    },
-    {
-        "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666OW\u2666Min8",
-        "Com ID": 71,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 8,
-        "Name": "WH Smith (T1 DTE)",
-        "Number": "#02-61",
         "Quota": 8,
         "Year": "2025",
         "Month": "05"
@@ -4265,19 +4239,6 @@
         "Month": "05"
     },
     {
-        "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX\u2666Min8",
-        "Com ID": 329,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Shops",
-        "Cluster": 33,
-        "Name": "Michael Kors",
-        "Number": "#02-22",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "05"
-    },
-    {
         "quota_id": "Hugo Boss\u2666TERMINAL 3\u2666Airside\u2666#02-23\u2666LX\u2666Min8",
         "Com ID": 330,
         "Category": "Shops",
@@ -5617,19 +5578,6 @@
         "Month": "05"
     },
     {
-        "quota_id": "SUSHI DELI\u2666TERMINAL 3\u2666Landside\u2666#B2-25A\u2666LS\u2666Min8",
-        "Com ID": 434,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Shops",
-        "Cluster": 44,
-        "Name": "SUSHI DELI",
-        "Number": "#B2-25A",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "05"
-    },
-    {
         "quota_id": "Nam Kee Pau/ Hong Kong Egglet/ Mee Hoon Kueh\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS\u2666Min8",
         "Com ID": 435,
         "Category": "Shops",
@@ -6899,6 +6847,19 @@
         "Cluster": 54,
         "Name": "Teo Heng Family KTV Studio",
         "Number": "#B2-52/53/54",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "05"
+    },
+    {
+        "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666OW\u2666Min8",
+        "Com ID": 533,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 54,
+        "Name": "WH Smith (T1 DTE)",
+        "Number": "#02-67",
         "Quota": 8,
         "Year": "2025",
         "Month": "05"
