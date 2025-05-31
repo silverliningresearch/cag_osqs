@@ -1,7 +1,7 @@
 var quota_data;
 var interview_data;
 var download_time;
-var total_quota = 4800;
+var total_quota = 1000;
 var total_completed;
 var total_remaining;
 var minium_quota = 0;

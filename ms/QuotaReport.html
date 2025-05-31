@@ -185,8 +185,12 @@
         dashboard.draw(view);
 
         //Update time info
+    
         document.getElementById("download_time").innerHTML = "Data updated: " + download_time;
-        var str = "Total quota: " + minium_quota  + " - completed: " + minium_quota_completed + " - remaining: " + minium_quota_remaining;
+        var str =  "Total quota: " + total_quota  + " - completed: " + total_completed + " - remaining: " + total_remaining;
+        str = str + " | " +  "Hard quota: " + minium_quota  + " - completed: " + minium_quota_completed + " - remaining: " + minium_quota_remaining;
+        str = str + " | " +  "Flexible quota remaining: "+  felxible_quota_remaining;
+
         document.getElementById("total_quota").innerHTML = str;
       }
     </script>
