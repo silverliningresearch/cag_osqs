@@ -4629,19 +4629,6 @@
         "Month": "06"
     },
     {
-        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD\u2666Min8",
-        "Com ID": 360,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Shops",
-        "Cluster": 36,
-        "Name": "BEE CHENG HIANG",
-        "Number": "#02-64",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "06"
-    },
-    {
         "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT\u2666Min15",
         "Com ID": 361,
         "Category": "Shops",
@@ -6847,6 +6834,19 @@
         "Cluster": 54,
         "Name": "tealive",
         "Number": "#01-23",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "06"
+    },
+    {
+        "quota_id": "Roost\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
+        "Com ID": 531,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside F&B",
+        "Cluster": 54,
+        "Name": "Roost",
+        "Number": "#B2-34",
         "Quota": 8,
         "Year": "2025",
         "Month": "06"
