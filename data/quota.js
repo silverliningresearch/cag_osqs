@@ -13835,6 +13835,64 @@
         "Quota": 8,
         "Year": "2025",
         "Month": "08"
+    },
+	
+	
+	
+	    {
+        "quota_id": "Kopikakis\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min8",
+        "Com ID": 533,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 55,
+        "Name": "Kopikakis",
+        "Number": "#03-53",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "08"
+    },
+    {
+        "quota_id": "Adidas\u2666TERMINAL 4\u2666Airside\u2666#02-32\u2666MP\u2666Min8",
+        "Com ID": 534,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Shops",
+        "Cluster": 55,
+        "Name": "Adidas",
+        "Number": "#02-32",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "08"
+    },
+	
+	
+	
+	    {
+        "quota_id": "Kopikakis\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min8",
+        "Com ID": 540,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside F&B",
+        "Cluster": 55,
+        "Name": "Kopikakis",
+        "Number": "#03-53",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "07"
+    },
+    {
+        "quota_id": "Adidas\u2666TERMINAL 4\u2666Airside\u2666#02-32\u2666MP\u2666Min8",
+        "Com ID": 541,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Shops",
+        "Cluster": 55,
+        "Name": "Adidas",
+        "Number": "#02-32",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "07"
     }
 ]    
 
