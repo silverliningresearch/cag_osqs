@@ -6941,6 +6941,32 @@
         "Quota": 8,
         "Year": "2025",
         "Month": "08"
+    },
+    {
+        "quota_id": "Time Emporium\u2666TERMINAL 4\u2666Airside\u2666#02-27\u2666LX\u2666Min8",
+        "Com ID": 538,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 4",
+        "AL": "Airside Shops",
+        "Cluster": 55,
+        "Name": "Time Emporium",
+        "Number": "#02-27",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "08"
+    },
+    {
+        "quota_id": "Chagee\u2666TERMINAL 2\u2666Landside\u2666#02-01\u2666FBL\u2666Min8",
+        "Com ID": 539,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 2",
+        "AL": "Landside F&B",
+        "Cluster": 55,
+        "Name": "Chagee",
+        "Number": "#02-01",
+        "Quota": 8,
+        "Year": "2025",
+        "Month": "08"
     }
 ]    
 
