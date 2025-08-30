@@ -339,19 +339,6 @@
         "Month": "08"
     },
     {
-        "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min8",
-        "Com ID": 27,
-        "Category": "Services",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Services",
-        "Cluster": 3,
-        "Name": "Changi Recommends (T1 Licensed Area A)",
-        "Number": "#02-COUNTER (near PAUL)",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "08"
-    },
-    {
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
         "Com ID": 28,
         "Category": "Services",
@@ -1504,19 +1491,6 @@
         "Cluster": 12,
         "Name": "CHANGI MEET & GREET",
         "Number": "#01-K7",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "08"
-    },
-    {
-        "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR\u2666Min8",
-        "Com ID": 117,
-        "Category": "Services",
-        "Terminal": "TERMINAL 1",
-        "AL": "Landside Services",
-        "Cluster": 12,
-        "Name": "STARHUB",
-        "Number": "#01-K8",
         "Quota": 8,
         "Year": "2025",
         "Month": "08"
@@ -3199,19 +3173,6 @@
         "Month": "08"
     },
     {
-        "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min8",
-        "Com ID": 249,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 2",
-        "AL": "Landside F&B",
-        "Cluster": 25,
-        "Name": "Jinjja Kitchen",
-        "Number": "#02-02",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "08"
-    },
-    {
         "quota_id": "CHAGEE (AMPS TEA)\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8",
         "Com ID": 250,
         "Category": "F&B",
@@ -3896,32 +3857,6 @@
         "Cluster": 31,
         "Name": "Premises F - Baggage Storage by Smarte Carte",
         "Number": "#02-68/69",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "08"
-    },
-    {
-        "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
-        "Com ID": 303,
-        "Category": "Services",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Services",
-        "Cluster": 31,
-        "Name": "Changi Recommends (T3 Licensed Area B)",
-        "Number": "#02-COUNTER B (near Skytrain station to T1)",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "08"
-    },
-    {
-        "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
-        "Com ID": 304,
-        "Category": "Services",
-        "Terminal": "TERMINAL 3",
-        "AL": "Airside Services",
-        "Cluster": 31,
-        "Name": "Changi Recommends (T3 Licensed Area C)",
-        "Number": "#02-COUNTER C (near Skytrain station to A15-21)",
         "Quota": 8,
         "Year": "2025",
         "Month": "08"
@@ -5214,19 +5149,6 @@
         "Month": "08"
     },
     {
-        "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
-        "Com ID": 405,
-        "Category": "Services",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Services",
-        "Cluster": 41,
-        "Name": "STARHUB",
-        "Number": "#01-K11",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "08"
-    },
-    {
         "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
         "Com ID": 406,
         "Category": "Services",
@@ -5274,19 +5196,6 @@
         "Cluster": 41,
         "Name": "Prosegur T3 Arr Mtg Hall North",
         "Number": "#01-K16",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "08"
-    },
-    {
-        "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min8",
-        "Com ID": 410,
-        "Category": "Services",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Services",
-        "Cluster": 41,
-        "Name": "TRAVELLERS",
-        "Number": "#01-K17",
         "Quota": 8,
         "Year": "2025",
         "Month": "08"
@@ -6743,19 +6652,6 @@
         "Cluster": 53,
         "Name": "CHANGI MEET & GREET",
         "Number": "#01-K3",
-        "Quota": 8,
-        "Year": "2025",
-        "Month": "08"
-    },
-    {
-        "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Com ID": 523,
-        "Category": "Services",
-        "Terminal": "TERMINAL 4",
-        "AL": "Landside Services",
-        "Cluster": 53,
-        "Name": "STARHUB",
-        "Number": "#01-K4",
         "Quota": 8,
         "Year": "2025",
         "Month": "08"
