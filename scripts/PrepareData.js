@@ -1,7 +1,7 @@
 var quota_data;
 var interview_data;
 var download_time;
-var total_quota = 4800;
+var total_quota = 5400;
 var total_completed;
 var total_remaining;
 var minium_quota = 0;
@@ -47,6 +47,18 @@ function initCurrentTimeVars() {
     {
       currentMonth = document.getElementById('year_month').value;
     }
+  }
+
+  
+   switch(currentMonth) {
+    case "08-2025":
+      total_quota = 4800;
+      break;
+       
+
+    default:
+      total_quota = 5400;
+      break;
   }
   console.log("currentMonth: ", currentMonth);  
 }
