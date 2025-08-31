@@ -9,18 +9,24 @@
   /* h1 {text-align: center;}
   h2 {text-align: center;}
  */
-.button {
-  background-color: #4CAF50; /* Green */
+  .button {
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 15px 15px;
   text-align: center;
+  justify-content: center;
+  align-items: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  width: 300px;
+  font-size: 18px;
+  width: 200px;
   margin: 4px 2px;
   cursor: pointer;
+  margin: 0;
+  position: relative;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .red {background-color: #f44336;;} /* Red */
@@ -48,14 +54,11 @@
 </script>
   </br>
   </br>
-  <button onclick="start_new_interview()" class="button red">Start a new interview</button>
-  <button onclick="resume_curent_interview()" class="button blue">Resume the current interview </button>
-
-  <p>
-	</br>
-    *<strong>Resume the current interview</strong> will continue from the last question in the current interview.</br>
-	</br></br></br>  
-  </p>
+  </br>
+  </br>
+  <button onclick="start_new_interview()" class="button blue">Start a new interview</button>
+ 
+		</br></br> 
 
 
   <div style="background-color: lightblue;">
@@ -70,6 +73,7 @@
     <!-- <a href="https://silverliningresearch.github.io/cag_osqs/QuotaReport.html" target="_blank">
 Quota Report - OSQS Survey
     </a> -->
+    Quota Report - OSQS Survey (To be updated)
   </h3>
 
 
