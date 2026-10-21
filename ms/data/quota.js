@@ -295,7 +295,7 @@
         "Cluster": 3,
         "Name": "Premises B - Baggage Storage by Smarte Carte",
         "Number": "#02-17",
-        "Quota": 0,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -308,7 +308,7 @@
         "Cluster": 3,
         "Name": "Travelex T1 DT West",
         "Number": "#02-20",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -321,7 +321,7 @@
         "Cluster": 3,
         "Name": "Prosegur T1 DT West",
         "Number": "#02-21",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -334,7 +334,7 @@
         "Cluster": 3,
         "Name": "Travelex T1 DT East",
         "Number": "#02-71",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -347,7 +347,7 @@
         "Cluster": 3,
         "Name": "Prosegur T1 DT East",
         "Number": "#02-72",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -360,7 +360,7 @@
         "Cluster": 3,
         "Name": "7-Eleven (T1)",
         "Number": "#02-75",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -373,7 +373,7 @@
         "Cluster": 3,
         "Name": "Changi Xperience",
         "Number": "#02-COUNTER",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1413,7 +1413,7 @@
         "Cluster": 11,
         "Name": "Travelex T1 Arr Mtg West",
         "Number": "#01-K24",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1426,7 +1426,7 @@
         "Cluster": 12,
         "Name": "Prosegur T1 Arr Mtg Hall West",
         "Number": "#01-K25",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1439,7 +1439,7 @@
         "Cluster": 12,
         "Name": "Travelex T1 Arr Mtg Hall East",
         "Number": "#01-K26",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1452,7 +1452,7 @@
         "Cluster": 12,
         "Name": "Prosegur T1 Arr Mtg Hall East",
         "Number": "#01-K27",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1465,7 +1465,7 @@
         "Cluster": 12,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K31 (beside info counter)",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1478,7 +1478,7 @@
         "Cluster": 12,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K4",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1517,7 +1517,7 @@
         "Cluster": 12,
         "Name": "CHANGI MEET & GREET",
         "Number": "#01-K7",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1530,7 +1530,7 @@
         "Cluster": 12,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K9 (beside Starhub)",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1543,7 +1543,7 @@
         "Cluster": 12,
         "Name": "Travelex T1 DCI Central",
         "Number": "#02-01",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1556,7 +1556,7 @@
         "Cluster": 13,
         "Name": "Prosegur T1 DCI Central",
         "Number": "#02-02",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1582,7 +1582,7 @@
         "Cluster": 13,
         "Name": "CHANGI RECOMMENDS (T1 L2 Landside)",
         "Number": "#02-K39",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1959,7 +1959,7 @@
         "Cluster": 16,
         "Name": "Travelex T2 Arrival Baggage Claim Hall South",
         "Number": "#01-178",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1972,7 +1972,7 @@
         "Cluster": 16,
         "Name": "Prosegur T2 Arr Mtg Hall Central",
         "Number": "#01-181",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1985,7 +1985,7 @@
         "Cluster": 16,
         "Name": "Travelex T2 DT North (Satellite)",
         "Number": "#02-150A",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -1998,7 +1998,7 @@
         "Cluster": 16,
         "Name": "Travelex T2 DT South",
         "Number": "#02-209A",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -2011,7 +2011,7 @@
         "Cluster": 16,
         "Name": "Prosegur T2 DT South",
         "Number": "#02-209B",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -2024,7 +2024,7 @@
         "Cluster": 16,
         "Name": "Travelex T2 DT North",
         "Number": "#02-235",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -2037,7 +2037,7 @@
         "Cluster": 16,
         "Name": "Prosegur T2 DT North",
         "Number": "#02-237",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -2063,7 +2063,7 @@
         "Cluster": 16,
         "Name": "7-Eleven (T2 Level 2)",
         "Number": "#02-404",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -2076,7 +2076,7 @@
         "Cluster": 17,
         "Name": "Natureland Premium",
         "Number": "#03-168",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -2089,7 +2089,7 @@
         "Cluster": 17,
         "Name": "7-Eleven (T2 Level 3)",
         "Number": "#03-172",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3441,7 +3441,7 @@
         "Cluster": 27,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-05 (beside iSC counter near lifts)",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3467,7 +3467,7 @@
         "Cluster": 27,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-180",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3506,7 +3506,7 @@
         "Cluster": 28,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K15 (near taxi stand)",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3519,7 +3519,7 @@
         "Cluster": 28,
         "Name": "Prosegur T2 DCI Central",
         "Number": "#02-16",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3532,7 +3532,7 @@
         "Cluster": 28,
         "Name": "Travelex T2 DCI Central",
         "Number": "#02-17",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3558,7 +3558,7 @@
         "Cluster": 28,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#02-K4",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3935,7 +3935,7 @@
         "Cluster": 31,
         "Name": "Be Relax",
         "Number": "#02-32",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3948,7 +3948,7 @@
         "Cluster": 31,
         "Name": "Premises F - Baggage Storage by Smarte Carte",
         "Number": "#02-68/69",
-        "Quota": 0,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3961,7 +3961,7 @@
         "Cluster": 31,
         "Name": "Changi Xperience",
         "Number": "#02-COUNTER C",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3974,7 +3974,7 @@
         "Cluster": 31,
         "Name": "Travelex T3 DT North",
         "Number": "#02-K10",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -3987,7 +3987,7 @@
         "Cluster": 31,
         "Name": "Travelex T3 DT South",
         "Number": "#02-K7",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -4000,7 +4000,7 @@
         "Cluster": 31,
         "Name": "7-Eleven (T3)",
         "Number": "#03-12",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5248,7 +5248,7 @@
         "Cluster": 41,
         "Name": "Travelex T3 Arr Mtg Hall North",
         "Number": "#01-K15",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5261,7 +5261,7 @@
         "Cluster": 41,
         "Name": "CHANGI MEET & GREET",
         "Number": "#01-K20",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5274,7 +5274,7 @@
         "Cluster": 41,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K21",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5287,7 +5287,7 @@
         "Cluster": 41,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K22",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5300,7 +5300,7 @@
         "Cluster": 41,
         "Name": "Travelex T3 Arr Mtg Hall South",
         "Number": "#01-K9",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5313,7 +5313,7 @@
         "Cluster": 41,
         "Name": "Travelex T3 DCI Central",
         "Number": "#02-82",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5326,7 +5326,7 @@
         "Cluster": 42,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#02-90A",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5937,7 +5937,7 @@
         "Cluster": 46,
         "Name": "Prosegur T4 Arr Mtg Hall Central",
         "Number": "#01-07",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5963,7 +5963,7 @@
         "Cluster": 47,
         "Name": "7-Eleven (T4)",
         "Number": "#02-240",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5976,7 +5976,7 @@
         "Cluster": 47,
         "Name": "Prosegur T4 DT South",
         "Number": "#02-38",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -5989,7 +5989,7 @@
         "Cluster": 47,
         "Name": "Prosegur T4 DT North",
         "Number": "#02-65",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -6600,7 +6600,7 @@
         "Cluster": 51,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#01-K11",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -6626,7 +6626,7 @@
         "Cluster": 52,
         "Name": "CHANGI MEET & GREET",
         "Number": "#01-K3",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -6639,7 +6639,7 @@
         "Cluster": 52,
         "Name": "XploreSG by Changi Recommends",
         "Number": "#01-K2",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -6652,7 +6652,7 @@
         "Cluster": 52,
         "Name": "Prosegur T4 DCI Central",
         "Number": "#02-01",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
@@ -6665,7 +6665,7 @@
         "Cluster": 52,
         "Name": "CHANGI RECOMMENDS",
         "Number": "#02-K7",
-        "Quota": 2,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
