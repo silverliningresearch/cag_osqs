@@ -2050,7 +2050,7 @@
         "Cluster": 16,
         "Name": "Smarte Carte Premises D (T2 Airside)",
         "Number": "#02-242",
-        "Quota": 0,
+        "Quota": 3,
         "Year": "2026",
         "Month": "10_11"
     },
