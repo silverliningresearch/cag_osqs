@@ -75,18 +75,9 @@ function clean_data ()
   {
     //clean data
    // console.log("interview_data[i]: ", interview_data[i].InterviewDate.substring(0,7) );
-    if (interview_data[i].InterviewDate.substring(0,7) == "2023-09") {
-      if (interview_data[i].quota_id == "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u266602-26\u2666FBA\u2666Min6") {
-        interview_data[i].quota_id = "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min9"
-      }
-    }
 
-    if (interview_data[i].quota_id == "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096\u2666MP") {
-      interview_data[i].quota_id = "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096 (#02-160)\u2666MP"
-    }
-
-    if (interview_data[i].quota_id == "Tumi\u2666TERMINAL 2\u2666Airside\u2666#02-184\u2666MP") {
-      interview_data[i].quota_id = "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP"
+    if (interview_data[i].quota_id == "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL") {
+      interview_data[i].quota_id = "Changi Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176/177\u2666HL"
     }
 
     

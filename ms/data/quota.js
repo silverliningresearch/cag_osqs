@@ -1210,19 +1210,6 @@
         "Month": "10_11"
     },
     {
-        "quota_id": "Chomel\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP",
-        "Com ID": 95,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 10,
-        "Name": "Chomel",
-        "Number": "#02-K25",
-        "Quota": 1,
-        "Year": "2026",
-        "Month": "10_11"
-    },
-    {
         "quota_id": "Maison Marou\u2666TERMINAL 1\u2666Airside\u2666#02-K26\u2666CCD",
         "Com ID": 96,
         "Category": "Shops",
@@ -1231,32 +1218,6 @@
         "Cluster": 10,
         "Name": "Maison Marou",
         "Number": "#02-K26",
-        "Quota": 1,
-        "Year": "2026",
-        "Month": "10_11"
-    },
-    {
-        "quota_id": "Breo\u2666TERMINAL 1\u2666Airside\u2666#02-K46A\u2666EL",
-        "Com ID": 97,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 10,
-        "Name": "Breo",
-        "Number": "#02-K46A",
-        "Quota": 1,
-        "Year": "2026",
-        "Month": "10_11"
-    },
-    {
-        "quota_id": "Boarding Gate\u2666TERMINAL 1\u2666Airside\u2666#02-K46\u2666MP",
-        "Com ID": 98,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 1",
-        "AL": "Airside Shops",
-        "Cluster": 10,
-        "Name": "Boarding Gate",
-        "Number": "#02-K46",
         "Quota": 1,
         "Year": "2026",
         "Month": "10_11"
@@ -2094,14 +2055,14 @@
         "Month": "10_11"
     },
     {
-        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL",
+        "quota_id": "Changi Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176/177\u2666HL",
         "Com ID": 163,
         "Category": "Services",
         "Terminal": "TERMINAL 2",
         "AL": "Airside Services",
         "Cluster": 17,
-        "Name": "Ambassador Transit Hotel",
-        "Number": "#03-175/176",
+        "Name": "Changi Transit Hotel",
+        "Number": "#03-175/176/177",
         "Quota": 2,
         "Year": "2026",
         "Month": "10_11"
@@ -4824,19 +4785,6 @@
         "Month": "10_11"
     },
     {
-        "quota_id": "tealive\u2666TERMINAL 3\u2666Landside\u2666#01-23\u2666FBL",
-        "Com ID": 373,
-        "Category": "F&B",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside F&B",
-        "Cluster": 38,
-        "Name": "tealive",
-        "Number": "#01-23",
-        "Quota": 0,
-        "Year": "2026",
-        "Month": "10_11"
-    },
-    {
         "quota_id": "HEAVENLY WANG\u2666TERMINAL 3\u2666Landside\u2666#01-25\u2666FBL",
         "Com ID": 374,
         "Category": "F&B",
@@ -5599,19 +5547,6 @@
         "Cluster": 44,
         "Name": "J\u2019aime Bakehouse by La Levain",
         "Number": "#B2-25A",
-        "Quota": 0,
-        "Year": "2026",
-        "Month": "10_11"
-    },
-    {
-        "quota_id": "Nam Kee Pau/ Hong Kong Egglet/ Mee Hoon Kueh\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS",
-        "Com ID": 433,
-        "Category": "Shops",
-        "Terminal": "TERMINAL 3",
-        "AL": "Landside Shops",
-        "Cluster": 44,
-        "Name": "Nam Kee Pau/ Hong Kong Egglet/ Mee Hoon Kueh",
-        "Number": "#B2-25",
         "Quota": 0,
         "Year": "2026",
         "Month": "10_11"
@@ -6769,6 +6704,32 @@
         "Cluster": 54,
         "Name": "TWG Tea (T3 DTN Flagship)",
         "Number": "#02-58B",
+        "Quota": 1,
+        "Year": "2026",
+        "Month": "10_11"
+    },
+    {
+        "quota_id": "Eighteen Chefs\u2666TERMINAL 3\u2666Landside\u2666#B2-02\u2666FBL",
+        "Com ID": 525,
+        "Category": "F&B",
+        "Terminal": "TERMINAL 3",
+        "AL": "Landside F&B",
+        "Cluster": 54,
+        "Name": "Eighteen Chefs",
+        "Number": "#B2-02",
+        "Quota": 0,
+        "Year": "2026",
+        "Month": "10_11"
+    },
+    {
+        "quota_id": "Charles & Keith\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP",
+        "Com ID": 526,
+        "Category": "Shops",
+        "Terminal": "TERMINAL 1",
+        "AL": "Airside Shops",
+        "Cluster": 54,
+        "Name": "Charles & Keith",
+        "Number": "#02-19N",
         "Quota": 1,
         "Year": "2026",
         "Month": "10_11"
